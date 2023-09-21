@@ -128,6 +128,3 @@ url https://onecompiler.com/python/3zn6p7r2b
   }
 }
 {{< /chart >}}
-
-## notes
-+ [random walk 1d](../0057/)
