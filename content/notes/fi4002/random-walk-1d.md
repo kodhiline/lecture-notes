@@ -21,3 +21,4 @@ url: "0057"
 + [py randint](../0058/)
 + [py randint for random walk 1d](../0059)
 + [py int random walk final position](../0060)
++ [py int ranwalk finpos not flat](../0061)
