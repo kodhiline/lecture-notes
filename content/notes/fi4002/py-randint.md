@@ -54,52 +54,52 @@ url https://onecompiler.com/python/3zn6p7r2b
       {
         label: '1st',
         data: [50, 31, 43, 34, 42],
-        backgroundColor: 'rgba(54, 162, 235, 0.2)',
+        backgroundColor: 'rgba(54, 162, 235, 0.5)',
       },
       {
         label: '2nd',
         data: [31, 40, 46, 42, 41],
-        backgroundColor: 'rgba(54, 162, 235, 0.2)',
+        backgroundColor: 'rgba(54, 162, 235, 0.5)',
      },
       {
         label: '3rd',
         data: [40, 41, 49, 35, 35],
-        backgroundColor: 'rgba(54, 162, 235, 0.2)',
+        backgroundColor: 'rgba(54, 162, 235, 0.5)',
       },
       {
         label: '4th',
         data: [39, 41, 49, 41, 30],
-        backgroundColor: 'rgba(54, 162, 235, 0.2)',
+        backgroundColor: 'rgba(54, 162, 235, 0.5)',
      },
       {
         label: '5th',
         data: [47, 38, 38, 37, 40],
-        backgroundColor: 'rgba(54, 162, 235, 0.2)',
+        backgroundColor: 'rgba(54, 162, 235, 0.5)',
       },
       {
         label: '5th',
         data: [45, 49, 34, 38, 34],
-        backgroundColor: 'rgba(54, 162, 235, 0.2)',
+        backgroundColor: 'rgba(54, 162, 235, 0.5)',
       },
       {
         label: '6th',
         data: [41, 37, 39, 41, 42],
-        backgroundColor: 'rgba(54, 162, 235, 0.2)',
+        backgroundColor: 'rgba(54, 162, 235, 0.5)',
       },
       {
         label: '8th',
         data: [29, 34, 47, 54, 36],
-        backgroundColor: 'rgba(54, 162, 235, 0.2)',
+        backgroundColor: 'rgba(54, 162, 235, 0.5)',
       },
       {
         label: '9th',
         data: [27, 34, 55, 46, 38],
-        backgroundColor: 'rgba(54, 162, 235, 0.2)',
+        backgroundColor: 'rgba(54, 162, 235, 0.5)',
       },
       {
         label: '10th',
         data: [51, 25, 46, 40, 38],
-        backgroundColor: 'rgba(54, 162, 235, 0.2)',
+        backgroundColor: 'rgba(54, 162, 235, 0.5)',
       },
     ]
   },
