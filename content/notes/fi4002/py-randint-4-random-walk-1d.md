@@ -46,7 +46,7 @@ url https://onecompiler.com/python/3zn74x3a5
 ## chart
 {{< chart 50 250 >}}
 {
-  type: 'bar',
+  type: 'line',
   data: {
     labels: [3, 4, 5, 6, 7],
     datasets: [
