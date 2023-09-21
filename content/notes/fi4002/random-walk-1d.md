@@ -20,3 +20,4 @@ url: "0057"
 ## code
 + [py randint](../0058/)
 + [py randint for random walk 1d](../0059)
++ [py int random walk final position](../0060)
