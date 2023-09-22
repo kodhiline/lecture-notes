@@ -22,3 +22,9 @@ url: "0057"
 + [py randint for random walk 1d](../0059)
 + [py int random walk final position](../0060)
 + [py int ranwalk finpos not flat](../0061)
+
+
+## video
++ PBS Infinite Series, "What is a Random Walk? | Infinite Series",  24.03.2017 \
+url https://www.youtube.com/watch?v=stgYW6M5o4k \
+{{< youtube stgYW6M5o4k >}}
