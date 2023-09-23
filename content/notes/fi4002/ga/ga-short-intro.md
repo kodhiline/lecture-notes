@@ -33,6 +33,25 @@ url: "0062"
 + Other term is individual, which is encoded in a chromosome ([Ray, 2016](https://stackoverflow.com/a/39740926/9475509)).
 
 
+## chromosome
++ Each chromosome has two representation ([Gad, 2018](https://towardsdatascience.com/introduction-to-optimization-with-genetic-algorithm-2f5001d9964b))
+  - genotype, which is the set of genes representing the chromosome,
+  - fenotype, which is the actual physical representation of the chromosome.
++ Solution in phenotype space or actual solution space is encoded to solution in genotype space or computational space, and it is decoded back in opposite direction ([Tutorials Point, 2023](https://www.tutorialspoint.com/genetic_algorithms/genetic_algorithms_fundamentals.htm)).
+
+{{< mermaid >}}
+flowchart
+  subgraph I["Individual"]
+    direction LR
+    G --"decoding"---> F
+    F --"encoding"---> G
+    F(["Phenotype space<br>(actual solution space)<br><br>a solution"])
+    G(["Genotyp space<br>(computational space)<br><br>11001010"])
+  end
+  style I rx:50, ry:50;
+{{< /mermaid >}}
+
+
 ## operators
 There are four operators used in GA during the search process, which are ([Katoch et al., 2021](https://doi.org/10.1007/s11042-020-10139-6))
 + Encoding: binary, octal, hexadecimal, permutation, value, tree;
