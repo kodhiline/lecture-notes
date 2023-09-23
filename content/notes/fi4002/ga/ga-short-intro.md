@@ -22,6 +22,17 @@ url: "0062"
 + There is also a list of applications of GA categorized according to the fields, e.g. i) natural sciences, mathematics, and computer science, ii) earth sciences, finance and economics, iii) social sciences, iv) industry, management, and engineering, v) biological science and bioinformatics, vi) general applications, vii) physics, and viii) others ([Wikipedia, 2023](https://en.wikipedia.org/w/index.php?oldid=1173413907)).
 
 
+## terminology
++ There are some terms used in GA ([Muthee, 2021](https://www.section.io/engineering-education/the-basics-of-genetic-algorithms-in-ml/)), which are
+  - Population, which is a subset of all probable solutions that can solve the given problem,
+  - Chromosome, which is one of the solution in the population,
+  - Gene, which is an element in a chromosome,
+  - Allele, which is the value give to a gene in a specific chromosome,
+  - Fitness function, that maps the solution to its suitability in solving the problem,
+  - Genetic operators, which are used to change the genetic composition of next generation from information of previous generation.
++ Other term is individual, which is encoded in a chromosome ([Ray, 2016](https://stackoverflow.com/a/39740926/9475509)).
+
+
 ## operators
 There are four operators used in GA during the search process, which are ([Katoch et al., 2021](https://doi.org/10.1007/s11042-020-10139-6))
 + Encoding \
