@@ -35,11 +35,7 @@ url: "0062"
 
 ## operators
 There are four operators used in GA during the search process, which are ([Katoch et al., 2021](https://doi.org/10.1007/s11042-020-10139-6))
-+ Encoding \
-  binary, octal, hexadecimal, permutation, value, three;
-+ Selection \
-  roulette wheel, rank, tournament, Boltzmann, stochastic unversal;
-+ Crossover \
-  single point, k-point, uniform, partially mapped, order, precedence preserving, shuffle, reduced surrogate, cycle;
-+ Mutation \
-  displacement, inversion, scramble, bit flipping, reversing.
++ Encoding: binary, octal, hexadecimal, permutation, value, tree;
++ Selection: roulette wheel, rank, tournament, Boltzmann, stochastic unversal;
++ Crossover: single point, k-point, uniform, partially mapped, order, precedence preserving, shuffle, reduced surrogate, cycle;
++ Mutation: displacement, inversion, scramble, bit flipping, reversing.
