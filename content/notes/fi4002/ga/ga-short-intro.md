@@ -33,6 +33,86 @@ url: "0062"
 + Other term is individual, which is encoded in a chromosome ([Ray, 2016](https://stackoverflow.com/a/39740926/9475509)).
 
 
+## schematic
+{{< html >}}
+<style>
+.gene {
+  width: 25px;
+  height: 25px;
+  border: 1px solid currentcolor;
+  display:inline-block;
+  font-size: 100%;
+  font-family: Courier;
+}
+.chromosome {
+  width: 240px;
+  height: 34px;
+  border: 1px solid currentcolor;
+  margin: 2px;
+  display:inline-block;
+  font-size: 100%;
+  padding: 2px;
+}
+.population {
+  width: 270px;
+  height: 250px;
+  border: 1px solid currentcolor;
+  display:inline-block;
+  padding: 10px;
+}
+</style>
+<div class="population">
+  <div class="chromosome">
+    <div class="gene">1</div>
+    <div class="gene">1</div>
+    <div class="gene">0</div>
+    <div class="gene">0</div>
+    <div class="gene">0</div>
+    <div class="gene">1</div>
+    <div class="gene">0</div>
+    <div class="gene">0</div>
+  </div>
+  <br />
+  <div class="chromosome">
+    <div class="gene">0</div>
+    <div class="gene">0</div>
+    <div class="gene">0</div>
+    <div class="gene">1</div>
+    <div class="gene">0</div>
+    <div class="gene">0</div>
+    <div class="gene">1</div>
+    <div class="gene">1</div>
+  </div>
+  <br />
+  <div class="chromosome">
+    <div class="gene">0</div>
+    <div class="gene">0</div>
+    <div class="gene">1</div>
+    <div class="gene">1</div>
+    <div class="gene">0</div>
+    <div class="gene">0</div>
+    <div class="gene">0</div>
+    <div class="gene">0</div>
+  </div>
+  <br />
+  <br />
+  &middot; &middot; &middot;
+  <br />
+  <br />
+  <div class="chromosome">
+    <div class="gene">0</div>
+    <div class="gene">1</div>
+    <div class="gene">0</div>
+    <div class="gene">1</div>
+    <div class="gene">0</div>
+    <div class="gene">1</div>
+    <div class="gene">1</div>
+    <div class="gene">1</div>
+  </div>
+</div>
+{{< /html >}}
+
+
 ## chromosome
 + Each chromosome has two representation ([Gad, 2018](https://towardsdatascience.com/introduction-to-optimization-with-genetic-algorithm-2f5001d9964b))
   - genotype, which is the set of genes representing the chromosome,
