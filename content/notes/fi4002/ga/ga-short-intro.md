@@ -196,11 +196,11 @@ flowchart
 flowchart TB
   B --> PI --> FC --> o1a
   o1b --> SC
-  SC --"Y"--> SR --> E
   SC --"N"--> S --> o2a
-  o2b --> GO ---> o3a
+  SC --"Y"--> SR --> E
+  o2b --> GO --> o3a
   C -.- M
-  o3b ---> FC
+  o3b --> FC
   FC["Fitness<br>calculation"]
   SC{"Stop<br>criteria"}
   B(["Begin"])
@@ -220,7 +220,6 @@ flowchart TB
   end
   subgraph GO["Genetic operations"]
     direction LR
-    FS --"encoding"--> GS
     C["Crossover"]
     M["Mutation"]
   end
@@ -234,12 +233,19 @@ flowchart TB
   style GO rx:20, ry:20;
   style SR rx:20, ry:20;
 {{< /mermaid >}}
-
++ Operators are used in encoding-decoding, selection, crossover and mutation.
 
 
 ## operators
-There are four operators used in GA during the search process, which are ([Katoch et al., 2021](https://doi.org/10.1007/s11042-020-10139-6))
+There are four operator categories used in GA during the search process, which are ([Katoch et al., 2021](https://doi.org/10.1007/s11042-020-10139-6))
 + Encoding: binary, octal, hexadecimal, permutation, value, tree;
 + Selection: roulette wheel, rank, tournament, Boltzmann, stochastic unversal;
 + Crossover: single point, k-point, uniform, partially mapped, order, precedence preserving, shuffle, reduced surrogate, cycle;
 + Mutation: displacement, inversion, scramble, bit flipping, reversing.
+
+
+## codes
++ Optimization of sum of square $x$ using roulette selection, single point crossover, and mutation is available in Python ([Shirol & Iriondo, 2021](https://pub.towardsai.net/genetic-algorithm-ga-introduction-with-example-code-e59f9bc58eaf)).
++ Modification of string to match target string using crossover and mutation is available in C++ and Python ([overide, 2023](https://www.geeksforgeeks.org/genetic-algorithms/)).
++ Binary encoding
+([Brownlee, 2021](https://machinelearningmastery.com/simple-genetic-algorithm-from-scratch-in-python/))
