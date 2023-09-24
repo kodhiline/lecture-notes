@@ -1,6 +1,6 @@
 ---
 title: "ga short intro"
-date: 2023-09-21T19:07:00+07:00
+date: 2023-09-23T19:07:00+07:00
 authors: ['Sparisoma Viridi']
 tags: ['fi4002']
 draft: false
