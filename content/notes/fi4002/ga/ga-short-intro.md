@@ -34,18 +34,69 @@ url: "0062"
 
 
 ## schematic
++ Hierarchical relations between allele, gene, chromosome, and population can be illustrated as follow
+
 {{< html >}}
 <style>
-.gene {
-  width: 25px;
-  height: 25px;
-  border: 1px solid currentcolor;
-  display:inline-block;
-  font-size: 100%;
-  font-family: Courier;
+:root {
+  --gene-background: darkgreen;
+  --gene-background-dark: #efe;
+  --gene-color: white;
+  --gene-color-dark: green;
+  --hg-allele: magenta;
+  --hg-allele-dark: red;
+  --hg-gene: darkcyan;
+  --hg-gene-dark: cyan;
+  --hg-chromosome: red;
+  --hg-chromosome-dark: darkred;
 }
+
+body.colorscheme-dark div.gene{
+  background: var(--gene-background-dark);
+  color: var(--gene-color-dark);
+}
+
+body.colorscheme-light div.hg-allele {
+  color: var(--hg-allele);
+}
+
+body.colorscheme-dark div.hg-allele {
+  color: var(--hg-allele-dark);
+}
+
+body.colorscheme-light div.hg-gene {
+  background: var(--hg-gene);
+}
+
+body.colorscheme-dark div.hg-gene {
+  background: var(--hg-gene-dark);
+}
+
+body.colorscheme-light div.hg-chromosome {
+  background: var(--hg-chromosome);
+  padding: 3px;
+}
+
+body.colorscheme-dark div.hg-chromosome {
+  background: var(--hg-chromosome-dark);
+  border: 1px solid var(--hg-chromosome);
+  padding: 0px;
+}
+
+
+.gene {
+  width: 26px;
+  height: 26px;
+  display: inline-block;
+  font-size: 100%;
+  font-family: Arial;
+  font-weight: bold;
+  background: var(--gene-background);
+  color: var(--gene-color);
+}
+
 .chromosome {
-  width: 240px;
+  width: 250px;
   height: 34px;
   border: 1px solid currentcolor;
   margin: 2px;
@@ -53,23 +104,25 @@ url: "0062"
   font-size: 100%;
   padding: 2px;
 }
+
 .population {
-  width: 270px;
-  height: 250px;
+  width: 276px;
+  height: 276px;
   border: 1px solid currentcolor;
   display:inline-block;
   padding: 10px;
 }
 </style>
 <div class="population">
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Allele &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Gene &nbsp; &nbsp; &nbsp;
   <div class="chromosome">
     <div class="gene">1</div>
+    <div class="gene hg-allele">1</div>
+    <div class="gene hg-allele">0</div>
+    <div class="gene">0</div>
+    <div class="gene">0</div>
     <div class="gene">1</div>
-    <div class="gene">0</div>
-    <div class="gene">0</div>
-    <div class="gene">0</div>
-    <div class="gene">1</div>
-    <div class="gene">0</div>
+    <div class="gene hg-gene">0</div>
     <div class="gene">0</div>
   </div>
   <br />
@@ -84,7 +137,7 @@ url: "0062"
     <div class="gene">1</div>
   </div>
   <br />
-  <div class="chromosome">
+  <div class="chromosome hg-chromosome">
     <div class="gene">0</div>
     <div class="gene">0</div>
     <div class="gene">1</div>
@@ -95,6 +148,7 @@ url: "0062"
     <div class="gene">0</div>
   </div>
   <br />
+  Chromosome
   <br />
   &middot; &middot; &middot;
   <br />
@@ -110,7 +164,10 @@ url: "0062"
     <div class="gene">1</div>
   </div>
 </div>
+<br /> Population
 {{< /html >}}
+
++ Notice that in this case allele has only two possible values, which are 0 and 1.
 
 
 ## chromosome
@@ -126,10 +183,58 @@ flowchart
     G --"decoding"---> F
     F --"encoding"---> G
     F(["Phenotype space<br>(actual solution space)<br><br>a solution"])
-    G(["Genotyp space<br>(computational space)<br><br>11001010"])
+    G(["Genotype space<br>(computational space)<br><br>11001010"])
   end
   style I rx:50, ry:50;
 {{< /mermaid >}}
+
+
+## flowchart
++ How GA works can be simplified as follow ([Sharma, 2022](https://vidyasheela.com/post/gentle-introduction-to-genetic-algorithm))
+
+{{< mermaid >}}
+flowchart TB
+  B --> PI --> FC --> o1a
+  o1b --> SC
+  SC --"Y"--> SR --> E
+  SC --"N"--> S --> o2a
+  o2b --> GO ---> o3a
+  C -.- M
+  o3b ---> FC
+  FC["Fitness<br>calculation"]
+  SC{"Stop<br>criteria"}
+  B(["Begin"])
+  E(["End"])
+  o1a(("1"))
+  o1b(("1"))
+  o2a(("2"))
+  o2b(("2"))
+  o3a(("3"))
+  o3b(("3"))
+  S["Selection"]
+  subgraph PI["Population initialization"]
+    direction TB
+    FS --"encoding"--> GS
+    FS(["Phenotype space<br>e.g. 1st route,<br>2nd route, .."])
+    GS(["Genotype space<br>e.g. 1928564370",<br>1234056789, ..])
+  end
+  subgraph GO["Genetic operations"]
+    direction LR
+    FS --"encoding"--> GS
+    C["Crossover"]
+    M["Mutation"]
+  end
+  subgraph SR["Show result"]
+    direction TB
+    GS2 --"decoding"--> FS2
+    FS2(["Phenotype space<br>e.g. best route"])
+    GS2(["Genotype space<br>e.g. 6438570192".])
+  end
+  style PI rx:20, ry:20;
+  style GO rx:20, ry:20;
+  style SR rx:20, ry:20;
+{{< /mermaid >}}
+
 
 
 ## operators
