@@ -244,8 +244,17 @@ There are four operator categories used in GA during the search process, which a
 + Mutation: displacement, inversion, scramble, bit flipping, reversing.
 
 
+## encoding
++ There are some encoding techniques in Genetic Algorithm, e.g. binary, value, and order ([Garg, 2021](https://medium.com/geekculture/encoding-techniques-in-genetic-algorithm-371bccbe4bf7)).
++ Encoding schemes in Genetic Algorithm and their analysis ([Kumar, 2013](https://garph.co.uk/ijarie/mar2013/1.pdf)).
++ Different problem may require different encoding ([Samanta, 2016](https://cse.iitkgp.ac.in/~dsamanta/courses/archive/sca/Slides/SCA%20GA-03.pdf)).
++ A proper genetic encoding will enable an efficient computational implementation ([Gaggero, 2020](https://www.hindawi.com/journals/mpe/2020/1203248/)).
+
+
 ## codes
 + Optimization of sum of square $x$ using roulette selection, single point crossover, and mutation is available in Python ([Shirol & Iriondo, 2021](https://pub.towardsai.net/genetic-algorithm-ga-introduction-with-example-code-e59f9bc58eaf)).
 + Modification of string to match target string using crossover and mutation is available in C++ and Python ([overide, 2023](https://www.geeksforgeeks.org/genetic-algorithms/)).
-+ Binary encoding
-([Brownlee, 2021](https://machinelearningmastery.com/simple-genetic-algorithm-from-scratch-in-python/))
++ Maximazing array to make all elements one and a continues function is available in Python ([Brownlee, 2021](https://machinelearningmastery.com/simple-genetic-algorithm-from-scratch-in-python/))
++ Implementation Traveling salesman problem is available in JavaScript ([Doglio, 2023](https://blog.bitsrc.io/javascript-meets-genetics-how-to-create-genetic-algorithms-ab7796e01280)).
++ Application of GA for particles driving themselves around a track is available in JavaScript ([Garrigan, 2021](https://dev.to/lukegarrigan/genetic-algorithms-in-javascript-mc3)).
++ GA for population whose target is to type a certain string is available in JavaScript ([This Dot, 2019](https://www.thisdot.co/blog/quick-intro-to-genetic-algorithms-with-a-javascript-example/)).
