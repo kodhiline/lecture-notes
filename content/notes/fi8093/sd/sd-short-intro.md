@@ -2,7 +2,7 @@
 title: "sd short intro"
 date: 2023-09-24T20:09:00+07:00
 authors: ['Sparisoma Viridi']
-tags: ['fi4002']
+tags: ['fi8093']
 draft: false
 math: true
 url: "0063"

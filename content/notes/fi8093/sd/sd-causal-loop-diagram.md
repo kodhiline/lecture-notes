@@ -2,7 +2,7 @@
 title: "sd causal loop diagram"
 date: 2023-09-25T04:19:00+07:00
 authors: ['Sparisoma Viridi']
-tags: ['fi4002']
+tags: ['fi8093']
 draft: false
 math: true
 url: "0064"
