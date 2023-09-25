@@ -1795,7 +1795,7 @@ It is available at https://onecompiler.com/python/3znm4u5zv.
 
 
 ## summaries
-+ Unrealistic results are obtained for $\Delta t \gt 0.4T$.
++ Unrealistic results are obtained for $\Delta t \ge 0.4T$.
 + Displacement could be larger than amplitude for $\Delta t = 0.04T$.
 + It is sufficient for $\Delta t = 0.01 T$.
 + It might be too fine for $\Delta t = 0.004 T$.
