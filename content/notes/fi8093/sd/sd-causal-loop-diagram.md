@@ -24,22 +24,25 @@ In CLD variables are represented as texts and causal relationships between them 
 {{< mermaid >}}
 flowchart LR
   P1 -.- P2
-  D --"( &mdash; )"---> P1
-  P1 --"[ + ]"---> D
-  P2 --"[ + ]"---> B
-  B --"( + )"---> P2
+  D --"&rang;&#x2795;&rang;"---> P1
+  P1 --"|&#x2796;|"---> D
+  P2 --"|&#x2795;|"---> B
+  B --"&lang;&#x2795;&lang;"---> P2
   subgraph BL["Balancing loop"]
     direction LR
-    D(("Death rate"))
+    D(("Death"))
     P1(("Population"))
   end
   subgraph RL["Reinforcing loop"]
     direction LR
     P2(("Population"))
-    B(("Birth rate"))
+    B(("Birth"))
   end
   style BL rx:40, ry:40
   style RL rx:40, ry:40
+  linkStyle default color:magenta
 {{< /mermaid >}}
 
 + Population element should be in the same shape, but it is drawn separately as in above due to limitation of Mermaid ([Baketarić & Vinod, 2023](https://github.com/orgs/mermaid-js/discussions/4308#discussion-5100526)), in order to stress the two loops, balancing and reinforcing loops.
++ Common symbol for time delay is `||` which is used as `|+|` and `|-|` here.
++ The symbol `>>` or `<<` is for no time delay.
