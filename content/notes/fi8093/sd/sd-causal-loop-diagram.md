@@ -30,13 +30,13 @@ flowchart LR
   B --"&lang;&#x2795;&lang;"---> P2
   subgraph BL["Balancing loop"]
     direction LR
-    D(("Death rate"))
+    D(("Death"))
     P1(("Population"))
   end
   subgraph RL["Reinforcing loop"]
     direction LR
     P2(("Population"))
-    B(("Birth rate"))
+    B(("Birth"))
   end
   style BL rx:40, ry:40
   style RL rx:40, ry:40
@@ -55,7 +55,10 @@ $$\tag{1}
 B_t = c_B P.
 $$
 + Date rate is defined as
-$$\tag{1}
+$$\tag{2}
 D_t = c_D P.
 $$
 + Rate of change of the population
+$$\tag{3}
+\frac{dP}{dt} = B_t - D_t.
+$$
