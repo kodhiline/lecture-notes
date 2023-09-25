@@ -30,13 +30,13 @@ flowchart LR
   B --"&lang;&#x2795;&lang;"---> P2
   subgraph BL["Balancing loop"]
     direction LR
-    D(("Death"))
+    D(("Death rate"))
     P1(("Population"))
   end
   subgraph RL["Reinforcing loop"]
     direction LR
     P2(("Population"))
-    B(("Birth"))
+    B(("Birth rate"))
   end
   style BL rx:40, ry:40
   style RL rx:40, ry:40
@@ -46,3 +46,16 @@ flowchart LR
 + Population element should be in the same shape, but it is drawn separately as in above due to limitation of Mermaid ([Baketarić & Vinod, 2023](https://github.com/orgs/mermaid-js/discussions/4308#discussion-5100526)), in order to stress the two loops, balancing and reinforcing loops.
 + Common symbol for time delay is `||` which is used as `|+|` and `|-|` here.
 + The symbol `>>` or `<<` is for no time delay.
+
+
+## equation
++ Population is symbolized with $P$.
++ Birth rate is defined as
+$$\tag{1}
+B_t = c_B P.
+$$
++ Date rate is defined as
+$$\tag{1}
+D_t = c_D P.
+$$
++ Rate of change of the population
