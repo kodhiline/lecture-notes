@@ -49,16 +49,20 @@ flowchart LR
 
 
 ## equation
-+ Population is symbolized with $P$.
-+ Birth rate is defined as
+Some variables and equations related to previous diagram are  as follow ([NRHS Teacher, 2016](https://www.nausetschools.org/cms/lib/MA02212418/Centricity/Domain/204/Rate%20and%20Growth%20Notes%20AP%20Biology%202017.pdf)).
++ Population size is symbolized with $N$.
++ Population growth is
 $$\tag{1}
-B_t = c_B P.
+\frac{dN}{dt} = B - D,
 $$
-+ Date rate is defined as
+where $B$ and $D$ stand for birth and death rates, respectively.
++ Exponential growth is
 $$\tag{2}
-D_t = c_D P.
+\frac{dN}{dt} = r_{\max} N,
 $$
-+ Rate of change of the population
+where $r_{\max}$ is maximum per capita growth rate of population.
++ Logistic growth is
 $$\tag{3}
-\frac{dP}{dt} = B_t - D_t.
+\frac{dN}{dt} = r_{\max} N \left( \frac{K - N}{K} \right),
 $$
+where $K$ is carrying capacity.
