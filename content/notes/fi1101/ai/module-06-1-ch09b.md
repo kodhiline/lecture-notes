@@ -10,8 +10,69 @@ url: "0068"
 Copyright © 2018 John Wiley & Sons, Inc. and primarily advanced by Prof. A. Iskandar[.](https://cdn-edunex.itb.ac.id/27677-Elementary-Physics-I/16711-Momentum-Linear-/1695691895156_Handout-FI1101-Module_06-2---ch09b.pdf)
 
 
-## ..
-..
+## 9-6 Momentum and Kinetic Energy in Collisions (1 of 8)
+Learning Objectives
++ 9.28 Distinguish between elastic collisions, inelastic collisions, and
+completely inelastic collisions.
++ 9.29 Identify a one-dimensional collision as one where the objects
+move along a single axis, both before and after the collision.
++ 9.30 Apply the conservation of momentum for an isolated onedimensional collision to relate the initial momenta of the
+objects to their momenta after the collision.
++ 9.31 Identify that in an isolated system, the momentum and
+velocity of the center of mass are not changed even if the
+objects collide.
+
+
+## 9-7 Elastic Collisions in One Dimension (1 of 12)
+Learning Objectives
++ 9.32 For isolated elastic collisions in one dimension,
+apply the conservation laws for both the total energy
+and the net momentum of the colliding bodies to
+relate the initial values to the values after the
+collision.
++ 9.33 For a projectile hitting a stationary target, identify
+the resulting motion for the three general cases:
+equal masses, target more massive than projectile,
+projectile more massive than target.
+
+
+## 9-8 Collisions in Two Dimensions (1 of 4)
+Learning Objectives
++ 9.34 For an isolated system in which a two-dimensional collision occurs,
+apply the conservation of momentum along each axis of a coordinate
+system to relate the momentum components along an axis before the
+collision to the momentum components along the same axis after the
+collision.
++ 9.35 For an isolated system in which a two-dimensional elastic collision
+occurs, (a) apply the conservation of momentum along each axis to
+relate the momentum components along an axis before the collision
+to the momentum components along the same axis after the collision
+and (b) apply the conservation of total kinetic energy to relate the
+kinetic energies before and after the collision.
+
+
+## 9-9 Systems with Varying Mass: A Rocket (1 of 7)
+Learning Objectives
++ 9.36 Apply the first rocket equation to relate the rate at which
+the rocket loses mass, the speed of the exhaust products
+relative to the rocket, the mass of the rocket, and the
+acceleration of the rocket.
++ 9.37 Apply the second rocket equation to relate the change in
+the rocket's speed to the relative speed of the exhaust
+products and the initial and final mass of the rocket.
++ 9.38 For a moving system undergoing a change in mass at a
+given rate, relate that rate to the change in momentum.
+
+
+## 9 Summary (1 of 5)
++ Linear Momentum & Newton's 2nd Law
++ Collision and Impulse
++ Conservation of Linear Momentum
++ Inelastic Collision in 1D
++ Motion of the Center of Mass
++ Collisions in Two Dimensions
++ Elastic Collisions in One Dimension
++ Variable-Mass Systems
 
 
 ## Copyright
