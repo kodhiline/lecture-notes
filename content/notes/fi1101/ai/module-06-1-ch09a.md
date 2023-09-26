@@ -10,6 +10,12 @@ url: "0067"
 Copyright © 2018 John Wiley & Sons, Inc. and primarily advanced by Prof. A. Iskandar[.](https://cdn-edunex.itb.ac.id/27677-Elementary-Physics-I/16711-Momentum-Linear-/1695691865898_Handout-FI1101-Module_06-1---ch09a.pdf)
 
 
+## bugx
++ [momentum](https://bugx.vercel.app/pages/0100.html)
++ [conservation of momentum](https://bugx.vercel.app/pages/0101.html)
++ [impulse](https://bugx.vercel.app/pages/0102.html)
+
+
 ## 9-1 Center of Mass (1 of 14)
 Learning Objectives
 + 9.01 Given the positions of several particles along an axis or a
