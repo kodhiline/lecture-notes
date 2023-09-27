@@ -30,5 +30,11 @@ url: "0069"
 + Google scraps a website and shows some information about it as given above.
 
 
+## hands-on
++ [Install Node.js: Server-side web applications using JavaScript](https://medium.com/@6unpnp/install-node-js-25f576ed92f5)
++ [My first web server: Begin the journey with Node.js](https://medium.com/@6unpnp/my-first-web-server-b8e532c1d0fa)
++ [Scraping your webpage: Using Node.js to scrap you GitHub Pages webpage](https://medium.com/@6unpnp/scraping-your-webpage-f4fde3a465db)
+
+
 ## notes
 + Screenshot in Google Chrome is captured using a Chrome extension, [SVG Screenshot](https://chrome.google.com/webstore/detail/svg-screenshot/nfakpcpmhhilkdpphcjgnokknpbpdllg/related).
