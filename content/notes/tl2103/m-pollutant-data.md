@@ -39,7 +39,6 @@ disp("Choose the plot style:");
 disp("1. Two Plots in One Graph");
 disp("2. Two Subplots in One Figure");
 choice = input("Enter you choice (1 or 2): ");
-disp(choice);
 
 % data time point
 time = [];
@@ -77,21 +76,26 @@ disp(NO2);
 
 % plot graphs with condition
 if choice == 1
-    plot(time, pm2_5, 'ob', time, NO2, 'dr');
-    grid on;
+  plot(time, pm2_5, 'ob', time, NO2, 'dr');
+  grid on;
 else
-
+  subplot(2, 1, 1);
+  plot(time, pm2_5, 'ob');
+  grid on;
+  
+  subplot(2, 1, 2);
+  plot(time, NO2, 'dr');
+  grid on;
 end
 ```
 
-## result
+## result 1
 ```bash
 Choose the plot style:
 1. Two Plots in One Graph
 2. Two Subplots in One Figure
 Enter you choice (1 or 2): 
 1
-     1
 
 Input data for Time Point 1 (Enter -1 to finish):
 Enter PM2.5 concentration (ug/m3):
@@ -114,3 +118,36 @@ Enter PM2.5 concentration (ug/m3):
 ```
 
 {{< svg "img/tl2103/pollutant_graph_1.svg" >}}
+
+
+## result 2
+```bash
+Choose the plot style:
+1. Two Plots in One Graph
+2. Two Subplots in One Figure
+Enter you choice (1 or 2): 
+2
+
+Input data for Time Point 1 (Enter -1 to finish):
+Enter PM2.5 concentration (ug/m3):
+23
+Enter N02 concentration (ppb):
+20
+Input data for Time Point 2 (Enter -1 to finish):
+Enter PM2.5 concentration (ug/m3):
+32
+Enter N02 concentration (ppb):
+15
+Input data for Time Point 3 (Enter -1 to finish):
+Enter PM2.5 concentration (ug/m3):
+-1
+     1     2
+
+    23    32
+
+    20    15
+```
+
+{{< svg "img/tl2103/pollutant_graph_2a.svg" >}}
+
+{{< svg "img/tl2103/pollutant_graph_2b.svg" >}}
