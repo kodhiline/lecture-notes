@@ -76,6 +76,7 @@ disp(NO2);
 
 % plot graphs with condition
 if choice == 1
+  subplot(1, 1, 1);
   plot(time, pm2_5, 'ob', time, NO2, 'dr');
   grid on;
 else
@@ -149,5 +150,4 @@ Enter PM2.5 concentration (ug/m3):
 ```
 
 {{< svg "img/tl2103/pollutant_graph_2a.svg" >}}
-
 {{< svg "img/tl2103/pollutant_graph_2b.svg" >}}
