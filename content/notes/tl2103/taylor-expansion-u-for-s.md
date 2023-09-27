@@ -2,7 +2,7 @@
 title: "taylor expansion u(x) for s(u, x, E)"
 date: 2023-09-19T19:34:00+07:00
 authors: ['Sparisoma Viridi']
-tags: ['TL2103']
+tags: ['tl2103']
 draft: false
 math: true
 url: "0054"

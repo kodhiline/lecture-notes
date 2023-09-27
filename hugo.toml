@@ -221,17 +221,18 @@ type = "application/rss+xml"
 [languages.en]
 languageName = "<span style='font-variant: small-caps;'>en</span>"
 
-[[languages.en.menu.main]]
-name = "About"
-weight = 1
-url = "about/"
+#[[languages.en.menu.main]]
+#name = "About"
+#weight = 1
+#url = "about/"
 
 [[languages.en.menu.main]]
 name = "Notes"
-weight = 2
+#weight = 2
+weight = 1
 url = "notes/"
 
-[[languages.en.menu.main]]
-name = "Tags"
-weight = 3
-url = "tags/"
+#[[languages.en.menu.main]]
+#name = "Tags"
+#weight = 3
+#url = "tags/"
