@@ -107,14 +107,14 @@ body.colorscheme-dark div.hg-chromosome {
 
 .population {
   width: 276px;
-  height: 276px;
+  height: 300px;
   border: 1px solid currentcolor;
   display:inline-block;
   padding: 10px;
 }
 </style>
 <div class="population">
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Allele &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Gene &nbsp; &nbsp; &nbsp;
+   &nbsp; &nbsp; Allele &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Gene 
   <div class="chromosome">
     <div class="gene">1</div>
     <div class="gene hg-allele">1</div>
@@ -246,7 +246,7 @@ There are four operator categories used in GA during the search process, which a
 
 ## encoding
 + There are some encoding techniques in Genetic Algorithm, e.g. binary, value, and order ([Garg, 2021](https://medium.com/geekculture/encoding-techniques-in-genetic-algorithm-371bccbe4bf7)).
-+ Encoding schemes in Genetic Algorithm and their analysis ([Kumar, 2013](https://garph.co.uk/ijarie/mar2013/1.pdf)).
++ There encoding schemes in Genetic Algorithm accompanied with the analysis ([Kumar, 2013](https://garph.co.uk/ijarie/mar2013/1.pdf)).
 + Different problem may require different encoding ([Samanta, 2016](https://cse.iitkgp.ac.in/~dsamanta/courses/archive/sca/Slides/SCA%20GA-03.pdf)).
 + A proper genetic encoding will enable an efficient computational implementation ([Gaggero, 2020](https://www.hindawi.com/journals/mpe/2020/1203248/)).
 
