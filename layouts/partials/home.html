@@ -1,0 +1,11 @@
+<section class="container taxonomy">
+  <ul>
+  {{ range .Site.Taxonomies.tags }}
+    <li>
+    <span class="taxonomy-element">
+    <a style="color:#ccc;" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a><sup>{{ .Count }}</sup></span>
+    </li>
+  {{ end }}
+  </ul>
+</section>
+
