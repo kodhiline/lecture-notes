@@ -24,3 +24,11 @@ url: "0069"
 
 ## illustration
 + Google search for `butiran.js` will give the result as in https://www.google.com/search?q=butiran.js.
+
+{{< svg "img/fi4002/google_search_butiran_js.svg" >}}
+
++ Google scraps a website and shows some information about it as given above.
+
+
+## notes
++ Screenshot in Google Chrome is captured using a Chrome extension, [SVG Screenshot](https://chrome.google.com/webstore/detail/svg-screenshot/nfakpcpmhhilkdpphcjgnokknpbpdllg/related).
