@@ -1,11 +1,17 @@
 <section class="container taxonomy">
+  {{ $totalNote := 0 }}
   <ul>
   {{ range .Site.Taxonomies.tags }}
     <li>
     <span class="taxonomy-element">
-    <a style="color:#ccc;" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a><sup>{{ .Count }}</sup></span>
+    <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a><sup>{{ .Count }}</sup></span>
     </li>
+    {{ $totalNote = add $totalNote .Count }}
   {{ end }}
+  <li>
+  <span class="taxonomy-element">
+  <a href="{{ .Site.BaseURL }}/notes">no7350</a><sup>{{ $totalNote }}</sup></span>
+  </li>
   </ul>
 </section>
 
