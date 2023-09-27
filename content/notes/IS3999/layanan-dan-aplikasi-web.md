@@ -2,7 +2,7 @@
 title: "layanan dan aplikasi web"
 date: 2023-08-27T18:59:00+07:00
 authors: ['Suhardi', 'Sparisoma Viridi']
-tags: ['is3999', 'if3110', 'if4052', 'ii3120']
+tags: ['is3999']
 draft: false
 math: true
 url: "0020"

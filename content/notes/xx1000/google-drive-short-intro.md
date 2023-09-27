@@ -2,7 +2,7 @@
 title: "google drive short intro"
 date: 2023-09-04T17:44:00+07:00
 authors: ['Sparisoma Viridi']
-tags: ['xx1000', 'is3999']
+tags: ['xx1000']
 draft: false
 math: true
 url: "0029"
