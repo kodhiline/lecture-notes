@@ -151,3 +151,8 @@ Enter PM2.5 concentration (ug/m3):
 
 {{< svg "img/tl2103/pollutant_graph_2a.svg" >}}
 {{< svg "img/tl2103/pollutant_graph_2b.svg" >}}
+
+
+## notes
++ Matlab plot and save as PDF using https://matlab.mathworks.com/
++ PDF to SVG using https://cloudconvert.com/pdf-to-svg
