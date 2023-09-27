@@ -1,6 +1,6 @@
 ---
 title: "m pollutant data"
-date: 2023-09-19T22:33:00+07:00
+date: 2023-09-27T22:33:00+07:00
 authors: ['Sparisoma Viridi']
 tags: ['tl2103']
 draft: false
