@@ -226,11 +226,11 @@ languageName = "<span style='font-variant: small-caps;'>en</span>"
 #weight = 1
 #url = "about/"
 
-[[languages.en.menu.main]]
-name = "Notes"
-#weight = 2
-weight = 1
-url = "notes/"
+#[[languages.en.menu.main]]
+#name = "Notes"
+##weight = 2
+#weight = 1
+#url = "notes/"
 
 #[[languages.en.menu.main]]
 #name = "Tags"

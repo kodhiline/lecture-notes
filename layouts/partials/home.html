@@ -1,6 +1,13 @@
 <section class="container taxonomy">
   {{ $totalNote := 0 }}
+  {{ range .Site.Taxonomies.tags }}
+    {{ $totalNote = add $totalNote .Count }}
+  {{ end }}
   <ul>
+    <li>
+    <span class="taxonomy-element">
+    <a href="{{ .Site.BaseURL }}/notes">an0735</a><sup>{{ $totalNote }}</sup></span>
+    </li>
   {{ range .Site.Taxonomies.tags }}
     <li>
     <span class="taxonomy-element">
@@ -8,10 +15,6 @@
     </li>
     {{ $totalNote = add $totalNote .Count }}
   {{ end }}
-  <li>
-  <span class="taxonomy-element">
-  <a href="{{ .Site.BaseURL }}/notes">no7350</a><sup>{{ $totalNote }}</sup></span>
-  </li>
   </ul>
 </section>
 
