@@ -23,7 +23,7 @@ url: "0072"
 + Save figure as PDF.
 + Download it to local folder.
 + Upload it to https://cloudconvert.com/pdf-to-svg.
-+ Conver it to PDF.
++ Convert it to PDF.
 + Download SVG file.
 
 ## code
