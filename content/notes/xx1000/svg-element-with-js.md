@@ -23,4 +23,179 @@ url: "0073"
 + Actually without JS, using only CSS, SVG elements can be animated, but for more complicated animation some tools might be required, e.g. SVGator, Snap.svg, SVG.js, VivusJS, mo.js, GSAP, Animate.CSS, and Framer Motion ([Amstrong, 2022](https://blog.logrocket.com/how-to-animate-svg-css-tutorial-examples/)).
 
 
-## 
+## js function
++ To simplify creating process of SVG elements some functions can be built, e.g. for creating a SGV container and a line ([Matt, 2014](https://stackoverflow.com/a/21362202/9475509)).
++ Modified code is as follow
+  ```js
+  function shape(type, attrs) {
+    var elem = document.createElementNS(
+      'http://www.w3.org/2000/svg',
+      type
+    );
+    for(attr in attrs) {
+      elem.setAttribute(attr, attrs[attr]);
+    }
+    return elem;
+  }
+  ```
+
+{{< html >}}
+<script>
+function shape(type, attrs) {
+  var elem = document.createElementNS(
+    'http://www.w3.org/2000/svg', 
+    type
+  );
+  for(attr in attrs) {
+    elem.setAttribute(attr, attrs[attr]);
+  }
+  return elem;
+}
+</script>
+
+{{< /html >}}
+
+
+## line
++ Container
+  ```html
+  <svg id="svg-line"
+    width="200"
+    height="200"
+    style="background:#f4f4f4;">
+  </svg>
+  ```
++ Result
+{{< html >}}
+<svg id="svg-line"
+  width="200"
+  height="200"
+  style="background:#f4f4f4;"
+</svg>
+
+<script>
+var cnt = document.getElementById('svg-line');
+attrs = {
+  'x1': '20',
+  'y1': '150',
+  'x2': '100',
+  'y2': '40',
+  'stroke': '#4a4',
+  'stroke-width': '1px',
+}
+var l1 = shape('line', attrs);
+cnt.appendChild(l1);
+</script>
+{{< /html >}}
++ Code
+  ```js
+  var cnt = document.getElementById('svg-line');
+  attrs = {
+    'x1': '20',
+    'y1': '150',
+    'x2': '100',
+    'y2': '40',
+    'stroke': '#4a4',
+    'stroke-width': '1px',
+  }
+  var l1 = shape('line', attrs);
+  cnt.appendChild(l1);
+  ```
+
+## rect
++ Container
+  ```html
+  <svg id="svg-rect"
+    width="200"
+    height="200"
+    style="background:#f4f4f4;">
+  </svg>
+  ```
++ Result
+{{< html >}}
+<svg id="svg-rect"
+  width="200"
+  height="200"
+  style="background:#f4f4f4;"
+</svg>
+
+<script>
+var cnt = document.getElementById('svg-rect');
+attrs = {
+  'x': '20',
+  'y': '20',
+  'rx': '10',
+  'ry': '10',
+  'width': '50',
+  'height': '100',
+  'stroke': '#4a4',
+  'stroke-width': '1px',
+  'fill': '#4f9'
+}
+var r1 = shape('rect', attrs);
+cnt.appendChild(r1);
+</script>
+{{< /html >}}
++ Code
+  ```js
+  var cnt = document.getElementById('svg-rect');
+  attrs = {
+    'x': '20',
+    'y': '20',
+    'rx': '10',
+    'ry': '10',
+    'width': '50',
+    'height': '100',
+    'stroke': '#4a4',
+    'stroke-width': '1px',
+    'fill': '#4f9'
+  }
+  var r1 = shape('rect', attrs);
+  cnt.appendChild(r1);
+  ```
+
+## circle
++ Container
+  ```html
+  <svg id="svg-circle"
+    width="200"
+    height="200"
+    style="background:#f4f4f4;">
+  </svg>
+  ```
++ Result
+{{< html >}}
+<svg id="svg-circle"
+  width="200"
+  height="200"
+  style="background:#f4f4f4;"
+</svg>
+
+<script>
+var cnt = document.getElementById('svg-circle');
+attrs = {
+  'cx': '150',
+  'cy': '100',
+  'r': '80',
+  'stroke': '#f00',
+  'stroke-width': '2px',
+  'fill': 'lightblue'
+}
+var c1 = shape('circle', attrs);
+cnt.appendChild(c1);
+</script>
+{{< /html >}}
++ Code
+  ```js
+  var cnt = document.getElementById('svg-circle');
+  attrs = {
+    'cx': '150',
+    'cy': '100',
+    'r': '80',
+    'stroke': '#f00',
+    'stroke-width': '2px',
+    'fill': 'lightblue'
+  }
+  var c1 = shape('circle', attrs);
+  cnt.appendChild(c1);
+  ```
