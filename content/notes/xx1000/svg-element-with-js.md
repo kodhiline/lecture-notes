@@ -25,7 +25,7 @@ url: "0073"
 
 ## js function
 + To simplify creating process of SVG elements some functions can be built, e.g. for creating a SGV container and a line ([Matt, 2014](https://stackoverflow.com/a/21362202/9475509)).
-+ Modified code is as follow
++ Modified code from reference is given as follow
   ```js
   function shape(type, attrs) {
     var elem = document.createElementNS(
@@ -199,3 +199,193 @@ cnt.appendChild(c1);
   var c1 = shape('circle', attrs);
   cnt.appendChild(c1);
   ```
+
+## ellipse
++ Container
+  ```html
+  <svg id="svg-ellipse"
+    width="200"
+    height="200"
+    style="background:#f4f4f4;">
+  </svg>
+  ```
++ Result
+{{< html >}}
+<svg id="svg-ellipse"
+  width="200"
+  height="200"
+  style="background:#f4f4f4;"
+</svg>
+
+<script>
+var cnt = document.getElementById('svg-ellipse');
+attrs = {
+  'cx': '100',
+  'cy': '100',
+  'rx': '40',
+  'ry': '80',
+  'stroke': 'magenta',
+  'stroke-width': '2px',
+  'fill': 'lightcyan'
+}
+var e1 = shape('ellipse', attrs);
+cnt.appendChild(e1);
+</script>
+{{< /html >}}
++ Code
+  ```js
+  var cnt = document.getElementById('svg-ellipse');
+  attrs = {
+    'cx': '100',
+    'cy': '100',
+    'rx': '40',
+    'ry': '80',
+    'stroke': 'magenta',
+    'stroke-width': '2px',
+    'fill': 'lightcyan'
+  }
+  var e1 = shape('ellipse', attrs);
+  cnt.appendChild(e1);
+  ```
+
+## polygon
++ Container
+  ```html
+  <svg id="svg-polygon"
+    width="200"
+    height="200"
+    style="background:#f4f4f4;">
+  </svg>
+  ```
++ Result
+{{< html >}}
+<svg id="svg-polygon"
+  width="200"
+  height="200"
+  style="background:#f4f4f4;"
+</svg>
+
+<script>
+var cnt = document.getElementById('svg-polygon');
+attrs = {
+  'points': '  20 40   60  20  80  20 \
+              100 60  150  70 160 150 \
+              100 180  50 180  20 150 \
+               50 120  50  80 ',
+  'stroke': 'darkgreen',
+  'stroke-width': '2px',
+  'fill': 'lightgreen'
+}
+var pg1 = shape('polygon', attrs);
+cnt.appendChild(pg1);
+</script>
+{{< /html >}}
++ Code
+  ```js
+  var cnt = document.getElementById('svg-polygon');
+  attrs = {
+    'points': '  20 40   60  20  80  20 \
+                100 60  150  70 160 150 \
+                100 180  50 180  20 150 \
+                 50 120  50  80 ',
+    'stroke': 'darkgreen',
+    'stroke-width': '2px',
+    'fill': 'lightgreen'
+  }
+  var pg1 = shape('polygon', attrs);
+  cnt.appendChild(pg1);
+  ```
+
+## polygon
++ Container
+  ```html
+  <svg id="svg-polyline"
+    width="200"
+    height="200"
+    style="background:#f4f4f4;">
+  </svg>
+  ```
++ Result
+{{< html >}}
+<svg id="svg-polyline"
+  width="200"
+  height="200"
+  style="background:#f4f4f4;"
+</svg>
+
+<script>
+var cnt = document.getElementById('svg-polyline');
+attrs = {
+  'points': '  20 40   60  20  80  20 \
+              100 60  150  70 160 150 \
+              100 180  50 180  20 150 \
+               50 120  50  80 ',
+  'stroke': 'darkgreen',
+  'stroke-width': '2px',
+  'fill': 'transparent'
+}
+var pl1 = shape('polyline', attrs);
+cnt.appendChild(pl1);
+</script>
+{{< /html >}}
++ Code
+  ```js
+  var cnt = document.getElementById('svg-polyline');
+  attrs = {
+    'points': '  20 40   60  20  80  20 \
+                100 60  150  70 160 150 \
+                100 180  50 180  20 150 \
+                 50 120  50  80 ',
+    'stroke': 'darkgreen',
+    'stroke-width': '2px',
+    'fill': 'transparent'
+  }
+  var pl1 = shape('polyline', attrs);
+  cnt.appendChild(pl1);
+  ```
+
+## path
++ Container
+  ```html
+  <svg id="svg-path"
+    width="200"
+    height="200"
+    style="background:#f4f4f4;">
+  </svg>
+  ```
++ Result
+{{< html >}}
+<svg id="svg-path"
+  width="200"
+  height="200"
+  style="background:#f4f4f4;"
+</svg>
+
+<script>
+var cnt = document.getElementById('svg-path');
+attrs = {
+  'd': 'M100,100 l20,0, v20 h10 v50 h-100 L10,10, H100',
+  'stroke': 'darkgreen',
+  'stroke-width': '2px',
+  'fill': 'transparent'
+}
+var pt1 = shape('path', attrs);
+cnt.appendChild(pt1);
+</script>
+{{< /html >}}
++ Code
+  ```js
+  var cnt = document.getElementById('svg-path');
+  attrs = {
+    'd': 'M100,100 l20,0, v20 h10 v50 h-100 L10,10, H100',
+    'stroke': 'darkgreen',
+    'stroke-width': '2px',
+    'fill': 'transparent'
+  }
+  var pt1 = shape('path', attrs);
+  cnt.appendChild(pt1);
+  ```
+
+## notes
++ [Basic shapes](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes) provides more information about shapes used in SVG.
++ [Animationg SVG with CSS] gives information about how to modified SVG image, which created by an application, clean it, and add CSS animation to it ([Coyier, 2017](https://css-tricks.com/animating-svg-css/)).
