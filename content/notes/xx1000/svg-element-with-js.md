@@ -387,5 +387,5 @@ cnt.appendChild(pt1);
   ```
 
 ## notes
-+ [Basic shapes](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes) provides more information about shapes used in SVG.
-+ [Animationg SVG with CSS] gives information about how to modified SVG image, which created by an application, clean it, and add CSS animation to it ([Coyier, 2017](https://css-tricks.com/animating-svg-css/)).
++ Basic shapes article  provides more information about shapes used in SVG ([MDN, 2023]((https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes))).
++ The article Animationg SVG with CSS gives information about how to modified SVG image, which created by an application, clean it, and add CSS animation to it ([Coyier, 2017](https://css-tricks.com/animating-svg-css/)).
