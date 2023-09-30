@@ -1,5 +1,5 @@
 ---
-title: "meta data"
+title: "metadata"
 date: 2023-09-30T12:50:00+07:00
 authors: ['Sparisoma Viridi']
 tags: ['ku4078']
@@ -18,3 +18,4 @@ url: "0076"
 
 ## notes
 + Kode KU4078 is for Studium Generale course.
++ The Metadata lecture is for 11 Oct 2023 on Faculty of Animal Science, UNJA.
