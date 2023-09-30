@@ -2,7 +2,7 @@
 title: "svg <g> element"
 date: 2023-09-30T12:50:00+07:00
 authors: ['Sparisoma Viridi']
-tags: ['fi4002']
+tags: ['sk6091']
 draft: false
 math: true
 url: "0075"
