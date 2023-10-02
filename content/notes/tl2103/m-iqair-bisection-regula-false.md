@@ -1,5 +1,5 @@
 ---
-title: "m iqairs bisection regula falsi"
+title: "m iqair bisection regula falsi"
 date: 2023-10-03T03:42:00+07:00
 authors: ['Sparisoma Viridi']
 tags: ['tl2103']
