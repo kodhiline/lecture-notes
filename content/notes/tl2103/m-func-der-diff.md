@@ -51,5 +51,123 @@ url: "0080"
   f2 = f(2);
   ```
 + Complete code is as follow.
-```m
-```
+  ```m
+  fstr = 'x^2 + 10x + 1';
+  f = inline(fstr);
+
+  fprintf('x\tf(x)\n');
+  for x = 0:10
+    y = f(x);
+    fprintf('%.1f\t%.1f\n', x, y);
+  end
+  ```
+  with
+  ```
+  >> str_inline_func
+  x	f(x)
+  0.0	1.0
+  1.0	12.0
+  2.0	25.0
+  3.0	40.0
+  4.0	57.0
+  5.0	76.0
+  6.0	97.0
+  7.0	120.0
+  8.0	145.0
+  9.0	172.0
+  10.0	201.0
+  ```
+  as the result.
+
+
+## coeffs, string, inline, function
++ Previous polynomial function $f(x) = x^2 + 10x + 1$ can definede through its coefficients, e.g.
+  ```m
+  b = [1 10 1];
+  ```
++ String of it can be constructed using `poly2sym` function, e.g.
+  ```m
+  gstr = poly2sym(b);
+  ```
++ The function is defined through `inline` function, e.g.
+  ```m
+  g = inline(gstr);
+  ```
++ Value of the function is obtained simply by passing value as argument, e.g.
+  ```m
+  g_m1 = g(-1);
+  ```
++ The complete code is as follow.
+  ```m
+  b = [1 10 1];
+  gstr = poly2sym(b);
+  g = inline(gstr);
+  x = -1;
+  g_m1 = g(x);
+  fprintf('f(%.2f) = %.2f', x, g_m1);
+  ```
+  with
+  ```
+  >> coeffs_str_inline_func
+  f(-1.00) = -8.00
+  ```
+  as the result.
++ It is confirmed that $f(-1) = (-1)^2 + 10(-1) + 1 = -8$.
+
+
+## polyder and diff
++ Results are as follow.
+  ```
+  >> polyder_diff
+  function
+  a = [1, 1, 1, 1, 1]
+  f(x) = x + x^2 + x^3 + x^4 + 1
+
+  derivative using polyder
+  b = [4, 3, 2, 1]
+  g(x) = 2*x + 3*x^2 + 4*x^3 + 1
+
+  derivative using diff
+  h(x) = 2*x + 3*x^2 + 4*x^3 + 1
+  ```
++ And the complete code is given below.
+  ```m
+  % polyder_diff
+
+  clear;
+
+  % define a polynomial function
+  a = [1 1 1 1 1];
+  fstr = poly2sym(a);
+  f = inline(fstr);   % not necessary
+
+  % calculate derivative 1st way
+  b = polyder(a);
+  gstr = poly2sym(b);
+  g = inline(gstr);   % not necessary
+
+  % calculate derivative 2nd way
+  hstr = diff(fstr);
+  h = inline(hstr);   % not necessary
+
+  % display initial polynomial function
+  fprintf('function\n')
+  fprintf('a = [');
+  fprintf('%g, ', a(1:end-1));
+  fprintf('%g]\n', a(end));
+  fprintf('f(x) = %s\n', fstr);
+  fprintf('\n');
+
+  % display derivative using 1st way
+  fprintf('derivative using polyder\n')
+  fprintf('b = [');
+  fprintf('%g, ', b(1:end-1));
+  fprintf('%g]\n', b(end));
+  fprintf('g(x) = %s\n', gstr);
+  fprintf('\n');
+
+  % display derivative using 2nd way
+  fprintf('derivative using diff\n')
+  fprintf('h(x) = %s\n', hstr);
+  fprintf('\n');
+  ```
