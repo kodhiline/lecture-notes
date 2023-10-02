@@ -31,7 +31,7 @@ url: "0081"
   2. Find extreme of the function
   Your choice: 1
   
-  Input you initial guess: 3
+  Input your initial guess: 3
   Found one root of the function, which is -0.697224
   >>
   ```  
@@ -49,8 +49,100 @@ url: "0081"
   1. Find one root of the function
   2. Find extreme of the function
   Your choice: 2
-  Input you initial guess: 3
+  
+  Input your initial guess: 3
   Extreme of the function is -3.25
   >>
   ```
 
+## result of choice 1
+```
+>> poly_4_root_extreme
+Input size of array (max 5):
+3
+Value of array 1:
+1
+Value of array 2:
+5
+Value of array 3:
+3
+
+Function = f(x) = 5*x + x^2 + 3
+Choose operation to be performed
+1. Find one root of the function
+2. Find extreme of the function
+Your choice:
+1
+Your initial guess:
+3
+Found one root of the function,which is -0.697224
+```
+
+## result of choice 2
+```
+>> poly_4_root_extreme
+Input size of array (max 5):
+3
+Value of array 1:
+1
+Value of array 2:
+5
+Value of array 3:
+3
+
+Function = f(x) = 5*x + x^2 + 3
+Choose operation to be performed
+1. Find one root of the function
+2. Find extreme of the function
+Your choice:
+2
+Your initial guess:
+3
+Extreme of the function is -3.25
+```
+
+## code
+```m
+% poly_4_root_extreme
+
+% repeat until n between 1 and 5 
+n = 10;
+while n > 5 | n < 1 
+    n = input('Input size of array (max 5):');
+end
+
+% read the coefficents
+a = [];
+for i = 1:n
+    fprintf('Value of array %d:', i);
+    c = input('');
+    a = [a c];
+end
+fprintf('\n');
+
+% create and display function
+fstr = poly2sym(a);
+f = inline(fstr);
+fprintf('Function = f(x) = %s\n', fstr);
+
+% Ask operation
+fprintf('Choose operation to be performed\n');
+fprintf('1. Find one root of the function\n');
+fprintf('2. Find extreme of the function\n');
+choice = input('Your choice:');
+
+initg = input("Your initial guess:");
+
+if choice == 1
+    root = fzero(f, initg);
+    fprintf('Found one root of the function,');
+    fprintf('which is %.6f', root);
+else
+    gstr = diff(fstr);
+    g = inline(gstr);
+    extreme = fzero(g, initg);
+    fextreme = f(extreme);
+    fprintf('Extreme of the function is ');
+    fprintf('%.2f', fextreme);
+end
+```
