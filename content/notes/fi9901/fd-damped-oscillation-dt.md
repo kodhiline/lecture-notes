@@ -2,7 +2,7 @@
 title: "fd damped oscillation dt"
 date: 2023-09-25T19:56:00+07:00
 authors: ['Sparisoma Viridi', 'Agus Suroso']
-tags: ['fi9900']
+tags: ['fi9901']
 draft: false
 math: true
 url: "0066"
