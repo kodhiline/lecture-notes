@@ -22,3 +22,10 @@ url: "0088"
 + System dynamics is a computer simulation method for analysis of complex dynamic systems, which is made up of stocks and flows, and the factors which affect flows, where stocks are any entity which accumulates or depletes over time, while a flow is the rate of change in a stock, that is usually represented by a differential equation ([Barbrook-Johnson & Penn, 2022](https://doi.org/10.1007/978-3-031-01919-7_8)).
 + System Dynamics model applies for dynamics complexity related problems in which links of different natures are made through various types of variables, flows, auxiliary variables, and parameters, with simulation modelling based on feedback systems theory ([Moretti et al., 2022](https://www.sciencedirect.com/topics/computer-science/dynamic-system-model#:~:text=Moretti)).
 + System Dynamics is a computer-aided approach for strategy and policy design, whose main goal is to help people make better decisions when confronted with complex, dynamic systems ([SDS, 2023](https://systemdynamics.org/what-is-system-dynamics/)).
+
+
+## st-sd relation
++ While systems thinking is the ability to perform insightful and comprehensive problem solving of complex systems, the fundamental to systems thinking is system dynamics, an approach used to understand the nonlinear behavior of complex systems over time using stocks, flows, internal feedback-loops, a variety of functions, and time-delays ([Montoya, 2023](https://ep.jhu.edu/courses/645781-systems-thinking-and-systems-dynamics/)).
++ Especially in United States, when com to system thinking, the introduction will be 
+([Cabrera, 2015](https://blog.cabreraresearch.org/system-dynamics-does-not-equal-systems-thinking)).
++ System dynamics is not the only way of practicing systems thinking, but compared to a representative sample of other systems methodologies, system dynamics has a number of advantages ([Caulfield & Maj, 2002](https://doi.org/10.1109/ICSMC.2001.971932)).
