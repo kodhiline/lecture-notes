@@ -26,6 +26,5 @@ url: "0088"
 
 ## st-sd relation
 + While systems thinking is the ability to perform insightful and comprehensive problem solving of complex systems, the fundamental to systems thinking is system dynamics, an approach used to understand the nonlinear behavior of complex systems over time using stocks, flows, internal feedback-loops, a variety of functions, and time-delays ([Montoya, 2023](https://ep.jhu.edu/courses/645781-systems-thinking-and-systems-dynamics/)).
-+ Especially in United States, when com to system thinking, the introduction will be 
-([Cabrera, 2015](https://blog.cabreraresearch.org/system-dynamics-does-not-equal-systems-thinking)).
++ There is high probability, especially in United States, that introduction to new learner about system thinking will be system dynamics ([Cabrera, 2015](https://blog.cabreraresearch.org/system-dynamics-does-not-equal-systems-thinking)).
 + System dynamics is not the only way of practicing systems thinking, but compared to a representative sample of other systems methodologies, system dynamics has a number of advantages ([Caulfield & Maj, 2002](https://doi.org/10.1109/ICSMC.2001.971932)).
