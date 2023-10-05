@@ -18,5 +18,7 @@ url: "0088"
 
 
 ## system dynamics
++ Systems dynamics models are continuous simulation models using hypothesized relations across activities and processes. ([Olson, 2003](https://www.sciencedirect.com/topics/computer-science/dynamic-system-model#:~:text=Olson)).
 + System dynamics is a computer simulation method for analysis of complex dynamic systems, which is made up of stocks and flows, and the factors which affect flows, where stocks are any entity which accumulates or depletes over time, while a flow is the rate of change in a stock, that is usually represented by a differential equation ([Barbrook-Johnson & Penn, 2022](https://doi.org/10.1007/978-3-031-01919-7_8)).
-+ 
++ System Dynamics model applies for dynamics complexity related problems in which links of different natures are made through various types of variables, flows, auxiliary variables, and parameters, with simulation modelling based on feedback systems theory ([Moretti et al., 2022](https://www.sciencedirect.com/topics/computer-science/dynamic-system-model#:~:text=Moretti)).
++ System Dynamics is a computer-aided approach for strategy and policy design, whose main goal is to help people make better decisions when confronted with complex, dynamic systems ([SDS, 2023](https://systemdynamics.org/what-is-system-dynamics/)).
