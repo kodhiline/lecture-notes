@@ -19,6 +19,8 @@ url: "0089"
 ## image metadata
 + The image metadata can be in the format of EXIT, IPTC, and XMP ([NeededApps, 2023]()).
 https://neededapps.com/tutorials/what-are-image-metadata-exif-iptc-xmp/
++ ExifTool recognizes a total of 26993 tags, with about 16973 unique tag names, where EXIF, IPTC, and XMP are three of them ([Harvey, 2023](https://exiftool.org/TagNames/index.html)).
++ There are various standardized formats used for metadata, where the common ones are Exchangeable Image File or EXIF, Information Interchange Mode or IIM, International Color Consortium or ICC, and Extensible Metadata Platform or XMP ([Sheldon, 2023](https://www.techtarget.com/whatis/definition/image-metadata)).
 
 
 ## removing metadata
@@ -31,6 +33,13 @@ https://neededapps.com/tutorials/what-are-image-metadata-exif-iptc-xmp/
 + There are some JavaScript libraries that can access the Exif data in digital photos, e.g Piexifjs, not only read but also edit and erase it ([deVilla, 2021](https://auth0.com/blog/read-edit-exif-metadata-in-photos-with-javascript/)).
 + Read and remove metdata data form photos can be performed also with Python, e.g. exif package ([deVilla, 2021](https://auth0.com/blog/read-edit-exif-metadata-in-photos-with-python/)).
 + With Java not only Exif metadata can be read, but also IPTC/IIM and XMP metadata ([Hillert, 2022](https://medium.com/@hillert/read-write-image-metadata-with-java-part-1-d5e2057c80d9)).
+
+
+## categories
+Image metadata is often divided into three main categories ([Sheldon, 2023](https://www.techtarget.com/whatis/definition/image-metadata)).
++ Technical metadata includes camera aperture, resolution, focal length, shutter speed, ISO speed, camera brand and model, date and time and the GPS location when the image was created.
++ Descriptive metadata is mostly added manually using special software such as GIMP or Affinity Photo.
++ Administrative metadata, like descriptive metadata, is added manually using special software, that might include usage and licensing rights, restrictions on reuse, contact information for the image owner or similar types of information.
 
 
 ## notes
