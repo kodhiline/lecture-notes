@@ -11,6 +11,8 @@ url: "0089"
 
 
 ## introduction
++ One type of image metadata is EXIF metadata, where the term stands for Exchangeable Image File Format, whose technology behind it was developed in 1995 by the Japanese Electronic Industries Development Association as a standard format for JPEG and TIFF with current version is 2.3 that has been available since 2010 ([IONOS, 2023](https://www.ionos.com/digitalguide/websites/web-design/what-is-exif-data/)).
++ Almost all nowadays camera manufacturers use EXIF to store information about the captured image, where this information is called metadata which can include camera settings, image metrics, data & time information, location information, thumbnail, description, and copyright information ([Kukil, 2022](https://learnopencv.com/what-is-exif-data-in-images/)).
 
 
 ## removing metadata
