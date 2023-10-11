@@ -23,3 +23,21 @@ ku4078_20231011_unja_v20231008_0.pptx
 
 .gitignore
 README.md
+
+
+## data
++ https://bloomfire.com/blog/data-vs-information/
++ https://herovired.com/learning-hub/blogs/what-is-data/
++ https://www.linkedin.com/pulse/understanding-data-definition-importance-its-four-key-manas-jain
++ https://www.techopedia.com/definition/807/data
++ https://kvaes.wordpress.com/2013/05/31/data-knowledge-information-wisdom/
++ https://www.linkedin.com/pulse/data-information-knowledge-insights-achin-gupta
+
+
+## metadate
++ https://www.opendatasoft.com/en/blog/what-is-metadata-and-why-is-it-important-data/
++ https://www.avast.com/c-what-is-metadata
++ https://www.spiceworks.com/tech/devops/articles/what-is-metadata/
++ https://guides.lib.unc.edu/metadata/definition
++ https://www.crossref.org/documentation/retrieve-metadata/
+
