@@ -2,6 +2,10 @@
 url https://osf.io/br4fe/
 
 
+## 09-oct-2023
+0827 Upload ticket and update this README.
+
+
 ## files
 10oct2023_CGK_DJB.pdf <-- Sparisoma Viridi-CGK-LVRSMP, X8N5VB-DJB-FLIGHT_ORIGINATING.pdf
 
@@ -23,6 +27,11 @@ ku4078_20231011_unja_v20231008_0.pptx
 
 .gitignore
 README.md
+<<<<<<< HEAD
+=======
+--
+Jackal_Holydays_0230_DU_Pusat.jpg <-- 001.jpg [20231009].
+>>>>>>> 69412bd66de23969b5f3eba59ab745f37ccb9ce8
 
 
 ## data
