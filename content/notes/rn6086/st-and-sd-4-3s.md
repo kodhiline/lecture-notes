@@ -62,6 +62,8 @@ itself, which shoulod create a balance between safe peaceful use of nuclear ener
   {{< mermaid >}}
   flowchart TD
     Safeguards --> Safety & Security
+    Safety --"too safe (&#x2796;)"--> OP
+    Security --"too secure (&#x2796;)"--> OP
     subgraph Safety
       direction RL
       AC --"harm"--> People
@@ -82,6 +84,7 @@ itself, which shoulod create a balance between safe peaceful use of nuclear ener
     style AC color:red, stroke:red, fill:#fcc
     TH[/"Threats"/]
     style TH color:red, stroke:red, fill:#fcc
+    OP(("Operation"))
   {{< /mermaid >}}
 
 
