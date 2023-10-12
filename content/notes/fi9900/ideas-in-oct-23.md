@@ -11,6 +11,7 @@ url: "0085"
 
 
 ## sep 2023
++ `12-wed` `UNJA` Metadata-based research.
 + `03-tue` `AD` Information about System Dinamics while in shuttle during back journey from J2G.
   - Publication AIDS in NY https://doi.org/10.1177/00333549209350.
   - Book SD with R https://doi.org/10.1007/978-3-319-34043-2.
