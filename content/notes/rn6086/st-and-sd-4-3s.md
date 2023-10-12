@@ -57,5 +57,27 @@ itself, which shoulod create a balance between safe peaceful use of nuclear ener
   - In the context of nuclear technology and materials, safeguards refer to measures implemented to prevent the proliferation of nuclear weapons. International agreements and organizations, such as the International Atomic Energy Agency (IAEA), play a crucial role in ensuring that nuclear materials are used for peaceful purposes and are not diverted for military applications.
 
 
+## details
+  {{< mermaid >}}
+  flowchart TD
+    subgraph Safety
+      direction RL
+      ID --> harm & danger & risk
+    end
+    subgraph Security
+      direction LR
+      TI --> assets & systems & information
+    end
+    subgraph Safeguards;
+      MP
+    end
+    ID(("Individuals"))
+    TI(("Things"))
+    MP(("Measure<br>prevention"))
+    Safeguards --> Safety & Security
+  {{< /mermaid >}}
+
+
+
 ## notes
 + [system thinking - system dynamics](../0088/)
