@@ -60,21 +60,30 @@ itself, which shoulod create a balance between safe peaceful use of nuclear ener
 ## details
 + It can be modeled as follow.
   {{< mermaid >}}
-  flowchart TD
-    Safeguards --> Safety & Security
-    Safety --"too safe (&#x2796;)"--> OP
-    Security --"too secure (&#x2796;)"--> OP
+  flowchart TB
+    OP --"|&#x2795;|"--> RS1
+    RS2 --"|&#x2795;|"--> AC & TH
+    Safety --"&rang;&#x2796;&rang;"--> OP
+    Security --"&lang;&#x2796;&lang;"--> OP
+    MP -..- AC & TH
+    
     subgraph Safety
-      direction RL
+      direction TB
       AC --"harm"--> People
       AC --"damage"--> Property
       AC --"detoriate"--> Environment
+      People
+      Property
+      Environment
     end
     subgraph Security
-      direction LR
+      direction TB
       TH --"steal"--> Assets
       TH --"intrude"--> Systems
       TH --"spy"--> Information
+      Assets
+      Systems
+      Information
     end
     subgraph Safeguards;
       MP
@@ -85,6 +94,11 @@ itself, which shoulod create a balance between safe peaceful use of nuclear ener
     TH[/"Threats"/]
     style TH color:red, stroke:red, fill:#fcc
     OP(("Operation"))
+    RS1[/"Results"/]
+    style RS1 color:green, stroke:green, fill:#cfc
+    RS2[/"Results"/]
+    style RS2 color:green, stroke:green, fill:#cfc
+    
   {{< /mermaid >}}
 
 
