@@ -60,30 +60,24 @@ itself, which shoulod create a balance between safe peaceful use of nuclear ener
 ## details
 + It can be modeled as follow.
   {{< mermaid >}}
-  flowchart TB
-    OP --"|&#x2795;|"--> RS1
-    RS2 --"|&#x2795;|"--> AC & TH
-    Safety --"&rang;&#x2796;&rang;"--> OP
-    Security --"&lang;&#x2796;&lang;"--> OP
+  flowchart LR
+    OP --"&#x2795;"--> RS1
+    RS2 --"(&#x2795;)"--> AC & TH
+    Safety --"&#x2796;"--> OP
+    Security --"&#x2796;"--> OP
     MP -..- AC & TH
     
     subgraph Safety
-      direction TB
+      direction LR
       AC --"harm"--> People
       AC --"damage"--> Property
       AC --"detoriate"--> Environment
-      People
-      Property
-      Environment
     end
     subgraph Security
-      direction TB
+      direction LR
       TH --"steal"--> Assets
       TH --"intrude"--> Systems
       TH --"spy"--> Information
-      Assets
-      Systems
-      Information
     end
     subgraph Safeguards;
       MP
