@@ -58,23 +58,30 @@ itself, which shoulod create a balance between safe peaceful use of nuclear ener
 
 
 ## details
++ It can be modeled as follow.
   {{< mermaid >}}
   flowchart TD
+    Safeguards --> Safety & Security
     subgraph Safety
       direction RL
-      ID --> harm & danger & risk
+      AC --"harm"--> People
+      AC --"damage"--> Property
+      AC --"detoriate"--> Environment
     end
     subgraph Security
       direction LR
-      TI --> assets & systems & information
+      TH --"steal"--> Assets
+      TH --"intrude"--> Systems
+      TH --"spy"--> Information
     end
     subgraph Safeguards;
       MP
     end
-    ID(("Individuals"))
-    TI(("Things"))
-    MP(("Measure<br>prevention"))
-    Safeguards --> Safety & Security
+    MP(["Measure<br>prevention"])
+    AC[/"Accidents"/]
+    style AC color:red, stroke:red, fill:#fcc
+    TH[/"Threats"/]
+    style TH color:red, stroke:red, fill:#fcc
   {{< /mermaid >}}
 
 
