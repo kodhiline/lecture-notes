@@ -61,10 +61,10 @@ itself, which shoulod create a balance between safe peaceful use of nuclear ener
 + It can be modeled as follow.
   {{< mermaid >}}
   flowchart LR
-    OP --"&#x2795;"--> RS1
-    RS2 --"(&#x2795;)"--> AC & TH
-    Safety --"&#x2796;"--> OP
-    Security --"&#x2796;"--> OP
+    OP1 --"&#x2795;"--> RS
+    OP2 --"(&#x2795;)"--> AC & TH
+    Safety --"&#x2796;"--> OP1
+    Security --"&#x2796;"--> OP1
     MP -..- AC & TH
     
     subgraph Safety
@@ -87,14 +87,16 @@ itself, which shoulod create a balance between safe peaceful use of nuclear ener
     style AC color:red, stroke:red, fill:#fcc
     TH[/"Threats"/]
     style TH color:red, stroke:red, fill:#fcc
-    OP(("Operation"))
-    RS1[/"Results"/]
-    style RS1 color:green, stroke:green, fill:#cfc
-    RS2[/"Results"/]
-    style RS2 color:green, stroke:green, fill:#cfc
+    OP1(("Operation"))
+    OP2(("Operation"))
+    RS[/"Results"/]
+    style RS color:green, stroke:green, fill:#cfc
     
   {{< /mermaid >}}
-
++ The verbs are so chosen to differ the actions between targets. This proposal might be subjective.
++ Loops:
+  - Balancing loop 1: Operation $\rightarrow$ Accidents $\rightarrow$ Safety $\rightarrow$ Operation.
+  - Balancing loop 2: Operation $\rightarrow$ Threats $\rightarrow$ Security $\rightarrow$ Operation.
 
 
 ## notes
