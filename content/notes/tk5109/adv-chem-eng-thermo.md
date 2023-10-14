@@ -14,13 +14,14 @@ url: "0094"
 + There are at least four classes in different program with course code TK5109, where each is taught by different lecturer or team teaching.
 + Exam variations are as follow.
 
-  Class | Duration | Information
-  :- | :- | :-
-  A | 2h30m | open book and notes, manual calculator (no gadgets)
-  B | 2h | close book, A4 cheat sheet (1 sheet, 2 pages)
-  C | 2h30m | open notes and laptop (no internet)
+  Class | Duration | Information | Addition
+  :- | :- | :- | :-
+  A | 2h30m | open book and notes, manual calculator (no gadgets) | -
+  B | 2h | close book, A4 cheat sheet (1 sheet, 2 pages) | photo for answer sheet requested, additional formula given
+  C | 2h30m | open notes and laptop (no internet) | -
 
   The A, B, C are related to 01, 02, 03, 04 but not yet in order.
++ Programs are Biomass for Energy, Hydrogan and Fuel Cell Technology, Coal Processing Technology.
 
 
 ## info
@@ -32,7 +33,7 @@ url: "0094"
  + Participants of this course will able to calculate thermodynamic quantities using real gas concepts including liquid-vapor equilibrium and reaction equilibrium for a real system that is useful for designing and solving problems in distillation columns, flash drums, and reactors (according to outcomes a,b,c).
  
  
- ## dicussion
+## questions
  + Is it ethical and fair that courses with the same ID and name, but with different lecturers and program, have different way in doing the midterm?
  + Does it mean that theses courses can not be compared one to another?
  + Would it be nice if the courses are labeled differently, e.g. Advanced Chemical Engineering Thermodynamics A, Advanced Chemical Engineering Thermodynamics B, and Advanced Chemical Engineering Thermodynamics C?
