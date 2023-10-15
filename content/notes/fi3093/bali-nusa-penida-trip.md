@@ -1,5 +1,5 @@
 ---
-title: "bali nusa penida trip"
+title: "bali and nusa penida trip"
 date: 2023-09-11T20:22:00+07:00
 authors: ['Sparisoma Viridi']
 tags: ['fi3093']
