@@ -1,8 +1,8 @@
 ---
-title: "collecting sand"
+title: "bali nusa penida trip"
 date: 2023-09-11T20:22:00+07:00
 authors: ['Sparisoma Viridi']
-tags: ['xx1000']
+tags: ['fi3093']
 draft: false
 math: true
 url: "0041"
@@ -34,5 +34,6 @@ url: "0041"
 
 
 ## notes
-+ Category is only temporary and subject to change.
++ Category XX1000 is only temporary and subject to change.
 + It would be related to independent study-like course or something.
++ It is put to FI3093 Applied Physics Exploration A with 2 credits (on 21-oct-2023).
