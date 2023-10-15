@@ -7,7 +7,7 @@ draft: false
 math: true
 url: "0096"
 ---
-Copyright © 2018 John Wiley & Sons, Inc. and primarily advanced by Prof. A. Iskandar[.]()
+Copyright © 2018 John Wiley & Sons, Inc. and primarily advanced by Prof. A. Iskandar[.](https://cdn-edunex.itb.ac.id/27677-Elementary-Physics-I/16714-Elastisitas-dan-Osilasi/1697342659882_Handout-FI-1101-Module_09-1---ch12.pdf)
 
 
 ## after midterm
@@ -22,6 +22,37 @@ Slide | Chapter | Topic
 13   | 19 | The Kinetic Theory of Gases
 14   | 20 | Entropy and the Second Law of Thermodynamics
 + Chapter indicates chapter in main reference.
+
+
+## 12-1 Equilibrium (1 of 9)
+Learning Objectives
++ 12.01 Distinguish between equilibrium and static equilibrium.
++ 12.02 Specify the four conditions for static equilibrium.
++ 12.03 Explain center of gravity and how it relates to center of mass.
++ 12.04 For a given distribution of particles, calculate the coordinates of the center of gravity and the center of mass.
+
+
+## 12-2 Some Examples of Static Equilibrium (1 of 6)
+Learning Objectives
++ 12.05 Apply the force and torque conditions for static equilibrium.
++ 12.06 Identify that a wise choice about the placement of the origin (about which to calculate torques) can simplify the calculations by eliminating one or more unknown forces from the torque equation.
+
+
+## 12-3 Elasticity (1 of 12)
+Learning Objectives
++ 12.07 Explain what an indeterminate situation is.
++ 12.08 For tension and compression, apply the equation that relates stress to strain and Young's modulus.
++ 12.09 Distinguish between yield strength and ultimate strength.
++ 12.10 For shearing, apply the equation that relates stress to strain and the shear modulus.
++ 12.11 For hydraulic stress, apply the equation that relates fluid pressure to strain and the bulk modulus.
+
+
+## Summary (1 of 3)
++ Static Equilibrium.
++ Elastic Moduli.
++ Tension and Compression.
++ Shearing.
++ Hydraulic Stress.
 
 
 ## Copyright
