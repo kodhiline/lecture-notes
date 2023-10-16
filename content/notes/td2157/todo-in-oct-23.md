@@ -10,6 +10,17 @@ url: "0100"
 {{< toc >}}
 
 
+## 17-tue
++ `2000` Zoom AIDI Meeting.
++ `1715` GKU-2 to GKU-T.
++ `1500` K1.9680b FI1101-09.
++ `1300` K3.101 FI1101-04.
++ `1000` GKU-T to Pusat / GKU-3.
++ `0900` FI Budi SPs boarding pass, dinner receipt.
++ `0830` Zu Uni with die alte eine.
++ `0345` Beginn die Hausaufgabe. &check;
+
+
 ## 16-mon
 + `1300` FMF 1-S1 final project discusstion
 + `1100` SB FNB Meeting. &check;
