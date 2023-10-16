@@ -12,7 +12,7 @@ url: "0100"
 
 ## 16-mon
 + `1300` FMF 1-S1 final project discusstion
-+ `1100` SB FNB Meeting.
++ `1100` SB FNB Meeting. &check;
 + `0900` FMF S2+R Machine Learning. &check;
 + `0800` Zoom 2-S3 Interdisciplinary Study. &check;
 
