@@ -2,7 +2,7 @@
 title: "organizational culture"
 date: 2023-09-07T14:03:00+07:00
 authors: ['Sparisoma Viridi']
-tags: ['nt6094']
+tags: ['rn6086']
 draft: false
 math: false
 url: "0035"
