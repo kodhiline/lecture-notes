@@ -20,13 +20,15 @@ url: "0100"
 
 
 ## 17-tue
-+ `2000` Zoom AIDI Meeting.
-+ `1715` GKU-2 to GKU-T.
-+ `1500` K1.9680b FI1101-09.
-+ `1300` K3.101 FI1101-04.
-+ `1000` GKU-T to Pusat / GKU-3.
-+ `0900` FI Budi SPs boarding pass, dinner receipt.
-+ `0830` Zu Uni with die alte eine.
++ `2030` Granular ABM online meeting. &times;
++ `2000` Zoom AIDI Meeting. &check;
++ `1715` GKU-2 to GKU-T. &check;
++ `1500` K1.9680b FI1101-09. &check;
++ `1300` K3.101 FI1101-04. &check;
++ `1000` GKU-T to Pusat / GKU-3. &check;
++ `0930` Send to Budi SPs the rest. &check;
++ `0900` FI Budi SPs boarding pass, dinner receipt. &times;
++ `0830` Zu Uni with die alte eine. &check;
 + `0345` Beginn die Hausaufgabe. &check;
 
 
