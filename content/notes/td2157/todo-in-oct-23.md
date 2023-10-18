@@ -10,6 +10,15 @@ url: "0100"
 {{< toc >}}
 
 
+## 18-wed
++ `1300` MA Rini signed travel cost. &check;
++ `1300` Agency approval schedule chage. &check;
++ `1100` Angeli TA discusstion. &times;
++ `0900` Medium for FI4002. &check;
++ `0600` Edunex for FI4002. &check;
++ `0500` RN6086 midterm to SD. &check;
+
+
 ## 17-tue
 + `2000` Zoom AIDI Meeting.
 + `1715` GKU-2 to GKU-T.
