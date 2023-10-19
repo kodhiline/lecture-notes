@@ -2,7 +2,7 @@
 title: "st & sd for 3s"
 date: 2023-10-12T05:41:00+07:00
 authors: ['Sparisoma Viridi']
-tags: ['nt6094']
+tags: ['rn6086']
 draft: false
 math: true
 url: "0092"

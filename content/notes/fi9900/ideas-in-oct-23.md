@@ -10,11 +10,21 @@ url: "0085"
 {{< toc >}}
 
 
-## sep 2023
-+ `12-wed` `UNJA` Metadata-based research.
+## oct 2023
++ `17-tue` `VS` ANN and natural NN divergence.
+  - Model metamers reveal divergent
+invariances between biological and artificial
+neural networks https://doi.org/10.1038/s41593-023-01442-0.
++ `17-tue` `SITH-AP` DL for data training in genomics.
+  - Reading material https://doi.org/10.1038/s42003-023-05310-2.
++ `16-mon` `PW` pH variation to assure AgNP well synthesized.
+  - Presentation from Reza [issue 8](https://github.com/rezafahri11/tugas-akhir/issues/8#issue-1943867235). 
++ `11-wed` `UNJA` Metadata-based research.
 + `03-tue` `AD` Information about System Dinamics while in shuttle during back journey from J2G.
   - Publication AIDS in NY https://doi.org/10.1177/00333549209350.
   - Book SD with R https://doi.org/10.1007/978-3-319-34043-2.
 + `03-tue` `SV` &rightarrow; `YM` & `IM` Motion of nanoparticle in nanofluids using snapshot every 5 minutes compared to initial condition of fluid with different concentration.
   - It seems that ABM can handle this but interpretation of density in term of color of the NF.
   - Recent video in Youtube [tcnGv_DnZX0](https://youtu.be/tcnGv_DnZX0).
+  + One of the 10.10.2023 video [up6BENp21Vw](https://www.youtube.com/watch?v=up6BENp21Vw).
+  

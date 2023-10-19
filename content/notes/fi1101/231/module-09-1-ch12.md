@@ -11,17 +11,23 @@ Copyright © 2018 John Wiley & Sons, Inc. and primarily advanced by Prof. A. Isk
 
 
 ## after midterm
++ questionnaire
+  - [FI1101-04 Elementary Physics IA &bull; K04 FMIPA](https://docs.google.com/forms/d/e/1FAIpQLSehtlG_WUGRq2vwo3PSmj0qfKVWZWOXOq-6KNOo3W2gXzaY8g/viewform).
+  - [FI1101-09 Elementary Physics IA - K09 FTI](https://docs.google.com/forms/d/e/1FAIpQLSdMsQJihm_2XnxVsWM4TTx-o2FrIazjWmKeXo8jTeCHEkWPfg/viewform).
++ materials
 Slide | Chapter | Topic
 :-: | :-: | :-
-09-1 | 12 | Equilibrium and elasticity
-09-2 | 15 | Oscillations
+08   | 11 | [Rolling, torque, and angular momentum](../0095/)
+09-1 | 12 | [Equilibrium and elasticity](../0096/)
+09-2 | 15 | [Oscillations](../0097/)
 10-1 | 16 | Waves-I
 10-2 | 17 | Waves-II
 11   | 14 | Fluids
-12   | 18 | Temperature, Heat, and the First Law of Thermodynamics
-13   | 19 | The Kinetic Theory of Gases
-14   | 20 | Entropy and the Second Law of Thermodynamics
-+ Chapter indicates chapter in main reference.
+12   | 18 | Temperature, heat, and the first law of thermodynamics
+13   | 19 | The kinetic theory of gases
+14   | 20 | Entropy and the second law of thermodynamics
+15   | -  | Research-based learning project
++ Entry in Chapter column indicates chapter in main reference.
 
 
 ## 12-1 Equilibrium (1 of 9)
