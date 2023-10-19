@@ -140,3 +140,6 @@ console.log(a);
   console.log(y.sort());
   console.log(x);
   ```
+
+## application(s)
++ [Random HTTP headers User-Agent: One way to reduce being blocked while web scraping](https://medium.com/@6unpnp/random-http-headers-user-agent-23bcdd8c0537).
