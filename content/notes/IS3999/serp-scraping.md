@@ -25,6 +25,7 @@ url: "0105"
 
 ```html
 <div class="MjjYud">
+  
   <div jscontroller="SC7lYd" class="g Ww4FFb vt6azd tF2Cxc asEBEc" lang="en" style="width:600px" jsaction="QyLbLe:OMITjf;ewaord:qsYrDe;xd28Mb:A6j43c" data-hveid="CBkQAA" data-ved="2ahUKEwjDjcDtkYKCAxUocGwGHVUgAwIQFSgAegQIGRAA">
     <div class="N54PNb BToiNc cvP2Ce" data-snc="ih6Jnb_RPt9Fc">
       <div class="kb0PBd cvP2Ce jGGQ5e" data-snf="x5WNvb" data-snhf="0">
@@ -62,8 +63,7 @@ url: "0105"
                   </div>
                 </span>
                 <div>
-                  <span class="VuuXrf">Google
-                  </span>
+                  <span class="VuuXrf">Google</span>
                   <div class="byrV5b">
                   <cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text">https://chrome.google.com
                     <span class="dyjrff ob9lvb" role="text"> › detail
@@ -85,6 +85,7 @@ url: "0105"
                       </span>
                     </span>
                   </div>
+                  
                   <span jsname="zOVa8" data-ved="2ahUKEwjDjcDtkYKCAxUocGwGHVUgAwIQh-4GegQIERAK"></span>
                 </div>
               </div>
@@ -127,6 +128,7 @@ url: "0105"
                       <img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAANlBMVEVHcEw0cP80cP80cP80cP80cP80cP80cP80cP80cP80cP80cP80cP80cP80cP80cP80cP80cP8VlEhBAAAAEnRSTlMAOHyXpmwrif/yHuS2EEFY3MqYcwnOAAAA60lEQVR4AZWTBY4EIQAEG53CRv7/2FNIDm61IjgUpNFbGOu8C1F32OikoBvkBJTqawFK00oDbK864N+MAlmDCEUzAf66RQjrBn5qe9JqEGflfuJgB83AMSusUidhnnA+nnA8O6JBfiiphJ3ajqSlY5b491AG1ubM/mxC5Xx0CYW1o86SG1yamXo8VIVyRSlfXE2yJUFVpwKXA5AAaDsAY48ICcAngoUDytG7Uvy9kwHYVNkuNkXwkCsApgvBITk87D3+VtGnnu4NiL/vDz3AUz5Cz6MbXg0g3/5Zdjw8Uf+IwIiDC7pBtFnv8wkBkwpxIAZGvwAAAABJRU5ErkJggg==" style="height:18px;width:18px" alt="">
                     </div>
                   </span>
+                  
                   <div>
                     <span class="VuuXrf">Octoparse</span>
                     <div class="byrV5b">
@@ -153,6 +155,7 @@ url: "0105"
                   </div>
                 </div>
               </div>
+              
               <div class="csDOgf BCF2pd ezY6nb L48a4c">
                 <div jscontroller="exgaYe" data-bsextraheight="0" data-isdesktop="true" data-movewtractions="true" jsdata="l7Bhpb;_;B/HfII cECq7c;_;B/HfIM" data-ved="2ahUKEwjDjcDtkYKCAxUocGwGHVUgAwIQ2esEegQIIxAJ">
                   <div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="Informationen zu diesem Ergebnis">
@@ -175,9 +178,7 @@ url: "0105"
       <div class="kb0PBd cvP2Ce" data-sncf="1" data-snf="nke7rc">
         <div class="VwiC3b yXK7lf lyLwlc yDYNvb W8l4ac lEBKkf" style="-webkit-line-clamp:2">
           <span class="lhLbod gEBHYd"><span>02.09.2023</span> — </span>
-          <span>
-            If you don't want to deal with coding, then Octoparse, the best <em>Google</em> search <em>scraper</em>, can help you <em>scrape</em> the <em>Google</em> search results without ...
-          </span>
+          <span>If you don't want to deal with coding, then Octoparse, the best <em>Google</em> search <em>scraper</em>, can help you <em>scrape</em> the <em>Google</em> search results without ...</span>
         </div>
       </div>
       <div class="kb0PBd cvP2Ce" data-sncf="2" data-snf="mCCBcf">
@@ -193,6 +194,13 @@ url: "0105"
 
 </div>
 ```
+
+
+## assignments
+1. Do a search with Google and obtain a Google SERP, \
+  e.g. https://www.google.com/search?q=something \
+  wherere `something` is your word(s) or phrase.
+  Report the result on https://github.com/dudung/lecture-notes/issues/6.
 
 
 ## previous notes
