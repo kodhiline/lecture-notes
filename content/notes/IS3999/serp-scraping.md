@@ -208,6 +208,7 @@ url: "0105"
 Report the output in https://github.com/dudung/lecture-notes/issues/13.
 8. Continue answer 7 for links, snippets, and display links. Report in on https://github.com/dudung/lecture-notes/issues/14. Use something `$('div[data-example="1"]');` to find and element with certain attribute if necessary.
 9. Save JSON file to a file by adding some lines. Report this additional lines on https://github.com/dudung/lecture-notes/issues/15.
+10. Create a Medium story about your journey today in scraping a Google SERP. Choose a provocative title to attract readers. Report that on https://github.com/dudung/lecture-notes/issues/16.
 
 
 ## previous notes
