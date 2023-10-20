@@ -201,7 +201,12 @@ url: "0105"
   Report the result on https://github.com/dudung/lecture-notes/issues/6.
 2. Using your previous Google SERP or a new one find the block of elements and classes used for an organic result. Use CTRL+SHIFT+J and highlight it, take a screenshot and paste it on https://github.com/dudung/lecture-notes/issues/7.
 3. Find in the source of your previous SERP a block of HTML elements and classses that is representing an organic search result. Report it on https://github.com/dudung/lecture-notes/issues/8.
-4. For a SERP find element and class for title, link, description, and displayed link. Report this information on https://github.com/dudung/lecture-notes/issues/9.
+4. For a SERP find element and class for titles, links, snippets, and displayed links. Report this information on https://github.com/dudung/lecture-notes/issues/9.
+5. Read [Node.js and Google SERP](https://medium.com/@6unpnp/node-js-and-google-serp-36031458b0ac) download the example [`GoogleorganicResultsScraper.js`](https://github.com/Darshan972/GoogleScrapingBlogs/blob/main/GoogleorganicResultsScraper.js), modify it with your query and report it on https://github.com/dudung/lecture-notes/issues/11.
+6. Modify [`GoogleorganicResultsScraper.js`](https://github.com/Darshan972/GoogleScrapingBlogs/blob/main/GoogleorganicResultsScraper.js) by changing `organicResults` to `response.body` in the line containing `console.log()` and report it on https://github.com/dudung/lecture-notes/issues/12.
+7. Use results from answer from 4 and use it in the `GoogleorganicResultsScraper.js` to find information about titles first. Comment the output of links, snippets, and displayed links.
+Report the output in https://github.com/dudung/lecture-notes/issues/13.
+8. Continue answer 7 for links, snippets, and display links. Report in on https://github.com/dudung/lecture-notes/issues/14.
 
 
 ## previous notes
