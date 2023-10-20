@@ -206,7 +206,8 @@ url: "0105"
 6. Modify [`GoogleorganicResultsScraper.js`](https://github.com/Darshan972/GoogleScrapingBlogs/blob/main/GoogleorganicResultsScraper.js) by changing `organicResults` to `response.body` in the line containing `console.log()` and report it on https://github.com/dudung/lecture-notes/issues/12.
 7. Use results from answer from 4 and use it in the `GoogleorganicResultsScraper.js` to find information about titles first. Comment the output of links, snippets, and displayed links.
 Report the output in https://github.com/dudung/lecture-notes/issues/13.
-8. Continue answer 7 for links, snippets, and display links. Report in on https://github.com/dudung/lecture-notes/issues/14.
+8. Continue answer 7 for links, snippets, and display links. Report in on https://github.com/dudung/lecture-notes/issues/14. Use something `$('div[data-example="1"]');` to find and element with certain attribute if necessary.
+9. Save JSON file to a file by adding some lines. Report this additional lines on https://github.com/dudung/lecture-notes/issues/15.
 
 
 ## previous notes
