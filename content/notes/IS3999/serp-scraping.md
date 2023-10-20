@@ -201,6 +201,7 @@ url: "0105"
   e.g. https://www.google.com/search?q=something \
   wherere `something` is your word(s) or phrase.
   Report the result on https://github.com/dudung/lecture-notes/issues/6.
+2. Using your previous Google SERP or a new one find the block of elements and classes used for an organic result. Use CTRL+SHIFT+J and highlight it, take a screenshot and paste it on https://github.com/dudung/lecture-notes/issues/7.
 
 
 ## previous notes
