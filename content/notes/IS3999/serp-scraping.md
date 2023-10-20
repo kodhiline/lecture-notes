@@ -210,6 +210,7 @@ Report the output in https://github.com/dudung/lecture-notes/issues/13.
 9. Save JSON file to a file by adding some lines. Report this additional lines on https://github.com/dudung/lecture-notes/issues/15.
 10. Create a Medium story about your journey today in scraping a Google SERP. Choose a provocative title to attract readers. Report that on https://github.com/dudung/lecture-notes/issues/16.
 11. Read [Google Search Operators: The Complete List (44 Advanced Operators)](https://ahrefs.com/blog/google-advanced-search-operators/) and show how to find a definition about something in a particular website between 2000 and 2010. Report it on  https://github.com/dudung/lecture-notes/issues/17.
+12. Do you have any idea how to integrate 11 with SERP and scrape it?
 
 
 ## previous notes
