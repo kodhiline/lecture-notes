@@ -201,7 +201,7 @@ url: "0105"
   Report the result on https://github.com/dudung/lecture-notes/issues/6.
 2. Using your previous Google SERP or a new one find the block of elements and classes used for an organic result. Use CTRL+SHIFT+J and highlight it, take a screenshot and paste it on https://github.com/dudung/lecture-notes/issues/7.
 3. Find in the source of your previous SERP a block of HTML elements and classses that is representing an organic search result. Report it on https://github.com/dudung/lecture-notes/issues/8.
-
+4. For a SERP find element and class for title, link, description, and displayed link. Report this information on https://github.com/dudung/lecture-notes/issues/9.
 
 
 ## previous notes
