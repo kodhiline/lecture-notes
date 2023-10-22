@@ -20,8 +20,8 @@ Slide | Chapter | Topic
 08   | 11 | [Rolling, torque, and angular momentum](../0095/)
 09-1 | 12 | [Equilibrium and elasticity](../0096/)
 09-2 | 15 | [Oscillations](../0097/)
-10-1 | 16 | Waves-I
-10-2 | 17 | Waves-II
+10-1 | 16 | [Waves - I](../0107/)
+10-2 | 17 | [Waves - II](../0108/)
 11   | 14 | Fluids
 12   | 18 | Temperature, heat, and the first law of thermodynamics
 13   | 19 | The kinetic theory of gases
