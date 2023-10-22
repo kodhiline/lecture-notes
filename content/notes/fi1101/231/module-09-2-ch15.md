@@ -139,9 +139,27 @@ approximate driving angular frequency that gives resonance.
 
 
 ## Summary (1 of 5)
-+ Frequency.
-+ Simple Harmonic Motion.
++ Frequency
+  - 1 Hz = 1 cyle per second
++ Period
+  - $$\tag{15-2}
+    T = \frac1f
+    $$
++ Simple Harmonic Motion
+  - Find $v$ and $a$ by differentiation
+  $$\tag{15-3}
+  x(t) = x_m \cos(\omega t + \phi)
+  $$
+  $$\tag{15-5}
+  \omega = \frac{2\pi}{T} = 2\pi f.
+  $$
 + The Linear Oscillator.
+  - $$\tag{15-12}
+  \omega = \sqrt{\frac{k}{m}}
+  $$
+  - $$\tag{15-13}
+  T = 2\pi \sqrt{\frac{m}{k}}
+  $$
 + Energy.
 + Pendulums.
 + Simple Harmonic Motion and Uniform Circular Motion.
