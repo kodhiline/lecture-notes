@@ -10,6 +10,10 @@ url: "0109"
 {{< toc >}}
 
 
+## related notes
++ [m09-2: oscillations](../0097/)
+
+
 ## simple harmonic motion
 + It is periodic motion that is a sinusoidal function of time
   $$\tag{1}
@@ -37,5 +41,17 @@ url: "0109"
   $\phi$ | initial phase, phase angle, phase constant | rad
 
 
-## notes
-+ [m09-2: oscillations](../0097/)
+## phase constant
++ It shifts the sine or cosine function.
++ For certain $\phi_s$ and $\phi_c$ following relation,
+  $$\tag{3}
+  \cos (\omega t + \phi_c) = \sin (\omega t + \phi_s),
+  $$
+  will hold.
+
+### quadrant I
+$$tag{phc-q-1}
+\begin{array}{rcl}
+ & = &
+\end{end}
+$$
