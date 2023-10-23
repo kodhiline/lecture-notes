@@ -20,11 +20,34 @@ url: "0100"
 
 ## 25-wed
 + `0900` FI4002 assignment preparation for Friday.
-+ `0600` ITB-G with GTMK to UI for GB YK.
++ `0900` SB correction day 2.
++ `0600` ITB-G with GTMK to UI for GB YK. &times;
+
+
+## 24-tue
++ `1715` GKU-2 ITB-J to GKU-T ITB-G.
++ `1000` GKU-T ITB-G to GKU-3 ITB-J.
++ `0900` SB correction day 1.
+
+
+## 23-mon
++ `1930` MA-NN for &varphi; validation after 9h, archived on `chvzf`. &check;
++ `1830` AIDI-AP send NIK and NPWP, CV not yet uploaded. &check;
++ `0800` Multidisciplinary meeting with Asep & Phet. &times;
+
+
+## 22-sun
++ `0000` Rest all day. &check;
+
+
+## 21-sat
++ `0000` Rest all day. &check;
 
 
 ## 20-fri
-+ `0430` Assignment to the agency.
++ `2000` Salman from IKN. &check;
++ `1600` Update to AIDI, pre-work. &times;
++ `0430` Assignment to the agency. &check;
 
 
 ## 19-thu
