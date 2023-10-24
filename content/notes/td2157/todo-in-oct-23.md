@@ -19,13 +19,14 @@ url: "0100"
 
 
 ## 25-wed
++ `1000` UI-KI YK GB on YT [UjCrZqz7jeU](https://www.youtube.com/watch?v=UjCrZqz7jeU).
 + `0900` FI4002 assignment preparation for Friday.
 + `0900` SB correction day 2.
 + `0600` ITB-G with GTMK to UI for GB YK. &times;
 
 
 ## 24-tue
-+ `2000` Nach Hause with alteste.
++ `2000` Nach Hause with alteste. &check;
 + `1840` With RP arrive at FI. &check;
 + `1715` GKU-2 ITB-J to GKU-T ITB-G. &times;
 + `1000` GKU-T ITB-G to GKU-3 ITB-J. &check;
