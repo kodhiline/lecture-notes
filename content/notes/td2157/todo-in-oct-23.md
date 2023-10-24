@@ -25,8 +25,10 @@ url: "0100"
 
 
 ## 24-tue
-+ `1715` GKU-2 ITB-J to GKU-T ITB-G.
-+ `1000` GKU-T ITB-G to GKU-3 ITB-J.
++ `2000` Nach Hause with alteste.
++ `1840` With RP arrive at FI. &check;
++ `1715` GKU-2 ITB-J to GKU-T ITB-G. &times;
++ `1000` GKU-T ITB-G to GKU-3 ITB-J. &check;
 + `0945` Send AIDI assignments. &check;
 + `0900` SB correction day 1. &check;
 + `0800` Archive 09 & 10 on `dwte9`, not yet assignment. &check;
