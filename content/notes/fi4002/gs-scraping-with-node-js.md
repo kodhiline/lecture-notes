@@ -23,10 +23,11 @@ url: "0112"
 + [Scraping your webpage: Using Node.js to scrap you GitHub Pages webpage](https://medium.com/@6unpnp/scraping-your-webpage-f4fde3a465db).
 + [Node.js and Google SERP: Following the steps from Khandelwal story](https://medium.com/@6unpnp/node-js-and-google-serp-36031458b0ac).
 + [Random HTTP headers User-Agent: One way to reduce being blocked while web scraping](https://medium.com/@6unpnp/random-http-headers-user-agent-23bcdd8c0537).
++ [Scrape Google Scholar SERP with Node.js](https://medium.com/@6unpnp).
 
 
 ## assignment
-+ Read the reading materials and perform the activity described if you have not done it yet.
++ Read the reading materials and perform the activities described if you have not done it yet.
 + Modify the given code to scrape Google Scholar SERP for three search words.
 + Record the statistics in the form of output program for
   - each word result
