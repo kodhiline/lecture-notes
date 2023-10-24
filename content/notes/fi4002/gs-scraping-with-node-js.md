@@ -38,3 +38,31 @@ url: "0112"
 + Make a report for this assignment in a form a story in Medium.
 + Report the link on https://github.com/dudung/lecture-notes/issues/18 before Friday 27th, October 2023, 0900 GMT+07.
 + Prepare for presentation in the class on Friday 27th, October 2023, during the class 0900-1040 GMT+07.
+
+
+## hint
+```html
+<ul id="gs_res_sb_yyl">
+  <li class="gs_ind gs_bdy_sb_sel">
+    <a href="/scholar?q=physics&amp;hl=de&amp;as_sdt=0,5">Beliebige Zeit</a>
+  </li>
+  <li class="gs_ind">
+    <a href="/scholar?as_ylo=2023&amp;q=physics&amp;hl=de&amp;as_sdt=0,5">Seit 2023</a>
+  </li>
+  <li class="gs_ind">
+    <a href="/scholar?as_ylo=2022&amp;q=physics&amp;hl=de&amp;as_sdt=0,5">Seit 2022</a>
+  </li>
+  <li class="gs_ind">
+    <a href="/scholar?as_ylo=2019&amp;q=physics&amp;hl=de&amp;as_sdt=0,5">Seit 2019</a>
+  </li>
+  <li class="gs_ind">
+    <a id="gs_res_sb_yyc" href="javascript:void(0)">Zeitraum wählen...</a>
+  </li>
+</ul>
+```
+
+```html
+<div class="gs_ab_mdw">
+  Ungefähr 6.250.000 Ergebnisse (<b>0,07</b> Sek.)
+</div>
+```
