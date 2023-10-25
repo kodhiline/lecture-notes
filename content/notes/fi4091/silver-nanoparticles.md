@@ -1,7 +1,7 @@
 ---
 title: "silver nanoparticles"
 date: 2023-10-16T15:00:00+08:00
-authors: ['Muhammad Reza Fahriyansyah	', 'Priastuti Wulandari','Sparisoma Viridi']
+authors: ['Muhammad Reza Fahriyansyah', 'Priastuti Wulandari','Sparisoma Viridi']
 tags: ['fi4091']
 draft: false
 math: true
