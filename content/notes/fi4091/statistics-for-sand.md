@@ -11,6 +11,7 @@ url: "0103"
 
 
 ## meetings
++ `26-oct-2023` Canceled due to health condition, AFN has a cold.
 + `19-oct-2023` Presenting some statistics from MA-USP assistant.
   - Next: Data samples to differ the 8 statistical parameters: [mean, median, mode, variance, standard deviation, quartiles, skewness, curtosis](http://www.countbio.com/web_pages/left_object/R_for_biology/R_biostatistics_part-1/statistical_parameters.html).
   
