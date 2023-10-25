@@ -19,9 +19,11 @@ url: "0100"
 
 
 ## 25-wed
-+ `1000` UI-KI YK GB on YT [UjCrZqz7jeU](https://www.youtube.com/watch?v=UjCrZqz7jeU).
-+ `0900` FI4002 assignment preparation for Friday.
-+ `0900` SB correction day 2.
++ `2000` Wait for die alte nach Hause.
++ `1600` Check reimbursement for 2 APS 2023 presentation, GH konto. &check;
++ `1000` UI-KI YK GB on YT [UjCrZqz7jeU](https://www.youtube.com/watch?v=UjCrZqz7jeU). &check;
++ `0900` FI4002 assignment preparation for Friday. &check;
++ `0900` SB correction day 2, until 1600 only one bag left. &check;
 + `0600` ITB-G with GTMK to UI for GB YK. &times;
 
 

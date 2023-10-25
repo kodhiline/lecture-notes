@@ -11,6 +11,9 @@ url: "0085"
 
 
 ## oct 2023
++ `25-wed` `SV` Music note with JS for lecture-notes
+  - https://www.abcjs.net/
+  - https://www.jsdelivr.com/package/npm/abcjs
 + `17-tue` `VS` ANN and natural NN divergence.
   - Model metamers reveal divergent
 invariances between biological and artificial
