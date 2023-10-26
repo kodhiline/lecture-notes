@@ -27,11 +27,11 @@ url: "0118"
   width="200" height="200"
   viewBox="0 0 200 200"
   style="background:#eee;">
-  <rect width="100" height="100" fill="green" y="20" ry="20">
+  <rect width="50" height="50" fill="green" y="20" ry="10">
     <animate
       attributeName="x"
-      values="0;100;0"
-      dur="4s"
+      values="0;100;150;100;0"
+      dur="2s"
       repeatCount="indefinite" />
   </rect>
 </svg>
@@ -62,8 +62,8 @@ url: "0118"
     <rect width="100" height="100" fill="green">
       <animate
         attributeName="x"
-        values="0;100;0"
-        dur="4s"
+        values="0;100;150;100;0"
+        dur="2s"
         repeatCount="indefinite" />
     </rect>
   </svg>
