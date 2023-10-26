@@ -12,8 +12,8 @@ url: "0114"
 
 
 ## activities
-+ `26-oct-2023` Register to ENVRES, confirm co-authorship, read manuscript [6yw8x](https://osf.io/6yw8x).
++ `26-oct-2023` Register to [envres](https://www2.cloud.editorialmanager.com/envres), confirm co-authorship, read manuscript [6yw8x](https://osf.io/6yw8x).
   - Discuss the transfer with 1st author and recommend for further discussion with 2nd author.
 + `18-oct-2023` Transfer pending, to Heliyon offer.
 + `17-oct-2023` Email notification about submission co-authorship.
-+ `16-oct-2023` Initial submission to [ENVRES](https://www2.cloud.editorialmanager.com/envres).
++ `16-oct-2023` Initial submission to [Environmental Research](https://www.sciencedirect.com/journal/environmental-research).
