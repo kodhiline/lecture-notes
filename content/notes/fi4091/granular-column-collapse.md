@@ -11,11 +11,14 @@ url: "0113"
 
 
 ## activities
-+ `26-oct-2023` Presenting TA-1 on 1300 in 1204, examiner RQ.
-+ `25-oct-2023` Slide [`8yhc7`](https://osf.io/8yhc7).
-+ `17-oct-2023` Form sidang [`96rg2`](https://osf.io/96rg2).
-+ `16-oct-2023` Catatan bimbingan [`ge2vz`](https://osf.io/ge2vz).
-+ `16-oct-2023` Draft TA 1 [`bhnmx`](https://osf.io/bhnmx).
++ `26-oct-2023` Presenting TA-1 on 1300 in 1204,
+  - rev [RQ](https://www.itb.ac.id/staf/profil/muhammad-rizqie-arbie),
+  - doc [Cy2hfjCv3_q](https://www.instagram.com/p/Cy2hfjCv3_q/),
+  - res [tdacy](https://osf.io/tdacy).
++ `25-oct-2023` Slide [8yhc7](https://osf.io/8yhc7).
++ `17-oct-2023` Form sidang [96rg2](https://osf.io/96rg2).
++ `16-oct-2023` Catatan bimbingan [ge2vz](https://osf.io/ge2vz).
++ `16-oct-2023` Draft TA 1 [bhnmx](https://osf.io/bhnmx).
 
 
 
