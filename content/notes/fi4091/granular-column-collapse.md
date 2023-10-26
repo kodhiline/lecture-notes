@@ -21,6 +21,9 @@ url: "0113"
 + `16-oct-2023` Draft TA 1 [bhnmx](https://osf.io/bhnmx).
 
 
+## comments for ta1
++ presentation, animation, video.
+
 
 ## notes
 + This is only resume note.
