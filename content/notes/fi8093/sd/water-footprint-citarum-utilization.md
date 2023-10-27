@@ -51,3 +51,4 @@ url: "0119"
 
 ## refs
 + Step-by-step stoks and flows: Improving the rigor of your thinking ([Aronson & Angelakis, 2016](https://thesystemsthinker.com/step-by-step-stocks-and-flows-improving-the-rigor-of-your-thinking/)).
++ Green, blue, and gray water ([Chat GPT 2023](https://chat.openai.com/share/da5c0994-86b4-4d22-bab3-1d2ace9abed6))
