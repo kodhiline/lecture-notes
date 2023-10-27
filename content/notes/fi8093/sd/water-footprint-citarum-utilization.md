@@ -1,7 +1,7 @@
 ---
 title: "water footprint citarum utilization"
 date: 2023-10-27T07:04:00+07:00
-authors: [' Phetviengkham Onexayvieng', 'Sparisoma Viridi']
+authors: ['Phetviengkham Onexayvieng', 'Sparisoma Viridi']
 tags: ['fi8093']
 draft: false
 math: true
