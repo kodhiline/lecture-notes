@@ -25,3 +25,7 @@ url: "0124"
   <path d="M 10 80 Q 52.5 10, 95 80 T 180 80" stroke="black" fill="transparent" stroke-width="2" />
 </svg>
 {{< /html >}}
+
+
+## refs
++ Path ([MDN, 2023]( https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Paths)]
