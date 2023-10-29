@@ -373,7 +373,7 @@ url: "0125"
 {{< html >}}
 <svg
   version="1.1" xmlns="http://www.w3.org/2000/svg"
-  width="600" height="320"
+  width="500" height="320"
   style="background: #eee;">
     <path 
       d="
@@ -388,7 +388,7 @@ url: "0125"
     <circle cx="250" cy="50" r="4" fill="red" />
     <circle cx="350" cy="150" r="4" fill="red" />
     <circle cx="250" cy="250" r="4" fill="red" />
-    <text x="150" y="150" text-anchor="end" alignment-baseline="before-edge">(50, 150)</text>
+    <text x="150" y="150" text-anchor="end" alignment-baseline="before-edge">(150, 150)</text>
     <text x="250" y="50" text-anchor="middle" alignment-baseline="after-edge">(250, 50)</text>
     <text x="350" y="150" text-anchor="start" alignment-baseline="middle">(350, 150)</text>
     <text x="250" y="250" text-anchor="middle" alignment-baseline="before-edge">(250, 250)</text>
@@ -406,6 +406,51 @@ url: "0125"
         T 350 150
         T 250 250
         Z
+      "
+      stroke="#f88" stroke-width="3" fill="#fcc" />
+</svg>
+```
+
+
+## arbitrary form for domain & boundary
+{{< html >}}
+<svg
+  version="1.1" xmlns="http://www.w3.org/2000/svg"
+  width="550" height="320"
+  style="background: #eee;">
+    <path 
+      d="
+        M 150 150
+        Q 150 50 250 50
+        T 400 150
+        T 300 250
+        T 150 150
+      "
+      stroke="#f88" stroke-width="3" fill="#fcc" />
+    <circle cx="150" cy="150" r="4" fill="red" />
+    <circle cx="250" cy="50" r="4" fill="red" />
+    <circle cx="400" cy="150" r="4" fill="red" />
+    <circle cx="300" cy="250" r="4" fill="red" />
+    <text x="150" y="150" text-anchor="end" alignment-baseline="middle">(150, 150)</text>
+    <text x="250" y="50" text-anchor="middle" alignment-baseline="after-edge">(250, 50)</text>
+    <text x="400" y="150" text-anchor="start" alignment-baseline="middle">(400, 150)</text>
+    <text x="300" y="250" text-anchor="middle" alignment-baseline="before-edge">(300, 250)</text>
+    <text x="165" y="235" text-anchor="middle" alignment-baseline="middle">&part;&Omega;</text>
+    <text x="270" y="170" text-anchor="middle" alignment-baseline="middle">&Omega;</text>
+</svg>
+{{< /html >}}
+```svg
+<svg
+  version="1.1" xmlns="http://www.w3.org/2000/svg"
+  width="600" height="320"
+  style="background: #eee;">
+    <path 
+      d="
+        M 150 150
+        Q 150 50 250 50
+        T 400 150
+        T 300 250
+        T 150 150
       "
       stroke="#f88" stroke-width="3" fill="#fcc" />
 </svg>
