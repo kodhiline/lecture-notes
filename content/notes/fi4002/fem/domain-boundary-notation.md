@@ -19,10 +19,21 @@ url: "0124"
 
 ## illustration
 {{< html >}}
-<svg width="190" height="160"     
-  xmlns="http://www.w3.org/2000/svg"
+<svg
+  version="1.1" xmlns="http://www.w3.org/2000/svg"
+  width="350" height="320"
   style="background: #eee;">
-  <path d="M 10 80 Q 52.5 10, 95 80 T 180 80" stroke="black" fill="transparent" stroke-width="2" />
+    <path 
+      d="
+        M 50 150
+        Q 50 50 150 50
+        T 300 150
+        T 200 250
+        T 50 150
+      "
+      stroke="#f88" stroke-width="3" fill="#fcc" />
+    <text x="65" y="235" text-anchor="middle" alignment-baseline="middle">&part;&Omega;</text>
+    <text x="170" y="150" text-anchor="middle" alignment-baseline="middle">&Omega;</text>
 </svg>
 {{< /html >}}
 
