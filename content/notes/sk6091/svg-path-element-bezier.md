@@ -109,7 +109,7 @@ url: "0125"
   version="1.1" xmlns="http://www.w3.org/2000/svg"
   width="200" height="200"
   style="background: #eee;">
-    <path  d="M 20 150 Q 100 50 180 150"
+    <path d="M 20 150 Q 100 50 180 150"
       stroke="black" stroke-width="3" fill="none" />
     <circle cx="20" cy="150" r="4" />
     <circle cx="100" cy="50" r="4" fill="red" />
@@ -120,7 +120,7 @@ url: "0125"
       stroke="red" stroke-width="1" stroke-dasharray="5 5" />
     <text x="20" y="150" text-anchor="start" alignment-baseline="before-edge">(20, 150)</text>
     <text x="180" y="150" text-anchor="end" alignment-baseline="before-edge">(180, 150)</text>
-    <text x="100" y="50" text-anchor="middle" alignment-baseline="after-edge">(180, 150)</text>
+    <text x="100" y="50" text-anchor="middle" alignment-baseline="after-edge">(100, 50)</text>
 </svg>
 {{< /html >}}
 ```svg
@@ -130,5 +130,283 @@ url: "0125"
   style="background: #eee;">
     <path  d="M 20 150 Q 100 50 180 150"
       stroke="black" stroke-width="3" fill="none" />
+</svg>
+```
+
+## more points 1
+{{< html >}}
+<svg
+  version="1.1" xmlns="http://www.w3.org/2000/svg"
+  width="520" height="320"
+  style="background: #eee;">
+    <path 
+      d="
+        M 20 150
+        Q 100 50 180 150
+        Q 260 250 340 150
+        Q 420 50 500 150
+      "
+      stroke="black" stroke-width="3" fill="none" />
+    <circle cx="20" cy="150" r="4" />
+    <circle cx="100" cy="50" r="4" fill="red" />
+    <circle cx="180" cy="150" r="4" />
+    <circle cx="260" cy="250" r="4" fill="red" />
+    <circle cx="340" cy="150" r="4" />
+    <circle cx="420" cy="50" r="4" fill="red" />
+    <circle cx="500" cy="150" r="4" />
+    <line x1="20" y1="150" x2="100" y2="50"  
+      stroke="red" stroke-width="1" stroke-dasharray="5 5" />
+    <line x1="100" y1="50" x2="180" y2="150" 
+      stroke="red" stroke-width="1" stroke-dasharray="5 5" />
+    <line x1="180" y1="150" x2="260" y2="250" 
+      stroke="red" stroke-width="1" stroke-dasharray="5 5" />
+    <line x1="340" y1="150" x2="260" y2="250" 
+      stroke="red" stroke-width="1" stroke-dasharray="5 5" />
+    <line x1="340" y1="150" x2="420" y2="50" 
+      stroke="red" stroke-width="1" stroke-dasharray="5 5" />
+    <line x1="420" y1="50" x2="500" y2="150" 
+      stroke="red" stroke-width="1" stroke-dasharray="5 5" />
+    <text x="20" y="150" text-anchor="start" alignment-baseline="before-edge">(20, 150)</text>
+    <text x="180" y="150" text-anchor="end" alignment-baseline="before-edge">(180, 150)</text>
+    <text x="100" y="50" text-anchor="middle" alignment-baseline="after-edge">(100, 50)</text>
+    <text x="260" y="250" text-anchor="middle" alignment-baseline="before-edge">(260, 250)</text>
+    <text x="340" y="150" text-anchor="end" alignment-baseline="after-edge">(340, 150)</text>
+    <text x="420" y="50" text-anchor="middle" alignment-baseline="after-edge">(420, 50)</text>
+    <text x="500" y="150" text-anchor="end" alignment-baseline="before-edge">(500, 150)</text>
+</svg>
+{{< /html >}}
+```svg
+<svg
+  version="1.1" xmlns="http://www.w3.org/2000/svg"
+  width="520" height="320"
+  style="background: #eee;">
+    <path 
+      d="
+        M 20 150
+        Q 100 50 180 150
+        Q 260 250 340 150
+        Q 420 50 500 150
+      "
+      stroke="black" stroke-width="3" fill="none" />
+</svg>
+```
+
+
+## more points 1 (T instead of Q)
+{{< html >}}
+<svg
+  version="1.1" xmlns="http://www.w3.org/2000/svg"
+  width="520" height="320"
+  style="background: #eee;">
+    <path 
+      d="
+        M 20 150
+        Q 100 50 180 150
+        T 340 150
+        T 500 150
+      "
+      stroke="black" stroke-width="3" fill="none" />
+    <circle cx="20" cy="150" r="4" />
+    <circle cx="100" cy="50" r="4" fill="red" />
+    <circle cx="180" cy="150" r="4" />
+    <circle cx="260" cy="250" r="4" fill="red" />
+    <circle cx="340" cy="150" r="4" />
+    <circle cx="420" cy="50" r="4" fill="red" />
+    <circle cx="500" cy="150" r="4" />
+    <line x1="20" y1="150" x2="100" y2="50"  
+      stroke="red" stroke-width="1" stroke-dasharray="5 5" />
+    <line x1="100" y1="50" x2="180" y2="150" 
+      stroke="red" stroke-width="1" stroke-dasharray="5 5" />
+    <line x1="180" y1="150" x2="260" y2="250" 
+      stroke="red" stroke-width="1" stroke-dasharray="5 5" />
+    <line x1="340" y1="150" x2="260" y2="250" 
+      stroke="red" stroke-width="1" stroke-dasharray="5 5" />
+    <line x1="340" y1="150" x2="420" y2="50" 
+      stroke="red" stroke-width="1" stroke-dasharray="5 5" />
+    <line x1="420" y1="50" x2="500" y2="150" 
+      stroke="red" stroke-width="1" stroke-dasharray="5 5" />
+    <text x="20" y="150" text-anchor="start" alignment-baseline="before-edge">(20, 150)</text>
+    <text x="180" y="150" text-anchor="end" alignment-baseline="before-edge">(180, 150)</text>
+    <text x="100" y="50" text-anchor="middle" alignment-baseline="after-edge">(100, 50)</text>
+    <text x="260" y="250" text-anchor="middle" alignment-baseline="before-edge">(260, 250)</text>
+    <text x="340" y="150" text-anchor="end" alignment-baseline="after-edge">(340, 150)</text>
+    <text x="420" y="50" text-anchor="middle" alignment-baseline="after-edge">(420, 50)</text>
+    <text x="500" y="150" text-anchor="end" alignment-baseline="before-edge">(500, 150)</text>
+</svg>
+{{< /html >}}
+```svg
+<svg
+  version="1.1" xmlns="http://www.w3.org/2000/svg"
+  width="520" height="320"
+  style="background: #eee;">
+    <path 
+      d="
+        M 20 150
+        Q 100 50 180 150
+        T 340 150
+        T 500 150
+      "
+      stroke="black" stroke-width="3" fill="none" />
+</svg>
+```
+
+
+## more points 2
+{{< html >}}
+<svg
+  version="1.1" xmlns="http://www.w3.org/2000/svg"
+  width="520" height="320"
+  style="background: #eee;">
+    <path 
+      d="
+        M 20 150
+        Q 100 50 180 150
+        Q 260 250 400 150
+        Q 420 50 500 150
+      "
+      stroke="black" stroke-width="3" fill="none" />
+    <circle cx="20" cy="150" r="4" />
+    <circle cx="100" cy="50" r="4" fill="red" />
+    <circle cx="180" cy="150" r="4" />
+    <circle cx="260" cy="250" r="4" fill="red" />
+    <circle cx="400" cy="150" r="4" />
+    <circle cx="420" cy="50" r="4" fill="red" />
+    <circle cx="500" cy="150" r="4" />
+    <line x1="20" y1="150" x2="100" y2="50"  
+      stroke="red" stroke-width="1" stroke-dasharray="5 5" />
+    <line x1="100" y1="50" x2="180" y2="150" 
+      stroke="red" stroke-width="1" stroke-dasharray="5 5" />
+    <line x1="180" y1="150" x2="260" y2="250" 
+      stroke="red" stroke-width="1" stroke-dasharray="5 5" />
+    <line x1="400" y1="150" x2="260" y2="250" 
+      stroke="red" stroke-width="1" stroke-dasharray="5 5" />
+    <line x1="400" y1="150" x2="420" y2="50" 
+      stroke="red" stroke-width="1" stroke-dasharray="5 5" />
+    <line x1="420" y1="50" x2="500" y2="150" 
+      stroke="red" stroke-width="1" stroke-dasharray="5 5" />
+    <text x="20" y="150" text-anchor="start" alignment-baseline="before-edge">(20, 150)</text>
+    <text x="180" y="150" text-anchor="end" alignment-baseline="before-edge">(180, 150)</text>
+    <text x="100" y="50" text-anchor="middle" alignment-baseline="after-edge">(100, 50)</text>
+    <text x="260" y="250" text-anchor="middle" alignment-baseline="before-edge">(260, 250)</text>
+    <text x="400" y="150" text-anchor="end" alignment-baseline="after-edge">(400, 150)</text>
+    <text x="420" y="50" text-anchor="middle" alignment-baseline="after-edge">(420, 50)</text>
+    <text x="500" y="150" text-anchor="end" alignment-baseline="before-edge">(500, 150)</text>
+</svg>
+{{< /html >}}
+```svg
+<svg
+  version="1.1" xmlns="http://www.w3.org/2000/svg"
+  width="520" height="320"
+  style="background: #eee;">
+    <path 
+      d="
+        M 20 150
+        Q 100 50 180 150
+        Q 260 250 340 150
+        Q 420 50 500 150
+      "
+      stroke="black" stroke-width="3" fill="none" />
+</svg>
+```
+
+
+## more points 2 (T instead of Q)
+{{< html >}}
+<svg
+  version="1.1" xmlns="http://www.w3.org/2000/svg"
+  width="600" height="320"
+  style="background: #eee;">
+    <path 
+      d="
+        M 20 150
+        Q 100 50 180 150
+        T 400 150
+        T 500 150
+      "
+      stroke="black" stroke-width="3" fill="none" />
+    <circle cx="20" cy="150" r="4" />
+    <circle cx="100" cy="50" r="4" fill="red" />
+    <circle cx="180" cy="150" r="4" />
+    <circle cx="260" cy="250" r="4" fill="red" />
+    <circle cx="400" cy="150" r="4" />
+    <circle cx="540" cy="50" r="4" fill="red" />
+    <circle cx="500" cy="150" r="4" />
+    <line x1="20" y1="150" x2="100" y2="50"  
+      stroke="red" stroke-width="1" stroke-dasharray="5 5" />
+    <line x1="100" y1="50" x2="180" y2="150" 
+      stroke="red" stroke-width="1" stroke-dasharray="5 5" />
+    <line x1="180" y1="150" x2="260" y2="250" 
+      stroke="red" stroke-width="1" stroke-dasharray="5 5" />
+    <line x1="400" y1="150" x2="260" y2="250" 
+      stroke="red" stroke-width="1" stroke-dasharray="5 5" />
+    <line x1="400" y1="150" x2="540" y2="50" 
+      stroke="red" stroke-width="1" stroke-dasharray="5 5" />
+    <line x1="540" y1="50" x2="500" y2="150" 
+      stroke="red" stroke-width="1" stroke-dasharray="5 5" />
+    <text x="20" y="150" text-anchor="start" alignment-baseline="before-edge">(20, 150)</text>
+    <text x="180" y="150" text-anchor="end" alignment-baseline="before-edge">(180, 150)</text>
+    <text x="100" y="50" text-anchor="middle" alignment-baseline="after-edge">(100, 50)</text>
+    <text x="260" y="250" text-anchor="middle" alignment-baseline="before-edge">(260, 250)</text>
+    <text x="400" y="150" text-anchor="end" alignment-baseline="after-edge">(400, 150)</text>
+    <text x="540" y="50" text-anchor="middle" alignment-baseline="after-edge">(540, 50)</text>
+    <text x="500" y="150" text-anchor="end" alignment-baseline="before-edge">(500, 150)</text>
+</svg>
+{{< /html >}}
+```svg
+<svg
+  version="1.1" xmlns="http://www.w3.org/2000/svg"
+  width="520" height="320"
+  style="background: #eee;">
+    <path 
+      d="
+        M 20 150
+        Q 100 50 180 150
+        T 400 150
+        T 500 150
+      "
+      stroke="black" stroke-width="3" fill="none" />
+</svg>
+```
+
+
+## arbitrary form with Z
+{{< html >}}
+<svg
+  version="1.1" xmlns="http://www.w3.org/2000/svg"
+  width="600" height="320"
+  style="background: #eee;">
+    <path 
+      d="
+        M 150 150
+        Q 150 50 250 50
+        T 350 150
+        T 250 250
+        Z
+      "
+      stroke="#f88" stroke-width="3" fill="#fcc" />
+    <circle cx="150" cy="150" r="4" fill="red" />
+    <circle cx="250" cy="50" r="4" fill="red" />
+    <circle cx="350" cy="150" r="4" fill="red" />
+    <circle cx="250" cy="250" r="4" fill="red" />
+    <text x="150" y="150" text-anchor="end" alignment-baseline="before-edge">(50, 150)</text>
+    <text x="250" y="50" text-anchor="middle" alignment-baseline="after-edge">(250, 50)</text>
+    <text x="350" y="150" text-anchor="start" alignment-baseline="middle">(350, 150)</text>
+    <text x="250" y="250" text-anchor="middle" alignment-baseline="before-edge">(250, 250)</text>
+</svg>
+{{< /html >}}
+```svg
+<svg
+  version="1.1" xmlns="http://www.w3.org/2000/svg"
+  width="600" height="320"
+  style="background: #eee;">
+    <path 
+      d="
+        M 150 150
+        Q 150 50 250 50
+        T 350 150
+        T 250 250
+        Z
+      "
+      stroke="#f88" stroke-width="3" fill="#fcc" />
 </svg>
 ```
