@@ -20,6 +20,78 @@ pressure, force, and the surface area over which
 that force acts.
 
 
+## 14-2 Fluids at Rest (1 of 6)
+Learning Objectives
++ 14.04 Apply the relationship between the hydrostatic
+pressure, fluid density, and the height above or
+below a reference level.
++ 14.05 Distinguish between total pressure (absolute
+pressure) and gauge pressure.
+
+
+## 14-3 Measuring Pressure (1 of 5)
+Learning Objectives
++ 14.06 Describe how a barometer can measure
+atmospheric pressure.
++ 14.07 Describe how an open-tube manometer can
+measure the gauge pressure of a gas.
+
+
+## 14-4 Pascal's Principle (1 of 6)
+Learning Objectives
++ 14.08 Identify Pascal's principle.
++ 14.09 For a hydraulic lift, apply the relationship between
+the input area and displacement and the output area
+and displacement.
+
+
+## 14-5 Archimedes' Principle (1 of 7)
+Learning Objectives
++ 14.10 Describe Archimedes' principle.
++ 14.11 Apply the relationship between the buoyant force on a body
+and the mass of the fluid displaced by the body.
++ 14.12 For a floating body, relate the buoyant force to the
+gravitational force.
++ 14.13 For a floating body, relate the gravitational force to the mass
+of the fluid displaced by the body.
++ 14.14 Distinguish between apparent weight and actual weight.
++ 14.15 Calculate the apparent weight of a body that is fully or
+partially submerged.
+
+
+## 14-6 The Equation of Continuity (1 of 7)
+Learning Objectives
++ 14.16 Describe steady flow, incompressible flow,
+nonviscous flow, and irrotational flow.
++ 14.17 Explain the term streamline.
++ 14.18 Apply the equation of continuity to relate the crosssectional area and flow speed at one point in a tube
+to those quantities at a different point.
++ 14.19 Identify and calculate volume flow rate.
++ 14.20 Identify and calculate mass flow rate.
+
+
+## 14-7 Bernoulli's Equation (1 of 6)
+Learning Objectives
++ 14.21 Calculate the kinetic energy density in terms of a fluid's
+density and flow speed.
++ 14.22 Identify the fluid pressure as being a type of energy density.
++ 14.23 Calculate the gravitational potential energy density.
++ 14.24 Apply Bernoulli's equation to relate the total energy density
+at one point on a streamline to the value at another point.
++ 14.25 Identify that Bernoulli's equation is a statement of the
+conservation of energy.
+
+
+## Summary
++ Density
++ Fluid Pressure
++ Pressure Variation with Height and Depth
++ Pascal's Principle
++ Archimedes' Principle
++ Flow of Ideal Fluids
++ Bernoulli's Equation
+
+
 ## Copyright
 Copyright © 2018 John Wiley & Sons, Inc.
 
