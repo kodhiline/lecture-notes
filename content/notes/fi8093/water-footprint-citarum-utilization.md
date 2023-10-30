@@ -11,7 +11,14 @@ url: "0119"
 
 
 ## meetings
++ `30-oct-2023` Confirm the loop and add source of water.
 + `27-oct-2023` Start from simple loop and steps for information gathering.
+
+
+## 30-oct-2023
++ Increasing loop &rightarrow; balancing loop.
++ Equations: ETo for various types of crop, individual water need per time duration, 
++ Describe activities related to WU and WC to differ them.
 
 
 ## 27-oct-2023
@@ -52,3 +59,7 @@ url: "0119"
 ## refs
 + Step-by-step stoks and flows: Improving the rigor of your thinking ([Aronson & Angelakis, 2016](https://thesystemsthinker.com/step-by-step-stocks-and-flows-improving-the-rigor-of-your-thinking/)).
 + Green, blue, and gray water ([Chat GPT 2023](https://chat.openai.com/share/da5c0994-86b4-4d22-bab3-1d2ace9abed6))
+
+
+## files
++ `30-oct-2023` [Progress Report -6_Phetviengkham(30222751).pdf](https://osf.io/fdqpe)
