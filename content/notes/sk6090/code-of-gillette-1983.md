@@ -14,7 +14,7 @@ url: "0127"
 + Skim Gillette (1983) and still do not understand the matrix and spectra connection. Perhaps previous references therein should be read first.
 
 
-## matrices c & d
+## matrices c, d
 + Mixture spectra matrix
 $$
 \mathbf{D} = \left(
@@ -117,12 +117,20 @@ print()
 print("CE = EL")
 L, E = la.eig(C)
 
-print("E = ")
+print("E =")
 print(E.round(3))
 print()
 
-print("L = ")
+print("L =")
 print(np.diag(L).round(3))
+print()
+
+print("C @ E =")
+print((C @ E).round(3))
+print()
+
+print("E @ L =")
+print((E @ np.diag(L)).round(3))
 print()
 
 ```
@@ -134,17 +142,88 @@ C =
  [0.858 0.856 0.852]]
 
 CE = EL
-E = 
+E =
 [[-0.745 -0.535 -0.4  ]
  [-0.596  0.802  0.039]
  [-0.3   -0.267  0.916]]
 
-L = 
+L =
 [[4.688 0.    0.   ]
  [0.    0.    0.   ]
  [0.    0.    0.514]]
+
+C @ E =
+[[-3.491  0.    -0.205]
+ [-2.796  0.     0.02 ]
+ [-1.405  0.     0.471]]
+
+E @ L =
+[[-3.491 -0.    -0.205]
+ [-2.796  0.     0.02 ]
+ [-1.405 -0.     0.471]]
 ```
 + Notice that eigenvalues are the same but not the eigenvectors.
++ Comparison
+E | Gillette (1983) | NumPy
+:-: | :-: | :-:
+1 | `[0.745, 0.596, 0.300]` | `[-0.745, -0.596, -0.300]`
+2 | `[−0.400, 0.039, 0.916]` | `[-0.535, 0.802, -0.267]`
+3 | `[0.000, 0.000, 0.000]` | `[-0.400, 0.039, 0.916]`
++ Explanation: N/A.
+
+
+## matrices a, d, e
++ Use previous $\mathbf{D}$ and $\mathbf{E}$ from Gillette (1983).
++ Code https://onecompiler.com/python/3zrznvmwg
+```python
+import numpy as np
+
+D = np.array(
+  [
+    [0.26, 0.22, 0.14],
+    [0.20, 0.40, 0.80],
+    [1.60, 1.20, 0.40],
+    [0.12, 0.14, 0.18],
+    ]
+  )
+
+E = np.array(
+  [
+    [0.745, -0.400],
+    [0.596, 0.039],
+    [0.300, 0.916],
+    ]
+  )
+
+A = D @ E
+
+print("D ="); print(D); print()
+print("E ="); print(E); print()
+print("A ="); print(A.round(3)); print()
+```
++ Result (confirmed)
+```shell
+D =
+[[0.26 0.22 0.14]
+ [0.2  0.4  0.8 ]
+ [1.6  1.2  0.4 ]
+ [0.12 0.14 0.18]]
+
+E =
+[[ 0.745 -0.4  ]
+ [ 0.596  0.039]
+ [ 0.3    0.916]]
+
+A =
+[[ 0.367  0.033]
+ [ 0.627  0.668]
+ [ 2.027 -0.227]
+ [ 0.227  0.122]]
+```
+
+
+## to-do
++ `30-oct-2023` Matrices `c, d`, `c, e, l`, `a, d, e`, next last page of main ref.
 
 
 ## refs
