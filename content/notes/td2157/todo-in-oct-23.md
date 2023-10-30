@@ -11,6 +11,8 @@ url: "0100"
 
 
 ## 30-mon
++ `1330` Online discussion with NSA about spectra. [0127](../0127/) &check;
++ `1300` PMDSU monev in Annex lt 3, ITB-TS. &check;
 + `1000` ~FI RSB~ BSC-A lt 1 book of Reno Alamsyah. [CzAg_nTPQvw](https://www.instagram.com/p/CzAg_nTPQvw/) &check;
 + `0800` Interdisciplinary presentation in LFD-AP room. [0119](../0119/) [0126](../0126/) &check;
 + `0755` Send to FI20 Yusuf the questionnaire FI4002-01. &check;
