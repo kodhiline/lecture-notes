@@ -10,16 +10,29 @@ url: "0100"
 {{< toc >}}
 
 
+## 30-mon
++ `0800` Interdisciplinary presentation in LFD-AP room. [0119](../0119/) [0126](../0126/) &check;
++ `0755` Send to FI20 Yusuf the questionnaire FI4002-01. &check;
++ `0730` Submit questionnaire for FI1101 K04 & K09 with MS Forms. [0111](../0111/) &check;
+
+## 29-sun
++ `0900` Stay at home and take care the climbing plant. &check;
+
+
+## 28-sat
++ `0800` Create a story for alumni of the lab. &check;
+
+
 ## 27-fri
-+ `0900` FI4002 presentation.
++ `0900` FI4002 presentation and ASIIN questionnaire discussion.  &check;
 
 
 ## 26-thu
-+ `1300` S1 Nawaf TA1 defense with RQ.
++ `1300` S1 Nawaf TA1 defense with RQ. &check;
 
 
 ## 25-wed
-+ `2000` Wait for die alte nach Hause.
++ `2000` Wait for die alte nach Hause.  &check;
 + `1600` Check reimbursement for 2 APS 2023 presentation, GH konto. &check;
 + `1000` UI-KI YK GB on YT [UjCrZqz7jeU](https://www.youtube.com/watch?v=UjCrZqz7jeU). &check;
 + `0900` FI4002 assignment preparation for Friday. &check;
