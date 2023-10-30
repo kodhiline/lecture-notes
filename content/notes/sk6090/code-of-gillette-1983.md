@@ -1,5 +1,5 @@
 ---
-title: "matrix spectra separation"
+title: "code of gillette 1983"
 date: 2023-10-30T15:03:00+07:00
 authors: ['Aria Wahyu Wicaksono', 'Nina Siti Aminah', 'Sparisoma Viridi']
 tags: ['sk6091']
