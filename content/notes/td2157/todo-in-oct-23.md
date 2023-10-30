@@ -29,7 +29,7 @@ url: "0100"
 
 
 ## 26-thu
-+ `1300` S1 Nawaf TA1 defense with RQ. &check;
++ `1300` S1 Nawaf TA1 defense with RQ. [Cy2hfjCv3_q](https://www.instagram.com/p/Cy2hfjCv3_q/) &check;
 
 
 ## 25-wed
