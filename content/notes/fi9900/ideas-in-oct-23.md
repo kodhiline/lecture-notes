@@ -11,6 +11,8 @@ url: "0085"
 
 
 ## oct 2023
++ `30-mon` `IG` Ikigai, Kaizen, Pomodoro Technique, Hara Hachi, Shoshin, Wabi-sabi.
+  - https://www.instagram.com/reel/CyWM2-WSnV8/
 + `25-wed` `SV` Music note with JS for lecture-notes
   - https://www.abcjs.net/
   - https://www.jsdelivr.com/package/npm/abcjs

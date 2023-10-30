@@ -80,5 +80,5 @@ print(C)
 ```
 
 
-## res
+## refs
 + Paul C. Gillette, Jerome B. Lando, Jack L. Koenig, "Factor analysis for separation of pure component spectra from mixture spectra", Analytical Chemistry, vol 55, no 4, pp 630-633, Apr 1983, url https://doi.org/10.1021/ac00255a011. [pr5ye](https://osf.io/pr5ye)
