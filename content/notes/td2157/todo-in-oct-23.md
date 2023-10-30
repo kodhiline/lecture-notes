@@ -10,6 +10,10 @@ url: "0100"
 {{< toc >}}
 
 
+## 31-tue
++ `0530` Submit FI4002 questionnaire. &check; [tvcjx](https://osf.io/tvcjx)
+
+
 ## 30-mon
 + `1330` Online discussion with NSA about spectra. [0127](../0127/) &check;
 + `1300` PMDSU monev in Annex lt 3, ITB-TS. &check;
@@ -17,6 +21,7 @@ url: "0100"
 + `0800` Interdisciplinary presentation in LFD-AP room. [0119](../0119/) [0126](../0126/) &check;
 + `0755` Send to FI20 Yusuf the questionnaire FI4002-01. &check;
 + `0730` Submit questionnaire for FI1101 K04 & K09 with MS Forms. [0111](../0111/) &check;
+
 
 ## 29-sun
 + `0900` Stay at home and take care the climbing plant. &check;
