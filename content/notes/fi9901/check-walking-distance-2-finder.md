@@ -49,5 +49,12 @@ url: "0129"
 + Estimation 21-24 minutes.
 
 
+## result
+{{< html >}}
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="10133795303"></div><script src="https://strava-embeds.com/embed.js"></script>
+{{< /html >}}
++ It seems Google Maps and Strava give different results.
+
+
 ## notes
 + [gssr on meta analysis nanosilica rice](../0093/)
