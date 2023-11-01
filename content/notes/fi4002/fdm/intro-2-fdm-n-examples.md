@@ -50,3 +50,7 @@ $$
 y_{i+1} = y_i + h \frac{dy}{dx}
 $$
 + Smaller $h$ gives better result, but it might be no efficient.
+
+
+## assignment
++ url https://github.com/dudung/lecture-notes/issues/20
