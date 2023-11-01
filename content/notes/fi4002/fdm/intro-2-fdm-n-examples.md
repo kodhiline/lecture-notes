@@ -10,10 +10,9 @@ url: "0130"
 {{< toc >}}
 
 
-## intro
-+ 08-apr-2020` [Persamaan diferensial parsial](https://doi.org/10.5281/zenodo.3744577)
+## theory
++ `08-apr-2020` [Persamaan diferensial parsial](https://doi.org/10.5281/zenodo.3744577)
 + `10-apr-2020` [Persamaan diferensial parsial dengan spreadsheet](https://doi.org/10.5281/zenodo.3747500)
-+ 
 
 
 ## examples
