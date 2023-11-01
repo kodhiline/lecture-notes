@@ -24,3 +24,29 @@ url: "0130"
 + `10-jul-2019` [Molecular Dynamics Simulation of Floating Spheres Forming Two-Dimensional Hexagonal Close Packed Structure](https://www.slideshare.net/sparisoma/molecular-dynamics-simulation-of-floating-spheres-forming-twodimensional-hexagonal-close-packed-structure)
 + `29-jun-2019` [Granular buoyant force in a two-dimensional intruder-particles bed system](https://www.slideshare.net/sparisoma/granular-buoyant-force-in-a-twodimensional-intruderparticles-bed-system)
 + `31-oct-2018` [Simulation of snake-like swimming system using granular model](https://doi.org/10.5281/zenodo.2673046)
+
+
+## bvp with matrix
++ Qingkai Kong, Timmy Siaw, Alexandre Bayen, "Finite Difference Method" in Python Programming And Numerical Methods: A Guide For Engineers And Scientists, Academic Press, 1st edition, Nov 2020, url https://pythonnumericalmethods.berkeley.edu/notebooks/chapter23.03-Finite-Difference-Method.html [20231101]
++ Equations
+$$\tag{1}
+\frac{dy}{dx} = \frac{y_{i+1} - y_{i-1}}{2h}
+$$
+$$\tag{2}
+\frac{d^2y}{dx^2} = \frac{y_{i+1} -2y_i + y_{i-1}}{h^2}
+$$
++ Problem
+$$
+\frac{d^2y}{dt^2} = -g
+$$
+with $t \in [0, 5]$, $h = 0.5$, $y_0 = 35$, $y_{10} = 10$.
++ How to get $v_0$?
+
+
+## ivp
++ It requires both $y_0$ and $v_0$
++ Equation
+$$
+y_{i+1} = y_i + h \frac{dy}{dx}
+$$
++ Smaller $h$ gives better result, but it might be no efficient.
