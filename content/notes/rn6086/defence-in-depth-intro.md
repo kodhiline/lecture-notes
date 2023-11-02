@@ -10,6 +10,10 @@ url: "0131"
 {{< toc >}}
 
 
+## assignment
++ [Defence in depth challenges](https://github.com/dudung/lecture-notes/issues/21)
+
+
 ## medium
 + [Defence in Depth - an Intro](https://medium.com/@6unpnp/defence-in-depth-an-intro-fe6e1b86f5db)
 
