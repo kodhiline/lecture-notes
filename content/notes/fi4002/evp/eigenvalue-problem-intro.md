@@ -10,8 +10,7 @@ url: "0135"
 {{< toc >}}
 
 
-## codes
-+ url https://onecompiler.com/python/3zschkwhd
+## code
 ```python
 import math
 import numpy as np
@@ -57,7 +56,10 @@ print("M v2 / val2 =", end=' ')
 print(Mv2 / val[1])
 print()
 ```
-+ Results
++ url https://onecompiler.com/python/3zschkwhd
+
+
+## results
 ```shell
 M = 
 [[2 9]
@@ -80,6 +82,7 @@ M v2 / val2 = [-0.70710678  0.70710678]
 
 
 ## theory
++ matrix
 $$\tag{1}
 \left[
 \begin{matrix}
@@ -172,3 +175,5 @@ v_2
 \end{matrix}
 \right] = 0
 $$
+
++ determinant $|M| = 0$
