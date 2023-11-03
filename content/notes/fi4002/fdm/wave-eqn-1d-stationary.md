@@ -10,6 +10,10 @@ url: "0134"
 {{< toc >}}
 
 
+## assignment
++ [Solving wave equation with FDM for stationary wave case](https://github.com/dudung/lecture-notes/issues/22)
+
+
 ## theory
 + The 1-d wave equation is
   $$\tag{1}
