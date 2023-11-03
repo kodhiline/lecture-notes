@@ -1,5 +1,5 @@
 ---
-title: "eigenvalue problem intro"
+title: "eigenvalue problem intro 2x2"
 date: 2023-11-03T10:41:00+07:00
 authors: ['Sparisoma Viridi']
 tags: ['fi4002']
@@ -177,3 +177,88 @@ v_2
 $$
 
 + determinant $|M| = 0$
+
+$$\tag{5}
+\begin{array}{r}
+(2 - \lambda)(1 - \lambda) - 9 \cdot 8 = 0 \newline
+2\cdot1 + (- \lambda) \cdot 1 + 2 \cdot (-\lambda) +  (-\lambda) \cdot (-\lambda) - 72 = 0 \newline
+2 - \lambda - 2\lambda + \lambda^2 - 72 = 0 \newline
+\lambda^2 - 3\lambda - 70 = 0 \newline
+(\lambda + 3)(\lambda - 10) = 0 \newline
+\lambda_1 = -7, \ \ \lambda_2 = 10.
+\end{array}
+$$
+
++ First eigenvalue
+$$\tag{6}
+\begin{array}{rcl}
+2 v_{1,1} + 9 v_{1,2} = -7 v_{1,1} & \Rightarrow & 9v_{1,1} = - 9v_{1,2} \newline
+& \Rightarrow & v_{1,1} = -v_{1,2} \newline
+& \Rightarrow & \displaystyle V_1 = \frac{1}{\sqrt{2}} \left[
+\begin{matrix}
+1 \newline
+-1
+\end{matrix}
+\right] =
+\left[
+\begin{matrix}
+0.707 \newline
+-0.707
+\end{matrix}
+\right]
+\end{array}
+$$
+$$\tag{7}
+\begin{array}{rcl}
+8 v_{2,1} + v_{2,2} = -7 v_{2,2} & \Rightarrow & 8 v_{2,1} = -8 v_{2,2} \newline
+& \Rightarrow &  v_{2,1} = - v_{2,2} \newline
+& \Rightarrow & \displaystyle V_1 = \frac{1}{\sqrt{2}} \left[
+\begin{matrix}
+1 \newline
+-1
+\end{matrix}
+\right] =
+\left[
+\begin{matrix}
+0.707 \newline
+-0.707
+\end{matrix}
+\right]
+\end{array}
+$$
+
++ Second eigenvalue
+$$\tag{8}
+\begin{array}{rcl}
+2 v_{1,1} + 9 v_{1,2} = 10 v_{1,1} & \Rightarrow & 8v_{1,1} = 9v_{1,2} \newline
+& \Rightarrow & \displaystyle V_2 = \frac{1}{\sqrt{145}} \left[
+\begin{matrix}
+8 \newline
+9
+\end{matrix}
+\right] =
+\left[
+\begin{matrix}
+0.664 \newline
+0.747
+\end{matrix}
+\right]
+\end{array}
+$$
+$$\tag{9}
+\begin{array}{rcl}
+8 v_{2,1} + v_{2,2} = 10 v_{2,2} & \Rightarrow & 8 v_{2,1} = 9 v_{2,2} \newline
+& \Rightarrow & \displaystyle V_2 = \frac{1}{\sqrt{145}} \left[
+\begin{matrix}
+8 \newline
+9
+\end{matrix}
+\right] =
+\left[
+\begin{matrix}
+0.664 \newline
+0.747
+\end{matrix}
+\right]
+\end{array}
+$$
