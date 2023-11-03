@@ -1,5 +1,5 @@
 ---
-title: "eigenvalue problem intro 2x2"
+title: "eigenvalue matrix 2x2"
 date: 2023-11-03T10:41:00+07:00
 authors: ['Sparisoma Viridi']
 tags: ['fi4002']
@@ -264,14 +264,14 @@ $$\tag{9}
 $$
 
 
-## discussion
-+ Comparion
+## comparion
 Approach | Numerical | Theoretical
 :- | :- | :-
 $V_1$ | `[0.74740932, 0.66436384]` | `[0.70710678118, -0.70710678118]`
 $V_2$ | `[-0.70710678, 0.70710678]` | `[0.66436383883, 0.74740931868]`
 ​
-+ Dot product
+
+## dot product
 ```shell
 the_1 @ the_2 = [[0.05872202]]
 num_1 @ num_2 = [[0.05872202]]
@@ -304,4 +304,4 @@ num_2 = np.array([
 num_dot = num_1 @ num_2
 print("num_1 @ num_2 =", num_dot)
 ```
-url https://onecompiler.com/python/3zsd3ys6n
++ url https://onecompiler.com/python/3zsd3ys6n
