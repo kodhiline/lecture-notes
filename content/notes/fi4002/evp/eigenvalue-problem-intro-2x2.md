@@ -202,8 +202,8 @@ $$\tag{6}
 \right] =
 \left[
 \begin{matrix}
-0.707 \newline
--0.707
+0.70710678118 \newline
+-0.70710678118
 \end{matrix}
 \right]
 \end{array}
@@ -220,8 +220,8 @@ $$\tag{7}
 \right] =
 \left[
 \begin{matrix}
-0.707 \newline
--0.707
+0.70710678118 \newline
+-0.70710678118
 \end{matrix}
 \right]
 \end{array}
@@ -239,8 +239,8 @@ $$\tag{8}
 \right] =
 \left[
 \begin{matrix}
-0.664 \newline
-0.747
+0.66436383883 \newline
+0.74740931868
 \end{matrix}
 \right]
 \end{array}
@@ -256,9 +256,52 @@ $$\tag{9}
 \right] =
 \left[
 \begin{matrix}
-0.664 \newline
-0.747
+0.66436383883 \newline
+0.74740931868
 \end{matrix}
 \right]
 \end{array}
 $$
+
+
+## discussion
++ Comparion
+Approach | Numerical | Theoretical
+:- | :- | :-
+$V_1$ | `[0.74740932, 0.66436384]` | `[0.70710678118, -0.70710678118]`
+$V_2$ | `[-0.70710678, 0.70710678]` | `[0.66436383883, 0.74740931868]`
+​
++ Dot product
+```shell
+the_1 @ the_2 = [[0.05872202]]
+num_1 @ num_2 = [[0.05872202]]
+```
+
+```python
+import numpy as np
+
+the_1 = np.array([
+  [0.74740932, 0.66436384]
+])
+
+the_2 = np.array([
+  [0.70710678118],
+  [-0.70710678118]
+])
+
+the_dot = the_1 @ the_2
+print("the_1 @ the_2 =", the_dot)
+
+num_1 = np.array([
+  [-0.70710678, 0.70710678]
+])
+
+num_2 = np.array([
+  [0.66436383883],
+  [0.74740931868]
+])
+
+num_dot = num_1 @ num_2
+print("num_1 @ num_2 =", num_dot)
+```
+url https://onecompiler.com/python/3zsd3ys6n
