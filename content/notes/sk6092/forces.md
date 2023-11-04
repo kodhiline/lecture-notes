@@ -17,4 +17,5 @@ url: "0138"
 
 ## 04-nov-2023
 + Use the plural for packages with homogeneous contents and the singular for packages with heterogeneous contents ([Vyacheslavovich, 2018](https://softwareengineering.stackexchange.com/a/75929/412661)).
-+ Python packages should also have short, all-lowercase names, although the use of underscores, which can an be used in the module name if it improves readability, is discouraged ([Kling, 2010](https://stackoverflow.com/a/2852305/9475509)).
++ It is encouraged that Python packages and modules have short, all-lowercase name, and underscores is discouraged for the former but can be used for the later if it is improves readability ([Kling, 2010](https://stackoverflow.com/a/2852305/9475509)).
++ Force: A package to visualize the receptive fields ([Kallad, 2018](https://pypi.org/project/force/)).
