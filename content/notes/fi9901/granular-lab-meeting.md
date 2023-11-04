@@ -16,4 +16,4 @@ url: "0136"
   - PMW lab still uses Euler, small time steps. There are still papers with $N < 100$.
   - SV memory back to [one of Luding work](https://www2.msm.ctw.utwente.nl/sluding/PAPERS/luding_md1.pdf).
   - EMMS (energy minimization multi-scale model).
-  - Start a backup project. [0138](../0138/)
+  - Start a backup project [0138](../0138/).
