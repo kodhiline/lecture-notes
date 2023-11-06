@@ -2,7 +2,7 @@
 title: "code of gillette 1983"
 date: 2023-10-30T15:03:00+07:00
 authors: ['Sparisoma Viridi', 'Nina Siti Aminah', 'Aria Wahyu Wicaksono']
-tags: ['sk6091']
+tags: ['sk6090']
 draft: false
 math: true
 url: "0127"
@@ -231,5 +231,7 @@ A =
 
 
 ## dicussion
++ `06-nov-2023` Value less that $10^{-8}$ is assumed to be $0$ is proposed by Aria.
+  - Results: All are confirmed [7d9d71e](https://github.com/ariawahyuw/simulasi-spectra/blob/7d9d71e/Simulasi%201/perhitungan.ipynb)
 + `30-oct-2023` A reference, Gillette (1983), is given. [pr5ye](https://osf.io/pr5ye)
 + `26-oct-2023` Google drive links is given for current available data. [762au](https://osf.io/762au)

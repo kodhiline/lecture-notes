@@ -2,7 +2,7 @@
 title: "coral reef analysis ml"
 date: 2023-11-02T12:59:00+07:00
 authors: ['Raden Sutiadi', 'Aria Wahyu Wicaksono']
-tags: ['sk6091']
+tags: ['sk6090']
 draft: false
 math: true
 url: "0132"
