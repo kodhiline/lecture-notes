@@ -10,6 +10,12 @@ url: "0137"
 {{< toc >}}
 
 
+## w2
++ `08-wed` `SITB-NB` Islam's Quantum Question. [xc5hg](https://osf.io/xc5hg)
++ `08-wed` `FITB-SB` PNAS paper. [3acrd](https://osf.io/3acrd)
+  - url https://doi.org/10.1073/pnas.2217064120
+
+
 ## w1
 + `03-fri` `SITH-ES` Faculty Book. [rqy62](https://osf.io/rqy62)
 + `03-fri` `ALI` information about accel team.
