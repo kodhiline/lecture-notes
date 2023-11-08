@@ -1,6 +1,6 @@
 ---
 title: "slides on slideshare"
-date: 2023-11-08T11:37:00+07:00
+date: 2023-10-27T18:38:00+07:00
 authors: ['Sparisoma Viridi']
 tags: ['ku4214']
 draft: false
