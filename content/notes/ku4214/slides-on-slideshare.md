@@ -10,6 +10,15 @@ url: "0122"
 {{< toc >}}
 
 
+## slideshare (107)
++ url https://www.slideshare.net/sparisoma
+
+
+## 2021
++ `28-dec` [Pembelajaran sains berbasis web](https://www.slideshare.net/sparisoma/pembelajaran-sains-berbasis-web) &ge; 145
++ `09-jan` [Pemodelan Gaya Casimir dalam Sistem Satu-Dimensi Granular Gravitasi-Diri dengan Operator Tukar](https://www.slideshare.net/sparisoma/pemodelan-gaya-casimir-dalam-sistem-satudimensi-granular-gravitasidiri-dengan-operator-tukar) &ge; 116
+
+
 ## 2020
 + `12-dec` [Komputasi Nuklir: Pendekatan dan Perkembangannya](https://www.slideshare.net/sparisoma/komputasi-nuklir-pendekatan-dan-perkembangannya) &ge; 585
 + `30-nov` [Edible and dynamics arts using rice: A proposed idea](https://www.slideshare.net/sparisoma/edible-and-dynamics-arts-using-rice-a-proposed-idea) &ge; 141
@@ -56,6 +65,7 @@ url: "0122"
 + `30-nov` [Agent-based Model in Rectangular Grid for Condensable Granular Gas Simulation](https://www.slideshare.net/sparisoma/agentbased-model-in-rectangular-grid-for-condensable-granular-gas-simulation) &ge; 99
 + `25-nov` [Granular materials and their potential visualization feature](https://www.slideshare.net/sparisoma/granular-materials-and-their-potential-visualization-feature) &ge; 199
 + `17-nov` [Pemodelan berbasis-agen dan potensinya dalam simulasi sistem fisis](https://www.slideshare.net/sparisoma/pemodelan-berbasisagen-dan-potensinya-dalam-simulasi-sistem-fisis) &ge; 238
++ `11-nov` [Simulation of Two Red Blood Cells Collision based on Granular Model](https://www.slideshare.net/sparisoma/simulation-of-two-red-blood-cells-collision-based-on-granular-model) &ge; 223
 + `13-oct` [Simulation of Snake-Like Swimming System using Granular Model](https://www.slideshare.net/sparisoma/simulation-of-snakelike-swimming-system-using-granular-model) &ge; 68
 + `09-oct` [Fast Charging Batteries Simulation based on Capacitor Model: Change of Resistance Due to Internal Deposition](https://www.slideshare.net/sparisoma/fast-charging-batteries-simulation-based-on-capacitor-model-change-of-resistance-due-to-internal-deposition) &ge; 142
 + `04-oct` [Pengembangan Inovasi Teknologi di Bidang Pendidikan Fisika dalam Upaya Meningkatkan Kualitas Pembelajaran: Sebuah Opini](https://www.slideshare.net/sparisoma/pengembangan-inovasi-teknologidi-bidang-pendidikan-fisikadalam-upaya-meningkatkan-kualitas-pembelajaran-sebuah-opini) &ge; 400
@@ -135,6 +145,7 @@ url: "0122"
 ## 2012
 + `19-dec` [Belajar Fisika pada Hasil Terapannya](https://www.slideshare.net/sparisoma/belajar-fisika-pada-hasil-terapannya) &ge; 2754
 + `07-dec` [Fisika | TIK](https://www.slideshare.net/sparisoma/fisika-tik) &ge; 1017
++ `05-feb` [Mengapa Perlu Belajar Fisika (dengan Serius)](https://www.slideshare.net/sparisoma/mengapa-perlu-belajar-fisika-dengan-serius) &ge; 2214
 
 
 ## 2011
