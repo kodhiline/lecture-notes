@@ -10,6 +10,54 @@ url: "0122"
 {{< toc >}}
 
 
+## 2019
++ `07-dec` [Fisika Dasar dan Nilai-nilai yang Diajarkannya](https://www.slideshare.net/sparisoma/fisika-dasar-dan-nilainilai-yang-diajarkannya) &ge; 516
++ `28-oct` [Pembelajaran Fisika dalam Era Industri 4.0](https://www.slideshare.net/sparisoma/pembelajaran-fisika-dalam-era-industri-40) &ge; 452
++ `26-oct` [Menulis dan Membaca Berkas Teks Polos dengan Python](https://www.slideshare.net/sparisoma/menulis-dan-membaca-berkas-teks-polos-dengan-python) &ge; 435
++ `14-oct` [Master Program in Computational Science](https://www.slideshare.net/sparisoma/master-program-in-computational-science) &ge; 459
++ `13-oct` [Formulating Two-Body Interaction through Observed Separation Distance](https://www.slideshare.net/sparisoma/formulating-twobody-interaction-through-observed-separation-distance) &ge; 214
++ `04-oct` [Strategi Mempersiapkan Diri Menjadi Guru Sains Kreatif & Inovatif di Era Milenial](https://www.slideshare.net/sparisoma/strategi-mempersiapkan-diri-menjadi-guru-sains-kreatif-inovatif-di-era-milenial) &ge; 518
++ `25-sep` [Compaction of two-dimensional system of composite spherical particles under influence of self-gravitation: Between lock-and-key model and tetris-structure](https://www.slideshare.net/sparisoma/compaction-of-twodimensional-system-of-composite-spherical-particles-under-influence-of-selfgravitation-between-lockandkey-model-and-tetrisstructure) &ge; 209
++ `09-sep` [https://www.slideshare.net/sparisoma/writing-has-never-been-easier-penulisan-jurnal-ilmiah](https://www.slideshare.net/sparisoma/writing-has-never-been-easier-penulisan-jurnal-ilmiah) &ge; 84
++ `21-aug` [Head-on collision of two spherical grains with 2-d internal structure](https://www.slideshare.net/sparisoma/headon-collision-of-two-spherical-grains-with-2d-internal-structure) &ge; 242
++ `09-aug` [Simulation of Blood Cell Separation System Based on Inertia and Elasticity using Molecular Dynamics Method (a simulation design)](https://www.slideshare.net/sparisoma/simulation-of-blood-cell-separation-system-based-on-inertia-and-elasticity-using-molecular-dynamics-method-a-simulation-design) &ge; 258
++ `08-aug` [Diffusion Simulation with JS: Writing Your Own ABM Code](https://www.slideshare.net/sparisoma/diffusion-simulation-with-js-writing-your-own-abm-code) &ge; 345
++ `23-jul` [Gravity-driven agent-based model for simulation of economic growth of a point along a highway](https://www.slideshare.net/sparisoma/gravitydriven-agentbased-model-for-simulation-of-economic-growth-of-a-point-along-a-highway) &ge; 303
++ `10-jul` [Molecular Dynamics Simulation of Floating Spheres Forming Two-Dimensional Hexagonal Close Packed Structure](https://www.slideshare.net/sparisoma/molecular-dynamics-simulation-of-floating-spheres-forming-twodimensional-hexagonal-close-packed-structure) &ge; 286
++ `08-jul` [Pemodelan pertumbuhan populasi mikroba multi-jenis tak-berinteraksi dengan variasi keadaan awal dan koefisien pertumbuhan masing-masing jenis](https://www.slideshare.net/sparisoma/pemodelan-pertumbuhan-populasi-mikroba-multijenis-takberinteraksi-dengan-variasi-keadaan-awal-dan-koefisien-pertumbuhan-masingmasing-jenis) &ge; 187
++ `30-jun` [Is complexity of granular particles system suitable for machine learning?](https://www.slideshare.net/sparisoma/is-complexity-of-granular-particles-system-suitable-for-machine-learning) &ge; 115
++ `29-jun` [Granular buoyant force in a two-dimensional intruder-particles bed system](https://www.slideshare.net/sparisoma/granular-buoyant-force-in-a-twodimensional-intruderparticles-bed-system) &ge; 198
++ `27-jun` [Determining Initial Population and Growth Constant of Multi-group Non-interacting Microorganism from Total Population Time Series: Inversion of Artificial Data](https://www.slideshare.net/sparisoma/determining-initial-population-and-growth-constant-of-multigroup-noninteracting-microorganism-from-total-population-time-series-inversion-of-artificial-data) &ge; 125
++ `13-jun` [Beberapa Dasar-dasar Pemanfaatan Spreadsheet untuk Pembelajaran Fisika](https://www.slideshare.net/sparisoma/beberapa-dasardasar-pemanfaatan-spreadsheet-untuk-pembelajaran-fisika) &ge; 242
++ `12-jun` [Kinematika dan Visualisasinya dengan Spreadsheet](https://www.slideshare.net/sparisoma/kinematika-dan-visualisasinya-dengan-spreadsheet) &ge; 400
++ `18-apr` [Lensa Tipis dan Visualisasinya dengan Spreadsheet](https://www.slideshare.net/sparisoma/lensa-tipis-dan-visualisasinya-dengan-spreadsheet) &ge; 333
++ `06-mar` [Sistem Simulator Devais Pemisah Elemen Darah dengan Model Berbasis Agen](https://www.slideshare.net/sparisoma/sistem-simulatordevais-pemisah-elemen-darah-dengan-model-berbasis-agen) &ge; 135
+
+
+## 2018
++ `26-dec` [Berbagai skala pemodelan dan simulasi terkait tanah dan hasil pertanian](https://www.slideshare.net/sparisoma/berbagai-skala-pemodelan-dan-simulasi-terkait-tanah-dan-hasil-pertanian) &ge; 131
++ `14-dec` [Pemanfaatan JavaScript dalam Simulasi Sistem Fisis (dan lainnya)](https://www.slideshare.net/sparisoma/pemanfaatan-javascript-dalam-simulasi-sistem-fisis-dan-lainnya) &ge; 182
++ `12-dec` [Workshop Paralel Desain Pembelajaran Berbasis HOTS: Mapping Problem dan Kebutuhan](https://www.slideshare.net/sparisoma/workshop-paralel-desain-pembelajaran-berbasis-hots-mapping-problem-dan-kebutuhan) &ge; 1295
++ `07-dec` [High-order Thinking Skills: Guru Pemelajar](https://www.slideshare.net/sparisoma/highorder-thinking-skills-guru-pemelajar) &ge; 68
++ `04-dec` [Pemodelan Satu-Dimensi Perambatan Panas Bahan Butiran dalam Proses Sangrai](https://www.slideshare.net/sparisoma/pemodelan-satudimensi-perambatan-panas-bahan-butiran-dalam-proses-sangrai) &ge; 146
++ `30-nov` [Agent-based Model in Rectangular Grid for Condensable Granular Gas Simulation](https://www.slideshare.net/sparisoma/agentbased-model-in-rectangular-grid-for-condensable-granular-gas-simulation) &ge; 99
++ `25-nov` [Granular materials and their potential visualization feature](https://www.slideshare.net/sparisoma/granular-materials-and-their-potential-visualization-feature) &ge; 199
++ `17-nov` [Pemodelan berbasis-agen dan potensinya dalam simulasi sistem fisis](https://www.slideshare.net/sparisoma/pemodelan-berbasisagen-dan-potensinya-dalam-simulasi-sistem-fisis) &ge; 238
++ `13-oct` [Simulation of Snake-Like Swimming System using Granular Model](https://www.slideshare.net/sparisoma/simulation-of-snakelike-swimming-system-using-granular-model) &ge; 68
++ `09-oct` [Fast Charging Batteries Simulation based on Capacitor Model: Change of Resistance Due to Internal Deposition](https://www.slideshare.net/sparisoma/fast-charging-batteries-simulation-based-on-capacitor-model-change-of-resistance-due-to-internal-deposition) &ge; 142
++ `04-oct` [Pengembangan Inovasi Teknologi di Bidang Pendidikan Fisika dalam Upaya Meningkatkan Kualitas Pembelajaran: Sebuah Opini](https://www.slideshare.net/sparisoma/pengembangan-inovasi-teknologidi-bidang-pendidikan-fisikadalam-upaya-meningkatkan-kualitas-pembelajaran-sebuah-opini) &ge; 400
++ `26-sep` [Floating Ball Dynamics for Harvesting Energy of Sinusoidal Water Wave](https://www.slideshare.net/sparisoma/floating-ball-dynamics-for-harvesting-energy-of-sinusoidal-water-wave) &ge; 595
++ `25-sep` [Simulation of Buoyant Spherical Objects Segregation for Studying Beach Pollution](https://www.slideshare.net/sparisoma/simulation-of-buoyant-spherical-objects-segregation-for-studying-beach-pollution) &ge; 107
++ `17-sep` [Simulation of Bioeconomy System using Agent-based Model in the Case of Smart, Green, and Conventional Farming](https://www.slideshare.net/sparisoma/simulation-of-bioeconomy-system-using-agentbased-model-in-the-case-of-smart-green-and-conventional-farming) &ge; 186
++ `15-sep` [Memotivasi Diri untuk Menulis Artikel Ilmiah](https://www.slideshare.net/sparisoma/memotivasi-diri-untuk-menulis-artikel-ilmiah) &ge; 120
++ `14-jul` [Dinamika Dua-Dimensi Butiran Berbentuk Bola yang Terapung pada Permukaan Fluida yang Merambatkan Gelombang](https://www.slideshare.net/sparisoma/dinamika-duadimensi-butiran-berbentuk-bola-yang-terapung-pada-permukaan-fluida-yang-merambatkan-gelombang) &ge; 297
++ `09-jul` [Dinamika Satu-Dimensi Butiran Berbentuk Bola yang Terapung pada Permukaan Fluida](https://www.slideshare.net/sparisoma/dinamika-satudimensi-butiran-berbentuk-bola-yang-terapung-pada-permukaan-fluida) &ge; 203
++ `27-jun` [Simple grid-based model of sandpile avalanche due to heating process](https://www.slideshare.net/sparisoma/simple-gridbased-model-of-sandpile-avalanche-due-to-heating-process) &ge; 160
++ `27-may` [Simulation of Detecting 1-D Motion of Cylindrical Transparent Grains using Narrow Laser Beam](https://www.slideshare.net/sparisoma/simulation-of-detecting-1d-motion-of-cylindrical-transparent-grains-using-narrow-laser-beam) &ge; 68
++ `27-may` [Membangun Peradaban Islam dengan Kreatif: Jadilah Butiran dan Berkolaborasi untuk Berkreasi Konstruktif](https://www.slideshare.net/sparisoma/membangun-peradaban-islam-dengan-kreatif-jadilah-butiran-dan-berkolaborasi-untuk-berkreasi-konstruktif) &ge; 179
++ `08-apr` [Induced Current Simulation of One-Dimensional Vibrating Magnetic Granular Particles System: Free Fall of Single Magnetic Granular Particle Hitting Stationary Base](https://www.slideshare.net/sparisoma/induced-current-simulation-of-onedimensional-vibrating-magnetic-granular-particles-system-free-fall-of-single-magnetic-granular-particle-hitting-stationary-base) &ge; 121
+
+
 ## 2017
 + `12-dec` [Nano for Kids & Teens: Nano in General](https://www.slideshare.net/sparisoma/nano-for-kids-teens-nano-in-general) &ge; 311
 + `18-nov` [Sistem Granular: Dari Interaksi antar Partikel sampai Interaksi antar Peneliti](https://www.slideshare.net/sparisoma/sistem-granular-dari-interaksi-antar-partikel-sampai-interaksi-antar-peneliti) &ge; 367
