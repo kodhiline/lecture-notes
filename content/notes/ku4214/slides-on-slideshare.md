@@ -10,6 +10,18 @@ url: "0122"
 {{< toc >}}
 
 
+## 2017
++ `12-dec` [Nano for Kids & Teens: Nano in General](https://www.slideshare.net/sparisoma/nano-for-kids-teens-nano-in-general) &ge; 311
++ `18-nov` [Sistem Granular: Dari Interaksi antar Partikel sampai Interaksi antar Peneliti](https://www.slideshare.net/sparisoma/sistem-granular-dari-interaksi-antar-partikel-sampai-interaksi-antar-peneliti) &ge; 367
++ `22-oct` [Menumbuhkan Keingintahuan dan Kepekaan pada Permasalahan Sehari-hari: Langkah Awal Menjadi Seorang Inovator](https://www.slideshare.net/sparisoma/menumbuhkan-keingintahuan-dan-kepekaan-pada-permasalahan-seharihari-langkah-awal-menjadi-seorang-inovator-81062590) &ge; 621
++ `09-sep` [Tujuan Jangka Pendek, Menengah, dan Panjang: Bertahan di Fisika ITB](https://www.slideshare.net/sparisoma/tujuan-jangka-pendek-menengah-dan-panjang-bertahan-di-fisika-itb) &ge; 4117
++ `09-aug` [Some Physical Systems Based on 2-D Granular Model: From Locomotive Organs to Asteroid Construction](https://www.slideshare.net/sparisoma/some-physical-systems-based-on-2d-granular-model-from-locomotive-organs-to-asteroid-construction) &ge; 343
++ `09-jul` [Simulation of Semi-Autogenous Grinding (SAG) Mill using Circular-Disks-based Model](https://www.slideshare.net/sparisoma/simulation-of-semiautogenous-grinding-sag-mill-using-circulardisksbased-model) &ge; 741
++ `16-may` [Distribusi Spasial Densitas Cakram Berukuran Sama dalam Pemodelan Pembentukan Asteroid](https://www.slideshare.net/sparisoma/distribusi-spasial-densitas-cakram-berukuran-sama-dalam-pemodelan-pembentukan-asteroid) ge; 283
++ `29-apr` [Journal Writing](https://www.slideshare.net/sparisoma/journal-writing-75516231) &ge; 690
++ `07-may` [Peran Sains dan Teknologi dalam Merealisasikan Perintah Agama dalam Kehidupan Sehari-hari](https://www.slideshare.net/sparisoma/peran-sains-dan-teknologi-dalam-merealisasikan-perintah-agama-dalam-kehidupan-seharihari) &ge; 251
+
+
 ## 2016
 + `02-dec` [Pembelajaran Materi Gelombang Tingkat SMU dengan Spreadsheet](https://www.slideshare.net/sparisoma/pembelajaran-materi-gelombang-tingkat-smu-dengan-spreadsheet)
 + `03-nov` [Resonance condition of bamboo-like trees based on granular particle-spring model: Relaxation stage](https://www.slideshare.net/sparisoma/resonance-condition-of-bamboolike-trees-based-on-granular-particlespring-model-relaxation-stage) &ge; 453
