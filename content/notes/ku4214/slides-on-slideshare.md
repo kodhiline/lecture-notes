@@ -1,6 +1,6 @@
 ---
 title: "slides on slideshare"
-date: 2023-10-27T18:38:00+07:00
+date: 2023-11-08T11:37:00+07:00
 authors: ['Sparisoma Viridi']
 tags: ['ku4214']
 draft: false
@@ -14,12 +14,12 @@ url: "0122"
 + url https://www.slideshare.net/sparisoma
 
 
-## 2021
+## 2021 (2)
 + `28-dec` [Pembelajaran sains berbasis web](https://www.slideshare.net/sparisoma/pembelajaran-sains-berbasis-web) &ge; 145
 + `09-jan` [Pemodelan Gaya Casimir dalam Sistem Satu-Dimensi Granular Gravitasi-Diri dengan Operator Tukar](https://www.slideshare.net/sparisoma/pemodelan-gaya-casimir-dalam-sistem-satudimensi-granular-gravitasidiri-dengan-operator-tukar) &ge; 116
 
 
-## 2020
+## 2020 (11)
 + `12-dec` [Komputasi Nuklir: Pendekatan dan Perkembangannya](https://www.slideshare.net/sparisoma/komputasi-nuklir-pendekatan-dan-perkembangannya) &ge; 585
 + `30-nov` [Edible and dynamics arts using rice: A proposed idea](https://www.slideshare.net/sparisoma/edible-and-dynamics-arts-using-rice-a-proposed-idea) &ge; 141
 + `30-nov` [Interaction between Marine Sectors using System Dynamics for Patimban Deep Sea Port as a Green Port:A Proposed Model](https://www.slideshare.net/sparisoma/interaction-between-marine-sectors-using-system-dynamics-for-patimban-deep-sea-port-as-a-green-porta-proposed-model) &ge; 27
@@ -32,7 +32,7 @@ url: "0122"
 + `26-mar` [Ilustrasi penjalaran gelombang](https://www.slideshare.net/sparisoma/ilustrasi-penjalaran-gelombang) &ge; 291
 + `26-mar` [Getaran dan gelombang](https://www.slideshare.net/sparisoma/getaran-dan-gelombang-230877729) &ge; 98
 
-## 2019
+## 2019 (21)
 + `07-dec` [Fisika Dasar dan Nilai-nilai yang Diajarkannya](https://www.slideshare.net/sparisoma/fisika-dasar-dan-nilainilai-yang-diajarkannya) &ge; 516
 + `28-oct` [Pembelajaran Fisika dalam Era Industri 4.0](https://www.slideshare.net/sparisoma/pembelajaran-fisika-dalam-era-industri-40) &ge; 452
 + `26-oct` [Menulis dan Membaca Berkas Teks Polos dengan Python](https://www.slideshare.net/sparisoma/menulis-dan-membaca-berkas-teks-polos-dengan-python) &ge; 435
@@ -56,7 +56,7 @@ url: "0122"
 + `06-mar` [Sistem Simulator Devais Pemisah Elemen Darah dengan Model Berbasis Agen](https://www.slideshare.net/sparisoma/sistem-simulatordevais-pemisah-elemen-darah-dengan-model-berbasis-agen) &ge; 135
 
 
-## 2018
+## 2018 (22)
 + `26-dec` [Berbagai skala pemodelan dan simulasi terkait tanah dan hasil pertanian](https://www.slideshare.net/sparisoma/berbagai-skala-pemodelan-dan-simulasi-terkait-tanah-dan-hasil-pertanian) &ge; 131
 + `14-dec` [Pemanfaatan JavaScript dalam Simulasi Sistem Fisis (dan lainnya)](https://www.slideshare.net/sparisoma/pemanfaatan-javascript-dalam-simulasi-sistem-fisis-dan-lainnya) &ge; 182
 + `12-dec` [Workshop Paralel Desain Pembelajaran Berbasis HOTS: Mapping Problem dan Kebutuhan](https://www.slideshare.net/sparisoma/workshop-paralel-desain-pembelajaran-berbasis-hots-mapping-problem-dan-kebutuhan) &ge; 1295
@@ -81,7 +81,7 @@ url: "0122"
 + `08-apr` [Induced Current Simulation of One-Dimensional Vibrating Magnetic Granular Particles System: Free Fall of Single Magnetic Granular Particle Hitting Stationary Base](https://www.slideshare.net/sparisoma/induced-current-simulation-of-onedimensional-vibrating-magnetic-granular-particles-system-free-fall-of-single-magnetic-granular-particle-hitting-stationary-base) &ge; 121
 
 
-## 2017
+## 2017 (9)
 + `12-dec` [Nano for Kids & Teens: Nano in General](https://www.slideshare.net/sparisoma/nano-for-kids-teens-nano-in-general) &ge; 311
 + `18-nov` [Sistem Granular: Dari Interaksi antar Partikel sampai Interaksi antar Peneliti](https://www.slideshare.net/sparisoma/sistem-granular-dari-interaksi-antar-partikel-sampai-interaksi-antar-peneliti) &ge; 367
 + `22-oct` [Menumbuhkan Keingintahuan dan Kepekaan pada Permasalahan Sehari-hari: Langkah Awal Menjadi Seorang Inovator](https://www.slideshare.net/sparisoma/menumbuhkan-keingintahuan-dan-kepekaan-pada-permasalahan-seharihari-langkah-awal-menjadi-seorang-inovator-81062590) &ge; 621
@@ -93,7 +93,7 @@ url: "0122"
 + `07-may` [Peran Sains dan Teknologi dalam Merealisasikan Perintah Agama dalam Kehidupan Sehari-hari](https://www.slideshare.net/sparisoma/peran-sains-dan-teknologi-dalam-merealisasikan-perintah-agama-dalam-kehidupan-seharihari) &ge; 251
 
 
-## 2016
+## 2016 (10)
 + `02-dec` [Pembelajaran Materi Gelombang Tingkat SMU dengan Spreadsheet](https://www.slideshare.net/sparisoma/pembelajaran-materi-gelombang-tingkat-smu-dengan-spreadsheet)
 + `03-nov` [Resonance condition of bamboo-like trees based on granular particle-spring model: Relaxation stage](https://www.slideshare.net/sparisoma/resonance-condition-of-bamboolike-trees-based-on-granular-particlespring-model-relaxation-stage) &ge; 453
 + `28-oct` [Two-dimension curvature of a wire: A simple model using shear modulus concept](https://www.slideshare.net/sparisoma/twodimension-curvature-of-a-wire-a-simple-model-using-shear-modulus-concept) &ge; 427
@@ -106,7 +106,7 @@ url: "0122"
 + `16-jan` [Riset Fisika yang Berangkat dari Kegiatan yang Sederhana](https://www.slideshare.net/sparisoma/riset-fisika-yang-berangkat-dari-kegiatan-yang-sederhana) &ge; 2142
 
 
-## 2015
+## 2015 (11)
 + `17-dec` [Model Pergerakan Dua-Dimensi Mikroorganisme dalam Fluida berbasiskan Butiran](https://www.slideshare.net/sparisoma/model-pergerakan-duadimensi-mikroorganisme-dalam-fluida-berbasiskan-butiran) &ge; 319
 + `08-dec` [Molecular Dynamics Simulation of Microorganism Motion in Fluid Based on Granular Model in the Case of Multiple Simple Push-Pull Filaments](https://www.slideshare.net/sparisoma/molecular-dynamics-simulation-of-microorganism-motion-in-fluid-based-on-granular-model-in-the-case-of-multiple-simple-pushpull-filaments) &ge; 561
 + `19-nov` [Breaking of Granular Cluster in Two-Dimension due to Splitting of the Central Forces](https://www.slideshare.net/sparisoma/breaking-of-granular-cluster-in-twodimension-due-to-splitting-of-the-central-forces) &ge; 429
@@ -120,12 +120,12 @@ url: "0122"
 + `02-may` [Dari Fenomena Fisis ke Karya Inovatif](https://www.slideshare.net/sparisoma/dari-fenomena-fisis-ke-karya-inovatif) &ge; 1584
 
 
-## 2014
+## 2014 (2)
 + `16-sep` [Fluctuation Theorem Application on 2-D Granular Materials Configurations](https://www.slideshare.net/sparisoma/fluctuation-theorem-application-on-2d-granular-materials-configurations) &ge; 795
 + `08-jun` [Implementasi Metode Multi-Particle Collision Dynamics untuk Partikel Berukuran Berhingga pada Simulasi Aliran Hagen-Poiseulli dalam Saluran Persegi Panjang Dua Dimensi](https://www.slideshare.net/sparisoma/implementasi-metode-multiparticle-collision-dynamics-untuk-partikel-berukuran-berhingga-pada-simulasi-aliran-hagenpoiseulli-dalam-saluran-persegi-panjang-dua-dimensi) &ge; 590
 
 
-## 2013
+## 2013 (14)
 + `04-dec` [A Simple Viscometer for High School and First Years Undergraduate Program Students: Theory and Experiment](https://www.slideshare.net/sparisoma/slide-20131204-0) &ge; 1105
 + `01-nov` [Fisika Berbasiskan Dinamika Molekular Butiran](https://www.slideshare.net/sparisoma/slide-sv-201310070) &ge; 819
 + `29-oct` [Pengenalan FEM: Perambatan Panas](https://www.slideshare.net/sparisoma/slide-fem-2d201310296) &ge; 561
@@ -142,12 +142,12 @@ url: "0122"
 + `25-jan` [Tahapan Penelitian Tindakan Kelas](https://www.slideshare.net/sparisoma/tahapan-penelitian-tindakan-kelas) &ge; 2358
 
 
-## 2012
+## 2012 (3)
 + `19-dec` [Belajar Fisika pada Hasil Terapannya](https://www.slideshare.net/sparisoma/belajar-fisika-pada-hasil-terapannya) &ge; 2754
 + `07-dec` [Fisika | TIK](https://www.slideshare.net/sparisoma/fisika-tik) &ge; 1017
 + `05-feb` [Mengapa Perlu Belajar Fisika (dengan Serius)](https://www.slideshare.net/sparisoma/mengapa-perlu-belajar-fisika-dengan-serius) &ge; 2214
 
 
-## 2011
+## 2011 (2)
 + `21-sep` [04 molecular dynamics](https://www.slideshare.net/sparisoma/04-molecular-dynamics) &ge; 7915
 + `19-sep` [Finding Roots](https://www.slideshare.net/sparisoma/03-finding-roots) &ge; 1373
