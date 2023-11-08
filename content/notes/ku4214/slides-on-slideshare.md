@@ -10,6 +10,19 @@ url: "0122"
 {{< toc >}}
 
 
+## 2020
++ `12-dec` [Komputasi Nuklir: Pendekatan dan Perkembangannya](https://www.slideshare.net/sparisoma/komputasi-nuklir-pendekatan-dan-perkembangannya) &ge; 585
++ `30-nov` [Edible and dynamics arts using rice: A proposed idea](https://www.slideshare.net/sparisoma/edible-and-dynamics-arts-using-rice-a-proposed-idea) &ge; 141
++ `30-nov` [Interaction between Marine Sectors using System Dynamics for Patimban Deep Sea Port as a Green Port:A Proposed Model](https://www.slideshare.net/sparisoma/interaction-between-marine-sectors-using-system-dynamics-for-patimban-deep-sea-port-as-a-green-porta-proposed-model) &ge; 27
++ `07-nov` [Simulation of cell budding & binary fission: A preliminary study using molecular dynamics + agent-based model](https://www.slideshare.net/sparisoma/simulation-of-cell-budding-binary-fissiona-preliminary-study-using-molecular-dynamics-agentbased-model) &ge; 108
++ `27-jun` [Molecular Dynamics (MD) Method and Agent-Based Model (AMB) in Simulation of Stem Cell Deposition on the Surface with Nanopattern: Simulator Design](https://www.slideshare.net/sparisoma/molecular-dynamics-md-method-and-agentbased-model-amb-in-simulation-of-stem-cell-deposition-on-the-surface-with-nanopattern-simulator-design) &ge; 185
++ `20-jun` [Constructing Origin-Destination Matrix (ODM) using Agent-Based Model (AMB) in Multiple Points Commuting System](https://www.slideshare.net/sparisoma/constructing-origindestination-matrix-odm-using-agentbased-model-amb-in-multiple-points-commuting-system) &ge; 380
++ `19-jun` [The Relation between ABM (Agent-Based Model) and SIR (Susceptible-Infected-Recovered) Model for Spread of Disease](https://www.slideshare.net/sparisoma/the-relation-between-abm-agentbased-model-and-sir-susceptibleinfectedrecovered-model-for-spread-of-disease)  &ge; 193
++ `14-apr` [Pengelolaan Jurnal Ilmiah](https://www.slideshare.net/sparisoma/pengelolaan-jurnal-ilmiah) &ge; 77
++ `26-mar` [25 | Perubahan fasa gelombang](https://www.slideshare.net/sparisoma/25-perubahan-fasa-gelombang) &ge; 274
++ `26-mar` [Ilustrasi penjalaran gelombang](https://www.slideshare.net/sparisoma/ilustrasi-penjalaran-gelombang) &ge; 291
++ `26-mar` [Getaran dan gelombang](https://www.slideshare.net/sparisoma/getaran-dan-gelombang-230877729) &ge; 98
+
 ## 2019
 + `07-dec` [Fisika Dasar dan Nilai-nilai yang Diajarkannya](https://www.slideshare.net/sparisoma/fisika-dasar-dan-nilainilai-yang-diajarkannya) &ge; 516
 + `28-oct` [Pembelajaran Fisika dalam Era Industri 4.0](https://www.slideshare.net/sparisoma/pembelajaran-fisika-dalam-era-industri-40) &ge; 452
