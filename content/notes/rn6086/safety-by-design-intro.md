@@ -10,9 +10,9 @@ url: "0147"
 {{< toc >}}
 
 
-## nuclear reactor
-+ [Safety By Design: How the new generation of nuclear reactors addresses safety](https://www.iaea.org/bulletin/safety-by-design)
+## medium
++ [Safety by Design — an intro](https://medium.com/@6unpnp/safety-by-design-an-intro-856eef425724)
 
 
-## products & services
-+ [What is Safety by Design?](https://inhope.org/EN/articles/what-is-safety-by-design)
+## assignment
++ [Safety by design challenges](https://github.com/dudung/lecture-notes/issues/24)
