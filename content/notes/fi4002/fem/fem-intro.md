@@ -19,3 +19,7 @@ url: "0145"
 
 ## others
 + [List of slides on SlideShare](../0122/)
+
+
+## medium
++ [An example of FEM analysis with Python: Following a working tutorial](https://medium.com/@6unpnp/an-example-of-fem-analysis-with-python-3178fa5997e4)
