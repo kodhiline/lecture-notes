@@ -1,7 +1,7 @@
 ---
 title: "granular column collapse"
 date: 2023-10-25T18:36:00+08:00
-authors: ['Nawaf Alfarizki', Sparisoma Viridi']
+authors: ['Nawaf Alfarizki', 'Sparisoma Viridi']
 tags: ['fi4091']
 draft: false
 math: true
