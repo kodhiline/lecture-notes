@@ -11,7 +11,11 @@ url: "0103"
 
 
 ## meetings
-+ `02-oct-2023` Presenting Statistics 2 with some examples.
++ `09-nov-2023` Progress report.
+  - Able to read JPG with OpenCV.
+  - Accessing list element show unknown RBG information.
+  - Next is to make histogram.
++ `02-nov-2023` Presenting Statistics 2 with some examples.
   - Next: Generate data, show median, mean, mode  will fail, etc.
 + `26-oct-2023` Canceled due to health condition, AFN has a cold.
 + `19-oct-2023` Presenting some statistics from MA-USP assistant.
