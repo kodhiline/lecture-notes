@@ -11,6 +11,7 @@ url: "0126"
 
 
 ## meetings
++ `06-nov-2023` Cancel regular meeting due to midterm correction.
 + `30-oct-2023` Simplify the system.
 
 
@@ -22,5 +23,6 @@ url: "0126"
 
 
 ## files
++ `10-nov-2023` [30222306_ Progress-7_ Block-based Causal Loop Diagram_Plastic Recycling.pdf](https://osf.io/adc42)
 + `30-oct-2023` [30222306_ Progress-6_ Model Equations - Stock and Flow Diagram.pdf](https://osf.io/gwqya)
 + `25-oct-2023` [30222306_ Progress-5_ Relationship between Variables-SentToReview.pdf](https://osf.io/ngje5)

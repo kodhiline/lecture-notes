@@ -11,6 +11,9 @@ url: "0137"
 
 
 ## w2
++ `10-fri` `SV` To simplify complex groupd CLD. [9vbhw](https://osf.io/9vbhw)
+  - url https://doi.org/10.3390/systems5030046
++ `10-fri` `RQ` Slide for RBL meeting next Wednesday. []()
 + `10-fri` `ID` Shape memory polymers review. [g6wv8](https://osf.io/g6wv8)
   - url https://doi.org/10.1039/d1ra04434f
 + `08-wed` `SITB-NB` Islam's Quantum Question. [xc5hg](https://osf.io/xc5hg)
