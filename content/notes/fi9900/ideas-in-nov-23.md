@@ -11,6 +11,8 @@ url: "0137"
 
 
 ## w2
++ `10-fri` `ID` Shape memory polymers review. [g6wv8](https://osf.io/g6wv8)
+  - url https://doi.org/10.1039/d1ra04434f
 + `08-wed` `SITB-NB` Islam's Quantum Question. [xc5hg](https://osf.io/xc5hg)
 + `08-wed` `FITB-SB` PNAS paper. [3acrd](https://osf.io/3acrd)
   - url https://doi.org/10.1073/pnas.2217064120
