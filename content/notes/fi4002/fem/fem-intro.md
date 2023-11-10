@@ -23,3 +23,7 @@ url: "0145"
 
 ## medium
 + [An example of FEM analysis with Python: Following a working tutorial](https://medium.com/@6unpnp/an-example-of-fem-analysis-with-python-3178fa5997e4)
+
+
+## assignement
++ [FEM analysis Hands-on in Python using anaStruct](https://github.com/dudung/lecture-notes/issues/25)
