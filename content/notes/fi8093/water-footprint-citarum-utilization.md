@@ -18,6 +18,11 @@ url: "0119"
 
 ## 13-nov-2023
 + It should begin about 0800 and is only for 1 hour.
++ The difference between water consumption and water utilization is now clear.
++ Find information about
+  - For different products are there several paths between two main elements, or
+  - There are different CLD for each product.
++ In firts two week of Dec will to Aus and progress report will be delivered online.
 
 
 ## 30-oct-2023
