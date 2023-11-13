@@ -11,6 +11,8 @@ url: "0152"
 
 
 ## medium
++ `14-nov-2023` Installing pandas \
+url https://medium.com/@6unpnp/38ef852aa596
 + `11-nov-2023` A very simple example of FEM analysis for structure with Python \
 url https://medium.com/@6unpnp/3178fa5997e4
 + `06-oct-2023` Installing some Python libraries \
