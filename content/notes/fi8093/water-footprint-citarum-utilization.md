@@ -11,8 +11,13 @@ url: "0119"
 
 
 ## meetings
++ `13-nov-2023` Report current progress, the equations.
 + `30-oct-2023` Confirm the loop and add source of water.
 + `27-oct-2023` Start from simple loop and steps for information gathering.
+
+
+## 13-nov-2023
++ It should begin about 0800 and is only for 1 hour.
 
 
 ## 30-oct-2023
