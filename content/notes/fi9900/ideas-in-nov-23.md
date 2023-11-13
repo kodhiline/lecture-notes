@@ -10,7 +10,14 @@ url: "0137"
 {{< toc >}}
 
 
+## w3
++ `13-nov` `SV` Is it the time to Rust?
+  - https://chat.openai.com/share/4bef40bb-c404-4c99-8feb-c59c25036c11.
+  - There some [Rust libraries for physics](https://www.google.com/search?q=rust+libraries+for+physics) (cannot share Bing chat, not know now).
+
+
 ## w2
++ `10-fri` `WD` `ID` research road map for FGD with BRIN via SPS next week.
 + `10-fri` `SV` To simplify complex groupd CLD. [9vbhw](https://osf.io/9vbhw)
   - url https://doi.org/10.3390/systems5030046
 + `10-fri` `RQ` Slide for FI110X RBL meeting next Wednesday. [2v37a](https://osf.io/2v37a)
