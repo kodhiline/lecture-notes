@@ -12,7 +12,7 @@ url: "0150"
 
 ## 14-mov
 + `1000` GKU-T G to GKU-3 J.
-+ `0900` WD Slide for MSP. &check; [0152](../0153/)
++ `0900` WD Slide for MSP. &check; [0153](../0153/)
 + `0845` Finish a Medium story. &check; [38ef852aa596](https://medium.com/@6unpnp/installing-pandas-38ef852aa596)
 
 
