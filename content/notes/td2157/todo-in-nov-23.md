@@ -10,7 +10,12 @@ url: "0150"
 {{< toc >}}
 
 
-## 14-mov
+## 15-wed
++ 
++ `0830` ECC auditorium presentation of [CAMECA](https://www.cameca.com/). &check;
+
+
+## 14-tue
 + `1715` GKU-2 J to GKU-T G.
 + `1500` K1.9680b FI1101-09. [0140](../0140/)
 + `1300` K3.101 FI1101-04. [0140](../0140/)
