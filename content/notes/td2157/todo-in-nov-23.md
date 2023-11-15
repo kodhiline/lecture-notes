@@ -11,9 +11,14 @@ url: "0150"
 
 
 ## 15-wed
-+ `1200` RBL presentation, rep team. &check; [2v37a](https://osf.io/2v37a).
++ `1930` Go home after miscom with die alte. &check;
++ `1700` Finish a story for RN6086.&check; [1e6c8e5347d3](https://medium.com/@6unpnp/research-based-learning-approach-1e6c8e5347d3)
++ `1630` Meeting with Darfa. &check;
++ `1550` Send signed form to AIDI Ibey. &check; [wmsvp](https://osf.io/wmsvp)
++ `1200` RBL presentation, rep team leader RQ. &check; [2v37a](https://osf.io/2v37a).
 + `0930` Offline meeting for SMP. &check; [0153](../0153/) 
-+ `0830` ECC auditorium presentation of [CAMECA](https://www.cameca.com/). &check;
++ `0900` ECC auditorium presentation of [CAMECA](https://www.cameca.com/). &check;
++ `0830` Send account info to MA-NN, Ganantara. &check; [kf35s](https://osf.io/kf35s)
 
 
 ## 14-tue
