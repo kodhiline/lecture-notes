@@ -11,7 +11,8 @@ url: "0150"
 
 
 ## 15-wed
-+ 
++ `1200` RBL presentation, rep team. &check; [2v37a](https://osf.io/2v37a).
++ `0930` Offline meeting for SMP. &check; [0153](../0153/) 
 + `0830` ECC auditorium presentation of [CAMECA](https://www.cameca.com/). &check;
 
 
