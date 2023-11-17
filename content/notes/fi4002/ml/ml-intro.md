@@ -10,7 +10,7 @@ url: "0155"
 {{< toc >}}
 
 
-## installation
+## installations
 + How to install Notepad++ \
   url https://medium.com/@6unpnp/e5adf2f8d37d
 + How to install Google Chrome using offline installer \
@@ -23,3 +23,8 @@ url: "0155"
   url https://medium.com/@6unpnp/38ef852aa596
 + Install scikit-learn \
   url https://medium.com/@6unpnp/d58f1415962d
+
+
+## examples
++ Binary Classification in Machine Learning as Suggested by AI-Assistants \
+  url https://medium.com/@6unpnp/c78a72d1c9eb
