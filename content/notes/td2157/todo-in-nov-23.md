@@ -10,6 +10,13 @@ url: "0150"
 {{< toc >}}
 
 
+## 23-wed
++ `1000` 
++ `0900` Preparation and discussion for doktoral presentation. 
++ `0800` Sand image processing discussion. [0103](../0103/)
++ `0745` Send to ITB Press the [Python in Brief](https://osf.io/hvn7r).
+
+
 ## 15-wed
 + `1930` Go home after miscom with die alte. &check;
 + `1700` Finish a story for RN6086.&check; [1e6c8e5347d3](https://medium.com/@6unpnp/research-based-learning-approach-1e6c8e5347d3)

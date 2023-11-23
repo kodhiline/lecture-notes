@@ -11,6 +11,7 @@ url: "0103"
 
 
 ## meetings
++ `23-nov-2023` Make histogram from monocolor and sand example.
 + `09-nov-2023` Progress report.
   - Able to read JPG with OpenCV.
   - Accessing list element show unknown RBG information.
