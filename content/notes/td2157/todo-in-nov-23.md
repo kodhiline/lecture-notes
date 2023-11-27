@@ -10,6 +10,18 @@ url: "0150"
 {{< toc >}}
 
 
+## 23-wed
++ `1700` Go home with die Alte. &check;
++ `1500` SMAN 3 Cikarang Selatan visit preparation. &check;
++ `1300` ML for coral identification. [0132](../0132/) &check;
++ `1200` Quotation and invoice confirmation. [7smcj](https://osf.io/7smcj) &check;
++ `1130` Nanosilica for rice discussion. &check;
++ `1000` Deep Reinforcement Learning discussion. &check;
++ `0900` Preparation and discussion for doktoral presentation.  &check;
++ `0800` Sand image processing discussion. [0103](../0103/) &check;
++ `0745` Send to ITB Press the [Python in Brief](https://osf.io/rvg3k). &check;
+
+
 ## 16-thu
 + `1300` Pick up the first. &check;
 + `1300` ITB-C advertisement preparation meeting. &times; [zhf8q](https://osf.io/zhf8q)
