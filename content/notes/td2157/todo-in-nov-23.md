@@ -10,6 +10,13 @@ url: "0150"
 {{< toc >}}
 
 
+## 16-thu
++ `1300` Pick up the first. &check;
++ `1300` ITB-C advertisement preparation meeting. &times; [zhf8q](https://osf.io/zhf8q)
++ `1200` Confirm BIM4 participation 25-28. &check; [xmg57](https://osf.io/xmg57)
++ `1000` RN6068-01 RBL topics. &check; [1e6c8e5347d3](https://medium.com/@6unpnp/research-based-learning-approach-1e6c8e5347d3)
+
+
 ## 15-wed
 + `1930` Go home after miscom with die alte. &check;
 + `1700` Finish a story for RN6086.&check; [1e6c8e5347d3](https://medium.com/@6unpnp/research-based-learning-approach-1e6c8e5347d3)
